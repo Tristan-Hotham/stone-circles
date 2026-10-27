@@ -1,0 +1,13 @@
+label,tradition,lat,lon,how_located,within_1km,within_5km,within_10km,coast_km
+Almendres,iberia_sw,38.55744,-8.06157,Named in OSM and Wikidata,1,1,3,49.9
+Stonehenge,bi,51.17883,-1.82707,Named in OSM,1,1,1,38.4
+Ring of Brodgar,bi,59.00156,-3.23128,Named in OSM and Wikidata,1,2,2,1.0
+Castlerigg,bi,54.60283,-3.09862,Named in OSM and Wikidata,1,1,1,27.9
+Drombeg,bi,51.56456,-9.08711,Named in OSM and Wikidata,1,1,5,1.1
+Kergonan,brittany,47.59077,-2.85188,Named in OSM,1,1,1,2.1
+Okabe,pyrenees,43.04188,-1.1097,Named in OSM,5,9,29,59.5
+Ale's Stones,ships,55.38286,14.05391,Named in OSM and Wikidata,1,2,2,1.1
+Blomsholm,scandinavia,58.97775,11.24669,Named in OSM,3,6,34,3.9
+Odry,pomerania,53.8984,17.9932,Unnamed OSM circles at 53.898 N 17.993 E; identified as Odry by the OSM board 'Plan sytuacyjny rezerwatu Kregi Kamienne w Odrach' about 100 m away,4,4,4,71.0
+Grzybnica,pomerania,54.0682,16.4365,"OSM 'Krag kamienny 1 to 5' near Koszalin; identified as Grzybnica because medievalheritage.eu gives Grzybnica 5 stone circles near the Koszalin to Poznan road (my identification, not a tag)",6,6,6,27.1
+Wesiory,pomerania,54.21747,17.8402,Named in OSM (Cmentarzysko w Wesiorach),7,7,7,54.1

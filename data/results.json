@@ -1,0 +1,1478 @@
+{
+ "meta": {
+  "title": "Same Shape, Different Millennia",
+  "slug": "stone-circles",
+  "doi": "10.5281/zenodo.23685256",
+  "osm_pull": "27 October 2026",
+  "built": "27 October 2026"
+ },
+ "n": 3451,
+ "n_stone_circle": 3334,
+ "n_ship": 117,
+ "n_countries": 21,
+ "catalogue": {
+  "osm_tagged_rows": 1096,
+  "osm_name_only_candidates": 2415,
+  "osm_name_only_kept": 117,
+  "wikidata_rows_europe": 2585,
+  "merged_by_qid": 180,
+  "merged_by_distance": 98,
+  "merged_total": 278,
+  "osm_internal_duplicates": 48,
+  "distance_merge_sensitivity": {
+   "50": 98,
+   "100": 113,
+   "250": 139
+  },
+  "outside_europe": 12,
+  "modern_excluded": 22,
+  "by_src": {
+   "osm": 870,
+   "wikidata": 2308,
+   "osm+wikidata": 273
+  },
+  "by_evidence": {
+   "osm_tag": 783,
+   "wikidata": 2308,
+   "osm+wikidata": 273,
+   "osm_name": 87
+  },
+  "qid_dist_m_median": 12.736870966111454,
+  "osm_ways": 398
+ },
+ "traditions": {
+  "iberia_sw": {
+   "label": "South-west Iberia",
+   "n": 21,
+   "share": 0.006085192697768763,
+   "coast_km_median": 58.64914574064185,
+   "coast_within_5km": 0.14285714285714285,
+   "nn_km_median": 14.504938662779631,
+   "nn_within_100m": 0.09523809523809523,
+   "nn_within_1km": 0.09523809523809523,
+   "named": 0.9047619047619048,
+   "countries": {
+    "Portugal": 15,
+    "Spain": 6
+   },
+   "n_countries": 2,
+   "src": {
+    "osm": 16,
+    "osm+wikidata": 4,
+    "wikidata": 1
+   },
+   "osm_period_tags": {
+    "n_tagged": 11,
+    "neolithic": 3,
+    "bronze": 10,
+    "iron": 0
+   },
+   "start": -6000,
+   "end": -3000,
+   "core_start": -6000,
+   "core_end": -4000,
+   "what": "Neolithic cromlechs of the Alentejo (e.g. Almendres)",
+   "source": "Wikipedia, Almendres Cromlech",
+   "url": "https://en.wikipedia.org/wiki/Almendres_Cromlech",
+   "span_years": 3000,
+   "dated_circles": 0,
+   "dates": 0
+  },
+  "bi": {
+   "label": "Britain and Ireland",
+   "n": 669,
+   "share": 0.19385685308606201,
+   "coast_km_median": 19.16873241602652,
+   "coast_within_5km": 0.24813153961136025,
+   "nn_km_median": 2.345189326445546,
+   "nn_within_100m": 0.12556053811659193,
+   "nn_within_1km": 0.3303437967115097,
+   "named": 0.8774289985052317,
+   "countries": {
+    "United Kingdom": 569,
+    "Ireland": 96,
+    "Isle of Man": 4
+   },
+   "n_countries": 3,
+   "src": {
+    "osm": 285,
+    "wikidata": 165,
+    "osm+wikidata": 219
+   },
+   "osm_period_tags": {
+    "n_tagged": 59,
+    "neolithic": 30,
+    "bronze": 30,
+    "iron": 4
+   },
+   "start": -3300,
+   "end": -900,
+   "core_start": -3200,
+   "core_end": -2000,
+   "what": "Neolithic and Bronze Age stone circles",
+   "source": "Wikipedia, Stone circles in the British Isles and Brittany (citing Burl)",
+   "url": "https://en.wikipedia.org/wiki/Stone_circles_in_the_British_Isles_and_Brittany",
+   "span_years": 2400,
+   "dated_circles": 37,
+   "dates": 339,
+   "dates_inside_range": 254,
+   "dates_inside_share": 0.7492625368731564
+  },
+  "brittany": {
+   "label": "Brittany",
+   "n": 14,
+   "share": 0.004056795131845842,
+   "coast_km_median": 0.539076151217069,
+   "coast_within_5km": 0.8571428571428571,
+   "nn_km_median": 4.5192927337132165,
+   "nn_within_100m": 0.5,
+   "nn_within_1km": 0.5,
+   "named": 0.5,
+   "countries": {
+    "France": 14
+   },
+   "n_countries": 1,
+   "src": {
+    "osm": 14
+   },
+   "osm_period_tags": {
+    "n_tagged": 2,
+    "neolithic": 2,
+    "bronze": 0,
+    "iron": 0
+   },
+   "start": -3300,
+   "end": -900,
+   "core_start": -3200,
+   "core_end": -2000,
+   "what": "Neolithic circles and horseshoes (e.g. Er Lannic, Kergonan)",
+   "source": "Wikipedia, Stone circles in the British Isles and Brittany",
+   "url": "https://en.wikipedia.org/wiki/Stone_circles_in_the_British_Isles_and_Brittany",
+   "span_years": 2400,
+   "dated_circles": 0,
+   "dates": 0
+  },
+  "pyrenees": {
+   "label": "Pyrenees",
+   "n": 373,
+   "share": 0.10808461315560706,
+   "coast_km_median": 32.90735133270671,
+   "coast_within_5km": 0.010723860589812333,
+   "nn_km_median": 0.20338739863720712,
+   "nn_within_100m": 0.4128686327077748,
+   "nn_within_1km": 0.8364611260053619,
+   "named": 0.9973190348525469,
+   "countries": {
+    "Spain": 304,
+    "France": 69
+   },
+   "n_countries": 2,
+   "src": {
+    "osm": 373
+   },
+   "osm_period_tags": {
+    "n_tagged": 47,
+    "neolithic": 0,
+    "bronze": 1,
+    "iron": 46
+   },
+   "start": -1200,
+   "end": -1,
+   "core_start": -1000,
+   "core_end": -500,
+   "what": "Cromlechs or baratzak: small rings around cremation burials",
+   "source": "Mujika-Alustiza et al. 2018, Munibe Antropologia-Arkeologia 69; and Harrespil (Hispanopedia)",
+   "url": "https://www.aranzadi.eus/fileadmin/docs/Munibe/maa.2018.69.18.pdf",
+   "span_years": 1199,
+   "dated_circles": 3,
+   "dates": 7,
+   "dates_inside_range": 7,
+   "dates_inside_share": 1.0
+  },
+  "ships": {
+   "label": "Ship settings",
+   "n": 117,
+   "share": 0.03390321645899739,
+   "coast_km_median": 2.6909352227052543,
+   "coast_within_5km": 0.6324786324786325,
+   "nn_km_median": 0.8993646592108552,
+   "nn_within_100m": 0.42735042735042733,
+   "nn_within_1km": 0.5128205128205128,
+   "named": 0.46153846153846156,
+   "countries": {
+    "Denmark": 66,
+    "Sweden": 43,
+    "Norway": 4,
+    "Finland": 2,
+    "Estonia": 1,
+    "Germany": 1
+   },
+   "n_countries": 6,
+   "src": {
+    "wikidata": 69,
+    "osm+wikidata": 21,
+    "osm": 27
+   },
+   "osm_period_tags": {
+    "n_tagged": 21,
+    "neolithic": 0,
+    "bronze": 21,
+    "iron": 0
+   },
+   "start": -1000,
+   "end": 1000,
+   "core_start": -1000,
+   "core_end": -500,
+   "what": "Stone ships of Scandinavia and the Baltic",
+   "source": "Wikipedia, Stone ship",
+   "url": "https://en.wikipedia.org/wiki/Stone_ship",
+   "span_years": 2000,
+   "dated_circles": 2,
+   "dates": 9,
+   "dates_inside_range": 6,
+   "dates_inside_share": 0.6666666666666666
+  },
+  "scandinavia": {
+   "label": "Scandinavia and Finland",
+   "n": 2143,
+   "share": 0.62097942625326,
+   "coast_km_median": 62.59459986653179,
+   "coast_within_5km": 0.20158656089594026,
+   "nn_km_median": 0.5961942516164938,
+   "nn_within_100m": 0.38637424171721885,
+   "nn_within_1km": 0.5748950069995333,
+   "named": 0.03873075128324778,
+   "countries": {
+    "Sweden": 2129,
+    "Norway": 10,
+    "Finland": 3,
+    "Denmark": 1
+   },
+   "n_countries": 4,
+   "src": {
+    "osm": 59,
+    "wikidata": 2060,
+    "osm+wikidata": 24
+   },
+   "osm_period_tags": {
+    "n_tagged": 7,
+    "neolithic": 0,
+    "bronze": 4,
+    "iron": 4
+   },
+   "start": -500,
+   "end": 400,
+   "core_start": -500,
+   "core_end": 400,
+   "what": "Iron Age judge's rings (domarringar)",
+   "source": "Wikipedia, Stone circle (Iron Age)",
+   "url": "https://en.wikipedia.org/wiki/Stone_circle_(Iron_Age)",
+   "span_years": 900,
+   "dated_circles": 1,
+   "dates": 1,
+   "dates_inside_range": 0,
+   "dates_inside_share": 0.0
+  },
+  "pomerania": {
+   "label": "Pomerania",
+   "n": 24,
+   "share": 0.006954505940307157,
+   "coast_km_median": 54.20454976844202,
+   "coast_within_5km": 0.041666666666666664,
+   "nn_km_median": 0.04589660589736275,
+   "nn_within_100m": 0.75,
+   "nn_within_1km": 0.9166666666666666,
+   "named": 0.6666666666666666,
+   "countries": {
+    "Poland": 24
+   },
+   "n_countries": 1,
+   "src": {
+    "osm": 24
+   },
+   "osm_period_tags": {
+    "n_tagged": 1,
+    "neolithic": 0,
+    "bronze": 0,
+    "iron": 1
+   },
+   "start": 75,
+   "end": 400,
+   "core_start": 75,
+   "core_end": 200,
+   "what": "Gothic (Wielbark culture) stone circles, e.g. Odry, Wesiory, Grzybnica",
+   "source": "Wikipedia, Wielbark culture",
+   "url": "https://en.wikipedia.org/wiki/Wielbark_culture",
+   "span_years": 325,
+   "dated_circles": 0,
+   "dates": 0
+  },
+  "other": {
+   "label": "Elsewhere",
+   "n": 90,
+   "share": 0.02607939727615184,
+   "coast_km_median": 104.94965633593509,
+   "coast_within_5km": 0.08888888888888889,
+   "nn_km_median": 42.01719958744077,
+   "nn_within_100m": 0.07777777777777778,
+   "nn_within_1km": 0.2222222222222222,
+   "named": 0.8222222222222222,
+   "countries": {
+    "France": 24,
+    "Germany": 20,
+    "Spain": 11,
+    "Czech Republic": 8,
+    "Austria": 7,
+    "Italy": 7,
+    "Bulgaria": 3,
+    "Poland": 3,
+    "Ukraine": 3,
+    "Switzerland": 2,
+    "Malta": 1,
+    "Russia": 1
+   },
+   "n_countries": 12,
+   "src": {
+    "osm": 72,
+    "osm+wikidata": 5,
+    "wikidata": 13
+   },
+   "osm_period_tags": {
+    "n_tagged": 12,
+    "neolithic": 8,
+    "bronze": 2,
+    "iron": 3
+   },
+   "dated_circles": 0,
+   "dates": 0
+  }
+ },
+ "order": [
+  "iberia_sw",
+  "bi",
+  "brittany",
+  "pyrenees",
+  "ships",
+  "scandinavia",
+  "pomerania",
+  "other"
+ ],
+ "headline": {
+  "scandinavia_share": 0.62097942625326,
+  "scandinavia_n": 2143,
+  "sweden_n": 2172,
+  "sweden_wikidata_only": 2066,
+  "sweden_wikidata_share": 0.9511970534069981,
+  "sweden_per_10k": 48.68,
+  "uk_per_10k": 23.34,
+  "ireland_per_10k": 13.82,
+  "uk_n": 569,
+  "ireland_n": 96,
+  "bi_brittany_n": 683,
+  "burl_count": 1300,
+  "bi_coverage_share": 0.5253846153846153,
+  "atlantic_prehistoric_n": 704,
+  "atlantic_prehistoric_share": 0.2039988409156766,
+  "late_n": 2657,
+  "late_share": 0.7699217618081715,
+  "first_year": -6000,
+  "last_year": 400,
+  "span_years": 6400,
+  "almendres_odry_km": 2605,
+  "almendres_to_odry_years": 6075,
+  "bi_scand_gap_years": 400,
+  "bi_scand_km": 410.6,
+  "bi_scand_a": "Hjaltadans",
+  "bi_scand_b": "Domsteinane på Sola",
+  "scand_pom_km": 185.5,
+  "scand_pom_overlap": 325,
+  "bi_pyr_km": 796.5,
+  "bi_pyr_overlap": 300,
+  "iberia_bi_km": 1000.0,
+  "iberia_bi_overlap": 300,
+  "iberia_pyr_km": 178.1,
+  "iberia_pyr_gap": 1800,
+  "bi_brit_km": 116.3
+ },
+ "gaps": [
+  {
+   "a": "iberia_sw",
+   "b": "bi",
+   "min_km": 1000.0,
+   "a_name": "Crómlech de Cantos Blancos",
+   "b_name": "The Merry Maidens Stone Circle",
+   "a_country": "Spain",
+   "b_country": "United Kingdom",
+   "years_gap": -300
+  },
+  {
+   "a": "iberia_sw",
+   "b": "brittany",
+   "min_km": 717.8,
+   "a_name": "Crómlech de Cantos Blancos",
+   "b_name": "Cromlech de Kerbourgnec",
+   "a_country": "Spain",
+   "b_country": "France",
+   "years_gap": -300
+  },
+  {
+   "a": "bi",
+   "b": "brittany",
+   "min_km": 116.3,
+   "a_name": "Rempstone Stone Circle",
+   "b_name": "Cromlech de Vasteville",
+   "a_country": "United Kingdom",
+   "b_country": "France",
+   "years_gap": -2400
+  },
+  {
+   "a": "iberia_sw",
+   "b": "pyrenees",
+   "min_km": 178.1,
+   "a_name": "",
+   "b_name": "Cromlechs du Mail de Soupène",
+   "a_country": "Spain",
+   "b_country": "France",
+   "years_gap": 1800
+  },
+  {
+   "a": "bi",
+   "b": "pyrenees",
+   "min_km": 796.5,
+   "a_name": "stone circle",
+   "b_name": "Cromlech Jaizkibel V",
+   "a_country": "United Kingdom",
+   "b_country": "Spain",
+   "years_gap": -300
+  },
+  {
+   "a": "bi",
+   "b": "scandinavia",
+   "min_km": 410.6,
+   "a_name": "Hjaltadans",
+   "b_name": "Domsteinane på Sola",
+   "a_country": "United Kingdom",
+   "b_country": "Norway",
+   "years_gap": 400
+  },
+  {
+   "a": "bi",
+   "b": "ships",
+   "min_km": 629.2,
+   "a_name": "Harwood Dale",
+   "b_name": "Skibssætning Bække",
+   "a_country": "United Kingdom",
+   "b_country": "Denmark",
+   "years_gap": -100
+  },
+  {
+   "a": "ships",
+   "b": "scandinavia",
+   "min_km": 0.0,
+   "a_name": "Fårö 14:1",
+   "b_name": "",
+   "a_country": "Sweden",
+   "b_country": "Sweden",
+   "years_gap": -900
+  },
+  {
+   "a": "scandinavia",
+   "b": "pomerania",
+   "min_km": 185.5,
+   "a_name": "",
+   "b_name": "Groby Olbrzymów",
+   "a_country": "Sweden",
+   "b_country": "Poland",
+   "years_gap": -325
+  },
+  {
+   "a": "ships",
+   "b": "pomerania",
+   "min_km": 136.8,
+   "a_name": "",
+   "b_name": "Groby Olbrzymów",
+   "a_country": "Denmark",
+   "b_country": "Poland",
+   "years_gap": -325
+  },
+  {
+   "a": "pyrenees",
+   "b": "scandinavia",
+   "min_km": 1605.5,
+   "a_name": "Cromlech du Port de Pierrefite",
+   "b_name": "Broby Vesterskov Stensætning",
+   "a_country": "France",
+   "b_country": "Denmark",
+   "years_gap": -499
+  }
+ ],
+ "dates": {
+  "n_dates": 356,
+  "n_linked_sites": 55,
+  "n_circles": 43,
+  "audit_links": 115,
+  "bi_circles": 37,
+  "bi_inside": 30,
+  "bi_inside_share": 0.8108108108108109,
+  "bi_earliest": -3208,
+  "bi_latest": 512,
+  "bi_median": -1657,
+  "pyr_circles": 3,
+  "pyr_earliest": -890,
+  "pyr_latest": -804,
+  "pyr_dates": 7,
+  "per_circle": [
+   {
+    "id": "SC00619",
+    "name": "Tursachan",
+    "tradition": "bi",
+    "n": 1,
+    "sites": [
+     "Great Bernera 'tursachan' Barraglom"
+    ],
+    "earliest_median": -3208,
+    "latest_median": -3208,
+    "median_of_medians": -3208
+   },
+   {
+    "id": "SC00579",
+    "name": "Stones of Stenness",
+    "tradition": "bi",
+    "n": 10,
+    "sites": [
+     "Stones of Stenness Orkney"
+    ],
+    "earliest_median": -2977,
+    "latest_median": 616,
+    "median_of_medians": -2826
+   },
+   {
+    "id": "SC00578",
+    "name": "Stonehenge",
+    "tradition": "bi",
+    "n": 105,
+    "sites": [
+     "Stonehenge",
+     "Stonehenge Amesbury"
+    ],
+    "earliest_median": -8004,
+    "latest_median": 1565,
+    "median_of_medians": -2758
+   },
+   {
+    "id": "SC00233",
+    "name": "Callanish XIX",
+    "tradition": "bi",
+    "n": 16,
+    "sites": [
+     "Callanish Lewis"
+    ],
+    "earliest_median": -3010,
+    "latest_median": -1815,
+    "median_of_medians": -2679
+   },
+   {
+    "id": "SC00180",
+    "name": "Beaghmore Stone Circle A",
+    "tradition": "bi",
+    "n": 18,
+    "sites": [
+     "Beaghmore"
+    ],
+    "earliest_median": -5876,
+    "latest_median": -107,
+    "median_of_medians": -2532
+   },
+   {
+    "id": "SC00162",
+    "name": "Avebury Stone Circle",
+    "tradition": "bi",
+    "n": 18,
+    "sites": [
+     "Avebury",
+     "Avebury 1985/86"
+    ],
+    "earliest_median": -4628,
+    "latest_median": 1270,
+    "median_of_medians": -2519
+   },
+   {
+    "id": "SC00604",
+    "name": "The Sanctuary",
+    "tradition": "bi",
+    "n": 1,
+    "sites": [
+     "Sanctuary"
+    ],
+    "earliest_median": -2362,
+    "latest_median": -2362,
+    "median_of_medians": -2362
+   },
+   {
+    "id": "SC00402",
+    "name": "Machrie Moor Stone Circle 1",
+    "tradition": "bi",
+    "n": 11,
+    "sites": [
+     "Machrie Moor Arran",
+     "Machrie North Arran"
+    ],
+    "earliest_median": -3180,
+    "latest_median": 534,
+    "median_of_medians": -2293
+   },
+   {
+    "id": "SC00217",
+    "name": "Bryn Gwyn stones",
+    "tradition": "bi",
+    "n": 4,
+    "sites": [
+     "Castell Bryn Gwyn"
+    ],
+    "earliest_median": -2923,
+    "latest_median": -762,
+    "median_of_medians": -2217
+   },
+   {
+    "id": "SC00219",
+    "name": "Caer Euni Stone Circles",
+    "tradition": "bi",
+    "n": 2,
+    "sites": [
+     "Cefn Caer Euni",
+     "Cefn Caer Euni site 1"
+    ],
+    "earliest_median": -2712,
+    "latest_median": -1667,
+    "median_of_medians": -2189
+   },
+   {
+    "id": "SC00451",
+    "name": "Old Rayne stone circle",
+    "tradition": "bi",
+    "n": 1,
+    "sites": [
+     "Old Rayne"
+    ],
+    "earliest_median": -2079,
+    "latest_median": -2079,
+    "median_of_medians": -2079
+   },
+   {
+    "id": "SC00208",
+    "name": "Broomend of Crichie Stone Circle / Henge",
+    "tradition": "bi",
+    "n": 16,
+    "sites": [
+     "Broomend of Crichie"
+    ],
+    "earliest_median": -4099,
+    "latest_median": -1583,
+    "median_of_medians": -2075
+   },
+   {
+    "id": "SC00285",
+    "name": "Devil's Quoits",
+    "tradition": "bi",
+    "n": 4,
+    "sites": [
+     "Devil's Quoit",
+     "Devil's Quoits"
+    ],
+    "earliest_median": -2542,
+    "latest_median": -1623,
+    "median_of_medians": -2049
+   },
+   {
+    "id": "SC00613",
+    "name": "Torbreck, stone circle SW of",
+    "tradition": "bi",
+    "n": 1,
+    "sites": [
+     "West Torbreck south-west Inverness"
+    ],
+    "earliest_median": -1943,
+    "latest_median": -1943,
+    "median_of_medians": -1943
+   },
+   {
+    "id": "SC00299",
+    "name": "Duddo Five Stones",
+    "tradition": "bi",
+    "n": 4,
+    "sites": [
+     "Duddo"
+    ],
+    "earliest_median": -2092,
+    "latest_median": -765,
+    "median_of_medians": -1835
+   },
+   {
+    "id": "SC00454",
+    "name": "Park Of Tongland Stones",
+    "tradition": "bi",
+    "n": 8,
+    "sites": [
+     "Park Tongland"
+    ],
+    "earliest_median": -1904,
+    "latest_median": -1294,
+    "median_of_medians": -1765
+   },
+   {
+    "id": "SC00374",
+    "name": "King's Men stone circle",
+    "tradition": "bi",
+    "n": 4,
+    "sites": [
+     "King Stone",
+     "Rollright Stones (King Stone)"
+    ],
+    "earliest_median": -1809,
+    "latest_median": -1603,
+    "median_of_medians": -1727
+   },
+   {
+    "id": "SC00190",
+    "name": "Berrybrae Stone Circle",
+    "tradition": "bi",
+    "n": 2,
+    "sites": [
+     "Berrybrae"
+    ],
+    "earliest_median": -1759,
+    "latest_median": -1592,
+    "median_of_medians": -1675
+   },
+   {
+    "id": "SC00552",
+    "name": "Stone Circle, Cefn Coch",
+    "tradition": "bi",
+    "n": 1,
+    "sites": [
+     "Cefn Coch"
+    ],
+    "earliest_median": -1657,
+    "latest_median": -1657,
+    "median_of_medians": -1657
+   },
+   {
+    "id": "SC00167",
+    "name": "Balbirnie stone circle (original site)",
+    "tradition": "bi",
+    "n": 21,
+    "sites": [
+     "Balbirnie"
+    ],
+    "earliest_median": -3079,
+    "latest_median": -1013,
+    "median_of_medians": -1649
+   },
+   {
+    "id": "SC00463",
+    "name": "Penmaenmawr Stone Circle, F",
+    "tradition": "bi",
+    "n": 2,
+    "sites": [
+     "Penmaenmawr"
+    ],
+    "earliest_median": -1793,
+    "latest_median": -1309,
+    "median_of_medians": -1551
+   },
+   {
+    "id": "SC00504",
+    "name": "Stannon Stone Circle",
+    "tradition": "bi",
+    "n": 15,
+    "sites": [
+     "Stannon Down St Breward"
+    ],
+    "earliest_median": -4171,
+    "latest_median": -130,
+    "median_of_medians": -1477
+   },
+   {
+    "id": "SC00591",
+    "name": "Temple Wood Stone Circle",
+    "tradition": "bi",
+    "n": 15,
+    "sites": [
+     "Temple Wood",
+     "Temple Wood Kilmartin"
+    ],
+    "earliest_median": -3827,
+    "latest_median": 1756,
+    "median_of_medians": -1288
+   },
+   {
+    "id": "SC00584",
+    "name": "Strontoiller circle",
+    "tradition": "bi",
+    "n": 1,
+    "sites": [
+     "Strontoiller"
+    ],
+    "earliest_median": -1130,
+    "latest_median": -1130,
+    "median_of_medians": -1130
+   },
+   {
+    "id": "SC00668",
+    "name": "stone circle 950m NNE of Achinduich",
+    "tradition": "bi",
+    "n": 4,
+    "sites": [
+     "Achinduich"
+    ],
+    "earliest_median": -1413,
+    "latest_median": -395,
+    "median_of_medians": -1094
+   },
+   {
+    "id": "SC00151",
+    "name": "Aikey Brae",
+    "tradition": "bi",
+    "n": 2,
+    "sites": [
+     "Aikey Brae"
+    ],
+    "earliest_median": -1039,
+    "latest_median": -1023,
+    "median_of_medians": -1031
+   },
+   {
+    "id": "SC00480",
+    "name": "Sandy Road stone circle",
+    "tradition": "bi",
+    "n": 1,
+    "sites": [
+     "Sandy Road Scone"
+    ],
+    "earliest_median": -1007,
+    "latest_median": -1007,
+    "median_of_medians": -1007
+   },
+   {
+    "id": "SC00267",
+    "name": "Corrydown",
+    "tradition": "bi",
+    "n": 1,
+    "sites": [
+     "Corrydown Gartley Aberdeen"
+    ],
+    "earliest_median": -998,
+    "latest_median": -998,
+    "median_of_medians": -998
+   },
+   {
+    "id": "SC00449",
+    "name": "Old Keig stone circle remains",
+    "tradition": "bi",
+    "n": 1,
+    "sites": [
+     "Old Keig"
+    ],
+    "earliest_median": -976,
+    "latest_median": -976,
+    "median_of_medians": -976
+   },
+   {
+    "id": "SC00440",
+    "name": "Nine Stanes Stone Circle",
+    "tradition": "bi",
+    "n": 1,
+    "sites": [
+     "The Nine Stanes Garrol"
+    ],
+    "earliest_median": -971,
+    "latest_median": -971,
+    "median_of_medians": -971
+   },
+   {
+    "id": "SC00280",
+    "name": "Cultoon,stone circle 500m SW of",
+    "tradition": "bi",
+    "n": 3,
+    "sites": [
+     "Cultoon",
+     "Cultoon Islay"
+    ],
+    "earliest_median": -1224,
+    "latest_median": -824,
+    "median_of_medians": -863
+   },
+   {
+    "id": "SC00479",
+    "name": "Rullion Green,stone circle",
+    "tradition": "bi",
+    "n": 1,
+    "sites": [
+     "Rullion Green"
+    ],
+    "earliest_median": -637,
+    "latest_median": -637,
+    "median_of_medians": -637
+   },
+   {
+    "id": "SC00582",
+    "name": "Strichen Stone Circle",
+    "tradition": "bi",
+    "n": 3,
+    "sites": [
+     "Strichen"
+    ],
+    "earliest_median": -1693,
+    "latest_median": -487,
+    "median_of_medians": -582
+   },
+   {
+    "id": "SC00302",
+    "name": "Dunnideer Stone Circle",
+    "tradition": "bi",
+    "n": 2,
+    "sites": [
+     "Dunnideer"
+    ],
+    "earliest_median": -277,
+    "latest_median": -270,
+    "median_of_medians": -273
+   },
+   {
+    "id": "SC00060",
+    "name": "Drombeg Stone Circle",
+    "tradition": "bi",
+    "n": 6,
+    "sites": [
+     "Drombeg"
+    ],
+    "earliest_median": -902,
+    "latest_median": 703,
+    "median_of_medians": -32
+   },
+   {
+    "id": "SC00612",
+    "name": "Tomnaverie Stone Circle",
+    "tradition": "bi",
+    "n": 18,
+    "sites": [
+     "Tomnaverie"
+    ],
+    "earliest_median": -2510,
+    "latest_median": 1565,
+    "median_of_medians": 236
+   },
+   {
+    "id": "SC00501",
+    "name": "Standing Stones of Lundin",
+    "tradition": "bi",
+    "n": 15,
+    "sites": [
+     "Lundin Links"
+    ],
+    "earliest_median": -444,
+    "latest_median": 943,
+    "median_of_medians": 512
+   },
+   {
+    "id": "SC00821",
+    "name": "Apatesaro Hego",
+    "tradition": "pyrenees",
+    "n": 5,
+    "sites": [
+     "Apatesaro 1",
+     "Apatesaro 1 bis",
+     "Apatesaro 4",
+     "Apatesaro 5",
+     "Apatesaro 6"
+    ],
+    "earliest_median": -1115,
+    "latest_median": -701,
+    "median_of_medians": -890
+   },
+   {
+    "id": "SC00838",
+    "name": "Cromlech Millagate",
+    "tradition": "pyrenees",
+    "n": 1,
+    "sites": [
+     "Millagate 5"
+    ],
+    "earliest_median": -882,
+    "latest_median": -882,
+    "median_of_medians": -882
+   },
+   {
+    "id": "SC00884",
+    "name": "Zaho Hegoalde",
+    "tradition": "pyrenees",
+    "n": 1,
+    "sites": [
+     "Zaho 2"
+    ],
+    "earliest_median": -804,
+    "latest_median": -804,
+    "median_of_medians": -804
+   },
+   {
+    "id": "SC01202",
+    "name": "Hunn (Steinringfeltet)",
+    "tradition": "scandinavia",
+    "n": 1,
+    "sites": [
+     "Hunn"
+    ],
+    "earliest_median": 1466,
+    "latest_median": 1466,
+    "median_of_medians": 1466
+   },
+   {
+    "id": "SC03450",
+    "name": "Vätteryd",
+    "tradition": "ships",
+    "n": 3,
+    "sites": [
+     "Vätteryd"
+    ],
+    "earliest_median": -3419,
+    "latest_median": -3245,
+    "median_of_medians": -3245
+   },
+   {
+    "id": "SC03407",
+    "name": "Istrehågan steinsetting",
+    "tradition": "ships",
+    "n": 6,
+    "sites": [
+     "Istrehågan"
+    ],
+    "earliest_median": -902,
+    "latest_median": 602,
+    "median_of_medians": 517
+   }
+  ]
+ },
+ "by_country": [
+  {
+   "country": "Sweden",
+   "n": 2172,
+   "per_10k_km2": 48.68,
+   "wikidata_only": 2066,
+   "osm_only": 70,
+   "both": 36,
+   "traditions": {
+    "scandinavia": 2129,
+    "ships": 43
+   }
+  },
+  {
+   "country": "United Kingdom",
+   "n": 569,
+   "per_10k_km2": 23.34,
+   "wikidata_only": 151,
+   "osm_only": 230,
+   "both": 188,
+   "traditions": {
+    "bi": 569
+   }
+  },
+  {
+   "country": "Spain",
+   "n": 321,
+   "per_10k_km2": 6.43,
+   "wikidata_only": 0,
+   "osm_only": 320,
+   "both": 1,
+   "traditions": {
+    "iberia_sw": 6,
+    "other": 11,
+    "pyrenees": 304
+   }
+  },
+  {
+   "country": "France",
+   "n": 107,
+   "per_10k_km2": 1.95,
+   "wikidata_only": 0,
+   "osm_only": 107,
+   "both": 0,
+   "traditions": {
+    "brittany": 14,
+    "other": 24,
+    "pyrenees": 69
+   }
+  },
+  {
+   "country": "Ireland",
+   "n": 96,
+   "per_10k_km2": 13.82,
+   "wikidata_only": 14,
+   "osm_only": 51,
+   "both": 31,
+   "traditions": {
+    "bi": 96
+   }
+  },
+  {
+   "country": "Denmark",
+   "n": 67,
+   "per_10k_km2": 15.69,
+   "wikidata_only": 58,
+   "osm_only": 2,
+   "both": 7,
+   "traditions": {
+    "scandinavia": 1,
+    "ships": 66
+   }
+  },
+  {
+   "country": "Poland",
+   "n": 27,
+   "per_10k_km2": 0.86,
+   "wikidata_only": 0,
+   "osm_only": 27,
+   "both": 0,
+   "traditions": {
+    "other": 3,
+    "pomerania": 24
+   }
+  },
+  {
+   "country": "Germany",
+   "n": 21,
+   "per_10k_km2": 0.59,
+   "wikidata_only": 4,
+   "osm_only": 15,
+   "both": 2,
+   "traditions": {
+    "other": 20,
+    "ships": 1
+   }
+  },
+  {
+   "country": "Portugal",
+   "n": 15,
+   "per_10k_km2": 1.66,
+   "wikidata_only": 1,
+   "osm_only": 10,
+   "both": 4,
+   "traditions": {
+    "iberia_sw": 15
+   }
+  },
+  {
+   "country": "Norway",
+   "n": 14,
+   "per_10k_km2": 0.44,
+   "wikidata_only": 2,
+   "osm_only": 10,
+   "both": 2,
+   "traditions": {
+    "scandinavia": 10,
+    "ships": 4
+   }
+  },
+  {
+   "country": "Czech Republic",
+   "n": 8,
+   "per_10k_km2": 1.02,
+   "wikidata_only": 8,
+   "osm_only": 0,
+   "both": 0,
+   "traditions": {
+    "other": 8
+   }
+  },
+  {
+   "country": "Austria",
+   "n": 7,
+   "per_10k_km2": 0.83,
+   "wikidata_only": 0,
+   "osm_only": 6,
+   "both": 1,
+   "traditions": {
+    "other": 7
+   }
+  },
+  {
+   "country": "Italy",
+   "n": 7,
+   "per_10k_km2": 0.23,
+   "wikidata_only": 0,
+   "osm_only": 6,
+   "both": 1,
+   "traditions": {
+    "other": 7
+   }
+  },
+  {
+   "country": "Finland",
+   "n": 5,
+   "per_10k_km2": 0.15,
+   "wikidata_only": 2,
+   "osm_only": 3,
+   "both": 0,
+   "traditions": {
+    "scandinavia": 3,
+    "ships": 2
+   }
+  },
+  {
+   "country": "Isle of Man",
+   "n": 4,
+   "per_10k_km2": 69.59,
+   "wikidata_only": 0,
+   "osm_only": 4,
+   "both": 0,
+   "traditions": {
+    "bi": 4
+   }
+  },
+  {
+   "country": "Bulgaria",
+   "n": 3,
+   "per_10k_km2": 0.27,
+   "wikidata_only": 0,
+   "osm_only": 3,
+   "both": 0,
+   "traditions": {
+    "other": 3
+   }
+  },
+  {
+   "country": "Ukraine",
+   "n": 3,
+   "per_10k_km2": 0.05,
+   "wikidata_only": 0,
+   "osm_only": 3,
+   "both": 0,
+   "traditions": {
+    "other": 3
+   }
+  },
+  {
+   "country": "Switzerland",
+   "n": 2,
+   "per_10k_km2": 0.48,
+   "wikidata_only": 0,
+   "osm_only": 2,
+   "both": 0,
+   "traditions": {
+    "other": 2
+   }
+  },
+  {
+   "country": "Estonia",
+   "n": 1,
+   "per_10k_km2": 0.22,
+   "wikidata_only": 1,
+   "osm_only": 0,
+   "both": 0,
+   "traditions": {
+    "ships": 1
+   }
+  },
+  {
+   "country": "Malta",
+   "n": 1,
+   "per_10k_km2": 30.7,
+   "wikidata_only": 1,
+   "osm_only": 0,
+   "both": 0,
+   "traditions": {
+    "other": 1
+   }
+  },
+  {
+   "country": "Russia",
+   "n": 1,
+   "per_10k_km2": 0.0,
+   "wikidata_only": 0,
+   "osm_only": 1,
+   "both": 0,
+   "traditions": {
+    "other": 1
+   }
+  }
+ ],
+ "famous": [
+  {
+   "label": "Almendres",
+   "tradition": "iberia_sw",
+   "lat": 38.55744,
+   "lon": -8.06157,
+   "how_located": "Named in OSM and Wikidata",
+   "within_1km": 1,
+   "within_5km": 1,
+   "within_10km": 3,
+   "coast_km": 49.9
+  },
+  {
+   "label": "Stonehenge",
+   "tradition": "bi",
+   "lat": 51.17883,
+   "lon": -1.82707,
+   "how_located": "Named in OSM",
+   "within_1km": 1,
+   "within_5km": 1,
+   "within_10km": 1,
+   "coast_km": 38.4
+  },
+  {
+   "label": "Ring of Brodgar",
+   "tradition": "bi",
+   "lat": 59.00156,
+   "lon": -3.23128,
+   "how_located": "Named in OSM and Wikidata",
+   "within_1km": 1,
+   "within_5km": 2,
+   "within_10km": 2,
+   "coast_km": 1.0
+  },
+  {
+   "label": "Castlerigg",
+   "tradition": "bi",
+   "lat": 54.60283,
+   "lon": -3.09862,
+   "how_located": "Named in OSM and Wikidata",
+   "within_1km": 1,
+   "within_5km": 1,
+   "within_10km": 1,
+   "coast_km": 27.9
+  },
+  {
+   "label": "Drombeg",
+   "tradition": "bi",
+   "lat": 51.56456,
+   "lon": -9.08711,
+   "how_located": "Named in OSM and Wikidata",
+   "within_1km": 1,
+   "within_5km": 1,
+   "within_10km": 5,
+   "coast_km": 1.1
+  },
+  {
+   "label": "Kergonan",
+   "tradition": "brittany",
+   "lat": 47.59077,
+   "lon": -2.85188,
+   "how_located": "Named in OSM",
+   "within_1km": 1,
+   "within_5km": 1,
+   "within_10km": 1,
+   "coast_km": 2.1
+  },
+  {
+   "label": "Okabe",
+   "tradition": "pyrenees",
+   "lat": 43.04188,
+   "lon": -1.1097,
+   "how_located": "Named in OSM",
+   "within_1km": 5,
+   "within_5km": 9,
+   "within_10km": 29,
+   "coast_km": 59.5
+  },
+  {
+   "label": "Ale's Stones",
+   "tradition": "ships",
+   "lat": 55.38286,
+   "lon": 14.05391,
+   "how_located": "Named in OSM and Wikidata",
+   "within_1km": 1,
+   "within_5km": 2,
+   "within_10km": 2,
+   "coast_km": 1.1
+  },
+  {
+   "label": "Blomsholm",
+   "tradition": "scandinavia",
+   "lat": 58.97775,
+   "lon": 11.24669,
+   "how_located": "Named in OSM",
+   "within_1km": 3,
+   "within_5km": 6,
+   "within_10km": 34,
+   "coast_km": 3.9
+  },
+  {
+   "label": "Odry",
+   "tradition": "pomerania",
+   "lat": 53.8984,
+   "lon": 17.9932,
+   "how_located": "Unnamed OSM circles at 53.898 N 17.993 E; identified as Odry by the OSM board 'Plan sytuacyjny rezerwatu Kregi Kamienne w Odrach' about 100 m away",
+   "within_1km": 4,
+   "within_5km": 4,
+   "within_10km": 4,
+   "coast_km": 71.0
+  },
+  {
+   "label": "Grzybnica",
+   "tradition": "pomerania",
+   "lat": 54.0682,
+   "lon": 16.4365,
+   "how_located": "OSM 'Krag kamienny 1 to 5' near Koszalin; identified as Grzybnica because medievalheritage.eu gives Grzybnica 5 stone circles near the Koszalin to Poznan road (my identification, not a tag)",
+   "within_1km": 6,
+   "within_5km": 6,
+   "within_10km": 6,
+   "coast_km": 27.1
+  },
+  {
+   "label": "Wesiory",
+   "tradition": "pomerania",
+   "lat": 54.21747,
+   "lon": 17.8402,
+   "how_located": "Named in OSM (Cmentarzysko w Wesiorach)",
+   "within_1km": 7,
+   "within_5km": 7,
+   "within_10km": 7,
+   "coast_km": 54.1
+  }
+ ],
+ "landscape": {
+  "n_circles": 669,
+  "null_per_circle": 10,
+  "n_null": 6690,
+  "elev": {
+   "circle_median": 192.28305053710938,
+   "null_median": 175.79042053222656,
+   "diff_median": 5.46392822265625,
+   "share_above_null_median": 0.5695067264573991,
+   "wilcoxon_p": 0.009723437950015068
+  },
+  "local_rank": {
+   "circle_median": 0.6083333333333333,
+   "null_median": 0.5083333333333333,
+   "diff_median": 0.10166666666666663,
+   "share_above_null_median": 0.648729446935725,
+   "wilcoxon_p": 5.841032555652486e-20
+  },
+  "view": {
+   "circle_median": 0.22777777777777777,
+   "null_median": 0.20833333333333334,
+   "diff_median": 0.013888888888888895,
+   "share_above_null_median": 0.5979073243647235,
+   "wilcoxon_p": 8.911585840554859e-07
+  },
+  "share_top_quarter_local": 0.2795216741405082,
+  "null_share_top_quarter_local": 0.14050822122571002,
+  "share_above_300m": 0.25411061285500747,
+  "null_share_above_300m": 0.23408071748878923,
+  "by_country": {
+   "Ireland": {
+    "n": 96,
+    "view_circle": 0.24444444444444444,
+    "view_null": 0.23777777777777778,
+    "elev_circle": 106.80867767333984,
+    "share_above": 0.59375
+   },
+   "United Kingdom": {
+    "n": 569,
+    "view_circle": 0.225,
+    "view_null": 0.21222222222222223,
+    "elev_circle": 210.77821350097656,
+    "share_above": 0.5975395430579965
+   }
+  }
+ }
+}

@@ -1,0 +1,2416 @@
+osm,name,hist,kept,lat,lon
+node/101397008,Dolmen / Cromlech,archaeological_site,0,51.998967,-4.77003
+node/10634665942,Maughanasilly Stone Row,archaeological_site,0,51.7704,-9.386778
+node/10686341140,Domarring,archaeological_site,1,58.368077,15.559978
+node/10730969889,Stonehead stone circle remains,archaeological_site,1,57.347026,-2.664647
+node/11396546827,Cromlech,archaeological_site,0,53.871242,-7.303061
+node/12070679954,Ravensdale Stone Circle,archaeological_site,1,54.07803,-6.344809
+node/12167730056,Stone Circle,ruins,1,53.395808,-4.460711
+node/13641100414,Stone Row,archaeological_site,0,53.782003,-9.603653
+node/2080375366,Stone Rows,archaeological_site,0,50.658538,-3.897804
+node/2125095279,Dolmen et cromlech de Sénevaut,archaeological_site,1,46.6638,1.257054
+node/2318452000,Moss Farm Road Stone Circle,archaeological_site,0,55.542272,-5.32904
+node/2479032067,Cromlech de Kerbourgnec,archaeological_site,1,47.515883,-3.130323
+node/2919219588,Stone Circle,archaeological_site,1,52.771386,-4.052302
+node/2927386464,Cerrig Arthur Stone Circle,archaeological_site,1,52.750073,-4.028702
+node/3364251552,Menhir central du Cromlech de Lacam de Peyrarines,archaeological_site,0,43.926086,3.530631
+node/3364742797,Menhir central du Cromlech de Lacam de Rogues A,archaeological_site,0,43.894151,3.563837
+node/4401534175,Dolmen et cromlech de La Pierre,archaeological_site,1,46.996817,1.541591
+node/4612470295,Cromlech Gaztelamendi,archaeological_site,1,42.801413,-2.352778
+node/4683280920,Cromlech Iraungo ataka,archaeological_site,1,43.15845,-1.787596
+node/473153792,Derreenataggart Stone Circle,archaeological_site,1,51.653848,-9.928961
+node/5462711417,Cromlech,archaeological_site,1,47.740391,-0.772433
+node/5622327928,Stone Row,archaeological_site,0,51.586985,-9.695293
+node/568478366,Cosdon Hill Multiple Stone Rows,archaeological_site,0,50.708073,-3.922664
+node/5838296826,Stone Circle,archaeological_site,1,56.674479,-3.114368
+node/7091789476,Bryn Beddau Stone Circle,archaeological_site,1,53.066644,-3.41771
+node/7091798768,Capel Hiraddug III Stone Circle,archaeological_site,1,53.078916,-3.445334
+node/7262646990,Area archeologica dei Cromlech,archaeological_site,0,45.707183,8.697349
+node/8988504569,Bedd Gorfal Stone Circle,archaeological_site,1,52.859854,-4.061465
+node/8991371227,Stone Row,archaeological_site,0,52.896695,-4.015724
+node/9367313786,Llecheiddior Stone Circle,archaeological_site,1,52.775422,-4.060181
+node/9368740226,Stone Circle,archaeological_site,1,52.772038,-4.052601
+node/9376147915,Stone Circle,archaeological_site,1,52.80326,-4.059099
+relation/19023032,Cromlech Sept Bonettes,archaeological_site,1,50.2771034,2.9748252
+way/1041545236,Hart Tor North stone rows,archaeological_site,0,50.5275713,-4.0105398
+way/1041545239,Hart Tor North stone rows,archaeological_site,0,50.5275117,-4.0097354
+way/1041551744,Hart Tor North stone rows,archaeological_site,0,50.5275545,-4.0105166
+way/1041551745,Hart Tor North stone rows,archaeological_site,0,50.5274981,-4.0097149
+way/1081118479,Carrigeen Stone Row,archaeological_site,0,52.836125,-8.3301596
+way/1141470504,Breeny More Stone Circle,archaeological_site,1,51.7422327,-9.375137
+way/1141589032,Farranahineeny Stone Row,archaeological_site,0,51.7946573,-9.1382673
+way/1223058409,Stone Circle,archaeological_site,1,55.7566121,-5.0431589
+way/1353711243,Stone Circle,archaeological_site,1,53.9448939,-7.2902237
+way/189590562,Double Stone row - Remains of pinion arm,archaeological_site,0,50.4952052,-3.9817403
+way/250584113,Uragh Stone Circle,archaeological_site,1,51.8115446,-9.6955418
+way/30003317,Fernworthy Stone Row,archaeological_site,0,50.6412809,-3.9037825
+way/302868054,Nine Maidens Stone Row,archaeological_site,0,50.4713448,-4.9095514
+way/391209606,Goles Stone Row,archaeological_site,0,54.7964796,-6.9594695
+way/782759661,Achavanich Stone Circle,archaeological_site,1,58.3571909,-3.3901384
+way/795027640,The Kirk Stone Row,archaeological_site,0,54.2352805,-3.1511095
+way/808838884,Down Tor Stone Row,archaeological_site,0,50.5060779,-3.9940733
+way/882874348,Eslie The Lesser Stone Circle,archaeological_site,1,57.0196616,-2.4587841
+way/901745746,Leskernick Stone Row,archaeological_site,0,50.5902436,-4.5626886
+way/906412106,Troed-y-Rhiw Stone Row,archaeological_site,0,51.9872138,-4.7855108
+way/945141934,Stone Row,archaeological_site,0,50.4571884,-4.0070817
+way/96678456,Merrivale Stone Row (West),archaeological_site,0,50.5545893,-4.0439523
+way/96678558,Merrivale Stone Row (East),archaeological_site,0,50.5549584,-4.0431894
+way/976357708,Stone Row,archaeological_site,0,50.4283818,-3.8917078
+way/1551696171,Steinsetzung in Bootsform aus 52 Steinen,,0,52.0302562,14.5036417
+node/393798587,Cromlech della Cultura di Golasecca,tomb,0,45.710451,8.662568
+node/5163809034,Balkemback Stone Circle,standing_stone,1,56.533882,-3.006782
+node/10024718832,Okręgowa Izba Lekarska,,0,52.207933,21.021087
+node/10050614806,Okręgowa Stacja Kontroli Pojazdów,,0,51.9467,14.728478
+node/10058491616,Okręgowa stacja kontroli pojazdów Tkacz Kamuda,,0,50.248502,18.98327
+node/10058730662,Kołacz na Okrągło,,0,53.025458,18.636395
+node/10060974977,Kołacz na Okrągło,,0,53.015508,18.563119
+node/10074123419,Kołacz na Okrągło,,0,52.298484,21.024547
+node/10107144573,Okręgowa Stacja Kontroli Pojazdów,,0,52.393838,16.807089
+node/10108881940,Okręgowa Stacja Kontroli Pojazdów RKL017,,0,50.245817,21.783237
+node/10114387335,Malpol Okręgowa Stacja Kontroli Pojazdów,,0,50.93306,21.40697
+node/10125748075,Okręgowa Stacja Kontroli Pojazdów Sławax,,0,50.943266,21.369166
+node/10126837348,Okręgowa Stacja Kontroli Pojazdów RKL015,,0,50.263366,21.717852
+node/10135613875,Okręgowa Stacja Kontroli Pojazdów DJW D. Wójcik J. Dwojak,,0,50.946865,21.428567
+node/10137763476,Kołacz na okrągło,,0,51.118426,16.989625
+node/10155185858,Centralnego Okręgu Przemysłu/02/WOST,,0,50.930425,21.375583
+node/10155185859,Centralnego Okręgu Przemysłowego/01/WOST,,0,50.930196,21.375588
+node/10201735736,Steinkreis,,0,52.282211,7.591484
+node/10203827341,Kręgielnia TB Ochota,,0,52.20603,20.981608
+node/10203836628,Kręgielnia TB Gładka,,0,52.188028,20.960794
+node/10203847466,Kręgielnia TB Gocław,,0,52.226923,21.086868
+node/10210538151,Okręgowa Stacja Kontroli Pojazdów,,0,52.212758,18.616174
+node/10212683687,Muzeum Centralnego Okręgu Przemysłowego,,0,50.558529,22.053895
+node/1028529701,Kręgielnia Saska,,0,52.236927,21.058491
+node/10297060675,Kręgielnia A2,,0,53.7115,17.58313
+node/10297060676,Kręgielnia A2,,0,53.71152,17.583135
+node/10301273542,"Okręgowa Stacja Kontroli Pojazdów  ""Odys""",,0,52.630157,19.993446
+node/10309589903,rondo Centralnego Okręgu Przemysłowego,,0,50.419071,21.753248
+node/10311817559,Kręgowce leśne,,0,49.759239,20.468154
+node/10311817560,Bezkręgowce leśne,,0,49.759101,20.467883
+node/1037606694,Kręgielnia,,0,49.401036,20.95505
+node/10550584537,Kielecka Okręgowa Izba Aptekarska,,0,50.877744,20.627912
+node/10572758546,Okręgowa Stacja Kontroli Pojazdów RMI/012,,0,50.453773,21.517174
+node/10593961043,Okręgowa Stacja Kontroli Pojazdów SD/009,,0,50.343562,19.258364
+node/10597683015,Kołacz na Okrągło,,0,50.301419,19.000961
+node/10661196156,Okręgowa Stacja Kontroli Pojazdów WWL/031,,0,52.403383,21.19313
+node/10669370065,Okręgowa Stacja Kontroli Pojazdów WZ/018,,0,52.213382,20.858348
+node/10677741810,Prokuratura Okręgowa w Gdańsku,,0,54.35346,18.645702
+node/10692956558,Polski Związek Niewidomych Okręg Wielkopolski,,0,52.413151,16.919991
+node/10712635282,Okręgowa stacja kontroli pojazdów,,0,50.720868,18.44759
+node/10725836654,Okręgowa Stacja Kontroli Pojazdów MOBIL-TEST,,0,49.67762,19.222925
+node/10728605657,Branżowa Szkoła I stopnia nr 15 w Okręgowym Ośrodku Wychowawczym,,0,53.453647,14.481612
+node/10728605658,Szkoła Podstawowa nr 75 w Okręgowym Ośrodku Wychowawczym,,0,53.453251,14.481514
+node/10732723364,Okręgowa Stacja Kontroli Pojazdów Lumix,,0,50.291997,19.182421
+node/10734352044,Okręgowa Stacja Kontroli Pojazdów WS/009,,0,52.19236,22.26689
+node/10755680968,Okręgowa Stacja Kontroli Pojazdów WSK/014,,0,52.413704,22.238951
+node/10765490835,Okręgowa Stacja Kontroli Pojazdów WM/035,,0,52.291996,21.555655
+node/10765732738,Okręgowa Stacja Kontroli Pojazdów WWL/027,,0,52.428414,21.629703
+node/10778013208,Okręgowa Stacja Kontroli Pojazdów RLE/012,,0,50.29125,22.247966
+node/1078595413,"Darlingerode, Am Steinkreis",,0,51.848964,10.736808
+node/1078595414,"Darlingerode, Am Steinkreis",,0,51.848861,10.736732
+node/10792691444,Krąg Kasztanowców,,0,51.789812,21.206616
+node/10798905532,Energiesteinkreis,,0,47.314264,11.739267
+node/10801965827,Świętokrzyska Okręgowa Izba Architektów,,0,50.873346,20.631243
+node/10802652612,Okrąglica,,0,51.437196,15.181671
+node/10811856061,Okręgowa Rada Adwokacka,,0,52.227172,21.022942
+node/10830561321,PZW Okręg w Zielonej Gorze tel. 68 453 73 35,,0,52.028241,15.612953
+node/10838675281,Okręgowa Stacja Kontroli Pojazdów MON 73,,0,52.434697,16.897593
+node/10857709806,Krąg,,0,53.993922,18.477132
+node/10862687520,Szlak Centralnego Okręgu Przemysłowego,,0,50.415491,21.751711
+node/10862687521,Szlak Centralnego Okręgu Przemysłowego,,0,50.415481,21.751712
+node/10899157549,Okręgowa Stacja Kontroli Pojazdów BIA/013,,0,52.996763,22.892461
+node/10903773527,Okręgowa Stacja Kontroli Pojazdów TKI/004,,0,50.613949,20.760916
+node/10903802415,Okręgowa Stacja Kontroli Pojazdów TKI/037,,0,50.804981,20.809939
+node/10917049014,Okręgowa Stacja Kontroli Pojazdów Aliwojtrans,,0,52.456152,16.693116
+node/10941905230,Stone circle,monument,1,51.739934,-3.888037
+node/10944357969,Wojskowy Sąd Okręgowy,,0,52.22077,21.001727
+node/10962051008,Ośrodek Wypoczynkowy Okręgowej Rady Adwokackiej im. Zygmunta Deczyńskiego.,,0,51.887531,19.303628
+node/10974889953,TOP-AUTO Okręgowa Stacja Kontroli Pojazdów,,0,50.95064,21.38216
+node/10997716359,Stowarzyszenie Księgowych w Polsce Oddział okręgowy w Toruniu,,0,53.009931,18.609053
+node/10997717364,Okręgowa Izba Radców Prawnych,,0,53.01178,18.604362
+node/11010107228,Okręgowa rada Adwokacka w Toruniu,,0,53.010808,18.603128
+node/11010209481,Kujawsko Ponorska Okręgowa izba Inżynierów Budownictwa,,0,53.011024,18.612372
+node/11015045576,Kompleksowe Leczenie Chorób Kręgosłupa,,0,52.410001,16.911805
+node/11025479954,Kręgielnia,,0,52.188082,20.960772
+node/11027929492,Polski Związek Emerytów Rencistów i Inwalidów - Oddział okręgowy,,0,53.012682,18.609638
+node/11032316512,Polski Związek Działkowców Okręgowy Zarząd Toruńsko-Wlocławski,,0,53.014673,18.630846
+node/11037354665,Sąd Okręgowy Opiniodawczy Zespół Samorządowych Specjalistów,,0,53.010284,18.601864
+node/11039788150,Okręgowa Stacja Kontroli Pojazdów,,0,54.353908,18.419668
+node/11080412114,Krąg II,,0,53.993146,18.454055
+node/11080412115,Krąg II,,0,53.993361,18.453611
+node/11080478856,Krąg Termetal,,0,53.993156,18.474391
+node/11080478857,Krąg Termetal,,0,53.993364,18.475387
+node/11102824084,Okręgowa Stacja Kontroli Pojazdów GWE/018,,0,54.713252,18.001005
+node/11105893808,Le cercle de pierres - jardin de Merlin,,0,48.469906,7.359073
+node/11112315752,Domarring,,0,56.279528,12.541907
+node/11117010528,Vekto Okręgowa Stacja Kontroli Pojazdów,,0,51.055123,21.064587
+node/11133664152,Sąd Rejonowy i Okręgowy. Pokój przesłuchań,,0,49.690363,21.749384
+node/11137247192,Rosiczka Okrągłolistna,,0,54.752297,17.434894
+node/11144603306,Okręgowa Stacja Kontroli Pojazdów WORD Olsztyn,,0,53.781039,20.507135
+node/11155970377,Okręgowa Stacja Kontroli Pojazdów - Tomasz Doligalski,,0,52.866962,18.741323
+node/11158768184,"Okręgowa Stacja Kontroli Pojazdów ""u Jacka""",,0,52.864134,18.726422
+node/11169103779,Pub z Kręgielnią,,0,52.195028,21.025963
+node/11171675393,Okręgowa stacja kontroli pojazdów,,0,52.309338,16.386917
+node/11183075237,Foto Okrąglak,,0,52.1906,20.892966
+node/11200747205,Bezkręgowce,,0,51.869896,15.967435
+node/11222410700,Kujawsko-Pomorska Okręgowa Izba Lekarska w Toruniu,,0,53.049304,18.575641
+node/11236742139,Krąg Graso I,,0,53.991913,18.459563
+node/11236742140,Krąg Graso I,,0,53.99194,18.459146
+node/11236742141,Krąg III,,0,53.996501,18.446714
+node/11236742142,Krąg III,,0,53.996362,18.446616
+node/11241341988,Polski Związek Niewidomych. Okręg podkarpacki.,,0,49.744396,21.479902
+node/11277455419,Okręgowa Stacja Kontroli Pojazdów GS/001,,0,54.459812,17.044634
+node/11290647762,Drużynowe Mistrzowstwa Świata w Kręglarstwie Klasycznym,,0,52.464139,16.658889
+node/11291090339,Krąg,,0,54.0098,18.443888
+node/11291090340,Krąg IV,,0,54.003092,18.442152
+node/11291090341,Krąg IV,,0,54.002416,18.442079
+node/11307507662,Stone circle,,0,37.887722,-1.530842
+node/11363885052,Okręgowa Stacja Chemiczno-Rolnicza w Krakowie,,0,50.071782,19.898681
+node/11372918434,Okręgowa Stacja Kontroli Pojazdów Lewandowski R.,,0,52.961695,17.910888
+node/11383332755,Okręgowa Izba Aptekarska w Białymstoku,,0,53.134591,23.160401
+node/11403077407,Okręgowa Stacja Kontroli Pojazdów WWL/042,,0,52.331607,21.195676
+node/11406019678,am Steinkreis,,0,49.391728,9.173683
+node/11412458172,Okręgowa Stacja Kontroli Pojazdów WPZ/007,,0,53.004642,20.891609
+node/11423403948,Szlak Centralnego Okręgu Przemysłowego,,0,50.294541,21.440311
+node/11423403956,Szlak Centralnego Okręgu Przemysłowego,,0,50.296415,21.443268
+node/11449202637,Sołectwo Okrągłe,,0,50.518048,22.725316
+node/11451876709,Ulica Okrąg,,0,52.231408,21.036012
+node/11455528591,Na Okrągłą,,0,50.745588,16.316389
+node/11482622050,Prokuratura Okręgowa w Elblągu,,0,54.168129,19.406966
+node/11511569132,Wielkopolski Okręgowy Związek Żeglarski,,0,52.407397,16.936347
+node/11511603074,Pilski Okręgowy Związek Żeglarski,,0,53.036284,16.466109
+node/11513683425,Koniński Okręgowy Związek Żeglarski,,0,52.242882,18.27336
+node/11514067791,Kaliski Okręgowy Związek Żeglarski,,0,51.757334,18.087559
+node/11526541399,Okręgowa Stacja Kontroli Pojazdów,,0,52.992886,18.655085
+node/11530199055,Polski Związek Wędkarski Okręg Częstochowa,,0,50.789471,19.107531
+node/11537721101,Okręgowy Urząd Probierczy w Krakowie,,0,50.065569,19.951863
+node/11560133802,Okręgowa Stacja Kontroli Pojazdów,,0,52.347904,16.804696
+node/11560257870,Okręgowa Stacja Kontroli Pojazdów,,0,52.372575,16.661339
+node/11561342417,Okręgowa Stacja Kontroli Pojazdów,,0,52.466437,16.868297
+node/11561416856,Okręgowa Stacja Kontroli Pojazdów,,0,52.281239,16.682048
+node/11561424057,Okręgowa Stacja Kontroli Pojazdów,,0,52.349169,16.885177
+node/11561448031,Okręgowa Stacja Kontroli Pojazdów,,0,52.308308,17.048341
+node/11561452787,Okręgowa Stacja Kontroli Pojazdów,,0,52.399745,17.09573
+node/11561463523,Okręgowa Stacja Kontroli Pojazdów,,0,52.323253,17.028014
+node/11561507729,Okręgowa Stacja Kontroli Pojazdów,,0,52.25664,17.077922
+node/11561530647,Okręgowa Stacja Kontroli Pojazdów,,0,52.377437,16.574561
+node/11573384571,Staropolski Okręg Przemysłowy,,0,50.853433,20.630372
+node/11577815591,Plenerowa kręgielnia,,0,51.547422,23.556621
+node/11631927978,Lody na Okrągło,,0,51.769417,19.460698
+node/11653127300,Ptaki i bezkręgowce,,0,52.421062,16.931685
+node/11653197153,Ptaki i bezkręgowce,,0,52.438885,16.93524
+node/11659582698,Okręgowa Stacja Kontroli Pojazdów GS/012,,0,54.480192,17.047475
+node/11660250480,Crosland Moor Stone Circle,,0,53.623395,-1.819909
+node/11666937224,N.Z.O.Z. Krakowski Ośrodek Diagnostyki Kręgosłupa,,0,50.047719,19.942802
+node/11677506088,Tablica bohaterów Armii Krajowej Okręgów Wileńskiego i Nowogrodzkiego,memorial,0,52.413375,16.932555
+node/11681813409,Kręgielnia,,0,52.632421,16.098956
+node/11727446707,Krąg z Krzyżowej,memorial,0,50.798056,16.533393
+node/11780624640,Druid stone circle (Ruins),ruins,0,56.154305,-3.731422
+node/11816232989,Krąg historii,,0,54.277448,16.673859
+node/11842475423,"Kręgielnia Miejskiego Ośrodka Kultury, Sportu i Rekreacji",,0,54.720029,18.419844
+node/11862395627,Dzieje Kamienicy Okrąg 2,,0,52.229332,21.036019
+node/11874288078,Okręgowa Komisja Wyborcza nr 22 w Mielcu,,0,50.306104,21.450753
+node/11875983116,Okręgowa Stacja Kontroli Pojazdów,,0,50.45084,16.636229
+node/11881266737,Kujawsko Pomorska Okręgowa Izba Aptekarska. Delegatura we Włocławku,,0,52.654534,19.062051
+node/11882959144,Przystanek 5: Bezkręgowce wodne,,0,51.496502,17.109315
+node/11885029869,Kręgielnia Dekada,,0,53.670336,17.357478
+node/11916287336,Okręgowa Stacja Kontroli Pojazdów,,0,54.051024,19.661629
+node/11918540733,"""Czerwieniak"" - kamienny krąg",memorial,0,53.001014,18.00011
+node/11923707372,Steinsetning / Stone circle,,0,59.895833,10.768806
+node/11949538559,Okręgowy Urząd Górniczy,,0,49.682365,21.781134
+node/11962805769,Okręgowa Stacja Kontroli Pojazdów REDOS,,0,52.305896,16.133027
+node/11963452129,Rada Okręgu nr 13 Bydgoskie Przedmieście,,0,53.010807,18.586444
+node/11983789200,Okręgowy Ośrodek Pomocy Pokrzywdzonym Przestępstwem w Toruniu,,0,53.025253,18.5852
+node/12007785671,Rada Okręgu nr 12 Staromiejskie,,0,53.010715,18.60988
+node/12013292170,Steinkreise,,0,53.771713,11.955188
+node/12026848300,Okręgowa Stacja Kontroli Pojazdów Alta-Trans,,0,50.074914,21.382226
+node/12038068310,Okręg Śląsk Armii Krajowej,,0,49.794331,18.830604
+node/12039340820,Okręgowa spółdzielnia mleczarska,,0,51.965057,17.50173
+node/12047286331,Okręgowa Stacja Kontroli Pojazdów,,0,50.934684,15.364213
+node/12058146175,Okręgowa Stacja Kontroli Pojazdów WOT/011,,0,52.130313,21.322851
+node/12069516946,Stone circle,,0,68.386481,18.340491
+node/12072367320,Sąd Okręgowy w Koszalinie,,0,54.19205,16.199875
+node/12079539951,Okręgowa Stacja Kontroli Pojazdów,,0,50.874016,19.160256
+node/12087471289,ZAiKS Dyrekcja Okręgowa Katowice,,0,50.262241,19.017403
+node/12095967059,Okręgowa Komisja Egzaminacyjna w Poznaniu,,0,52.430078,16.934611
+node/12095981048,Okręgowa stacja kontroli pojazdów,,0,53.021953,18.788569
+node/12098058480,Szlak Centralnego Okręgu Przemysłowego,,0,50.497002,21.543402
+node/12098065807,Szlak Centralnego Okręgu Przemysłowego,,0,50.476132,21.556011
+node/12098065832,Szlak Centralnego Okręgu Przemysłowego,,0,50.47202,21.557453
+node/12112384524,Pizzeria Okrągłe Co Nieco,,0,53.648596,23.35387
+node/12115841922,Państwowa Inspekcja Pracy Okręgowy Inspektorat Pracy w Bydgoszczy oddział w Toruniu,,0,53.011995,18.59396
+node/12122379103,Okręgowa Stacja Kątroli Pojazdów,,0,51.272567,15.581159
+node/12127963044,Okręgowa Stacja Kontroli Pojazdów,,0,50.833465,16.499129
+node/12138392915,Pomorskie Okręgowe Muzeum PRL,,0,53.937254,18.330079
+node/12141439361,Okręgowa Stacja Kontroli Pojazdów,,0,50.839969,19.163769
+node/12142240539,Kujawsko-Pomorska Okręgowa Izba Lekarska w Toruniu,,0,53.008105,18.584887
+node/1215310835,Okręgowa Stacja Kontroli Pojazdów,,0,52.294335,20.035082
+node/12158415389,Stone circle,,0,45.788453,14.297519
+node/12165658290,Okrąglak,,0,50.875314,20.628726
+node/1218661364,Okrągła,,0,53.769611,20.435512
+node/12188972089,PNT/009 okręgowa stacja kontroli pojazdów,,0,52.217012,15.930573
+node/12212696190,PZW Okręg w Zielonej Górze Klików,,0,51.457857,15.201458
+node/12228241738,Steinkreis an der Müritz,,0,53.35984,12.765007
+node/12244407940,Cromlech Lodge Pole Transformer,,0,51.901575,-4.937688
+node/12272814707,Okręgowa Stacja Chemiczno-Rolnicza,,0,53.441526,14.531156
+node/12281733319,Stone Circle,archaeological_site,1,54.233043,-7.745521
+node/12319405823,Krąg,,0,54.010409,18.446081
+node/12329722342,Kometa- kręgielnia,,0,52.045832,23.117914
+node/12365536559,Na Okrągło,,0,54.378538,18.615775
+node/12383402970,Okręgowa stacja kontroli pojazdów Relobus w Toruniu,,0,52.970469,18.562365
+node/12410543864,Okręgowa Stacja Kontroli Pojazdów,,0,52.210939,20.607916
+node/12459225876,Okręgowa Stacja Kontroli Pojazdów,,0,51.204807,15.127368
+node/12469556813,Okręgowa Komisja Egzaminacyjna we Wrocławiu,,0,51.098486,17.020056
+node/12470621168,Krąg,,0,54.202609,16.696437
+node/12470621169,Krąg,,0,54.202631,16.696561
+node/12470656406,Krąg,,0,54.218963,16.700519
+node/12470656407,Krąg,,0,54.21895,16.700388
+node/12484519960,Okręgowa Stacja Kontroli Pojazdów,,0,54.373788,18.281756
+node/12484941193,Okręgowa Stacja Kontroli Pojazdów,,0,54.316921,18.261855
+node/12509296181,Nečemice 1 - stone rows,,0,50.253158,13.633117
+node/12509321877,Nečemice 2 - artifacts of stone rows,,0,50.245696,13.638107
+node/12509326180,Nečemice 4 - artifacts of stone rows,,0,50.229914,13.643618
+node/12511056901,Okręgowa Stacja Kontroli Pojazdów RKL 020,,0,50.252613,21.761005
+node/12534491520,Kołacz na okrągło,,0,49.676457,21.775738
+node/12537257010,Okrągiełek,,0,49.791655,19.279289
+node/12542708175,Kręgielnia,ruins,0,50.370423,17.935879
+node/12544301016,Okręgowa Stacja Kontroli Pojazdów,,0,51.629972,15.131277
+node/12563942651,Rada Okręgu nr 1 Podgórz,,0,52.991888,18.59104
+node/12599125890,Prokuratura Okręgowa w Łomży,,0,53.173323,22.080999
+node/12602205654,Okręgowy Urząd Górniczy w Gdańsku,,0,54.379328,18.61489
+node/12602205658,Okręgowy Urząd Górniczy w Krakowie,,0,50.076216,19.964215
+node/12602205662,Okręgowy Urząd Górniczy w Kielcach,,0,50.887127,20.626958
+node/12602205664,Okręgowy Urząd Górniczy w Poznaniu,,0,52.414602,16.961849
+node/12606678307,Okręgowa Stacja Kontroli Pojazdów EZD/004,,0,51.607698,18.921761
+node/12606768972,Okręgowa Stacja Kontroli Pojazdów EZD/007,,0,51.594295,18.961923
+node/12615596963,Prokuratura Okręgowa w Bielsku-Białej,,0,49.831706,19.055735
+node/12621430666,"Okręgowy Urząd Miar w Łodzi, Wydział w Zduńskiej Woli",,0,51.608506,18.930553
+node/1262515680,Stone Circle,monument,1,53.009045,-2.140233
+node/12636397834,Okręgowa Stacja Chemiczno - Rolnicza,,0,50.85258,20.627322
+node/12663163585,Okręg Polskiego Związku Wędkarskiego w Olsztynie,,0,53.77949,20.462101
+node/12663231710,Kołacz na okrągło,,0,50.921033,15.761789
+node/12670746525,Okręglica,,0,51.531517,18.772178
+node/12670746530,Okręglica,,0,51.531484,18.772133
+node/12670746532,Okręglica,,0,51.53396,18.769318
+node/12670746533,Okręglica,,0,51.533987,18.769372
+node/12723792826,Metalowcy. Federacja Związków Zawodowych. Rada okręgu,,0,52.414341,16.907942
+node/12731810293,Okręgowa Stacja Kontroli Pojazdów,,0,52.496439,20.918253
+node/12734006072,Okręgowa Stacja Kontroli Pojazdów,,0,50.527691,22.72652
+node/12741519717,Prokuratura Okręgowa we Wrocławiu,,0,51.10695,17.023512
+node/12749518483,Kręgielnia,,0,51.362287,20.634329
+node/12768345839,Jeleń Okrągle Skrzyżowanie (507),,0,50.158129,19.267474
+node/12769069610,Wólka Okrąglik III,,0,52.621315,22.090146
+node/12769069643,Wólka Okrąglik II,,0,52.627092,22.072101
+node/12769069651,Wólka Okrąglik III,,0,52.621257,22.090109
+node/12769069696,Wólka Okrąglik III,,0,52.620698,22.091433
+node/12769069701,Wólka Okrąglik III,,0,52.620753,22.091469
+node/12769069707,Wólka Okrąglik I,,0,52.638483,22.050779
+node/12769069720,Wólka Okrąglik I,,0,52.637809,22.051856
+node/12770046695,Steinkreis,,0,47.247796,8.507062
+node/12770832426,Jeleń Okrągle Kapliczka (265),,0,50.158253,19.276851
+node/12772335996,Leśno - Kręgi Kamienne,,0,53.929084,17.690246
+node/12778133737,Kręgielnia Orbita,,0,53.713945,18.946997
+node/12779120006,Kołacz na okrągło,,0,53.162165,23.184317
+node/12786991667,Koło wędkarskie PZW Działoszyn. Okręg Sieradz,,0,51.114252,18.882897
+node/12793519086,Okręgowa Stacja Kontroli Pojazdów w Gołczy,,0,50.337549,19.927819
+node/12810939045,Polski Związek Wędkarski Okręg w Krakowie,,0,50.090471,20.015231
+node/12811027786,Steinkreis Zislow,,0,53.431747,12.310749
+node/12881486798,Punkt Informacyjny Krajowego Rejestru Karnego przy Sądzie Okręgowym w Poznaniu,,0,52.413843,16.928433
+node/12899893515,Steinkreis-Spirale,,0,50.379158,7.287429
+node/12947593406,CROMLECH COURT (NW),,0,53.400663,-6.273018
+node/12947593407,CROMLECH COURT (NW),,0,53.400323,-6.273152
+node/12947593408,CROMLECH COURT (NW),,0,53.400261,-6.273245
+node/12947593409,CROMLECH COURT (NW),,0,53.399945,-6.273367
+node/12947593410,CROMLECH COURT (NW),,0,53.399934,-6.273232
+node/12947593411,CROMLECH COURT (NW),,0,53.400149,-6.274182
+node/12947593412,CROMLECH COURT (NW),,0,53.400661,-6.272943
+node/12947593413,CROMLECH COURT (NW),,0,53.400822,-6.273615
+node/12947593414,CROMLECH COURT (NW),,0,53.400187,-6.2743
+node/12947593415,CROMLECH COURT (NW),,0,53.400489,-6.274048
+node/12947593416,CROMLECH COURT (NW),,0,53.400513,-6.273881
+node/12947593417,CROMLECH COURT (NW),,0,53.400796,-6.273554
+node/12947593418,CROMLECH COURT (NW),,0,53.400867,-6.274077
+node/12947593419,CROMLECH COURT (NW),,0,53.400618,-6.274283
+node/12947593420,CROMLECH COURT (NW),,0,53.400036,-6.27384
+node/12947593421,CROMLECH COURT (NW),,0,53.400402,-6.273615
+node/12947593422,CROMLECH COURT (NW),,0,53.400265,-6.27351
+node/12947593423,CROMLECH COURT (NW),,0,53.400504,-6.272604
+node/12947593424,CROMLECH COURT (NW),,0,53.400197,-6.272796
+node/12947593425,CROMLECH COURT (NW),,0,53.399838,-6.273187
+node/12947593426,CROMLECH COURT (NW),,0,53.399978,-6.272926
+node/12955810144,Kręgi betonowe z okresu COP,,0,50.584636,21.713056
+node/12961403011,Sklep spożywczy Okręgowej Spółdzielni Mleczarskiej w Łowiczu,,0,51.956329,20.144285
+node/12978140291,Okręgowa Komisja Egzaminacyjna w Warszawie,,0,52.229582,20.958932
+node/13013832801,Okręgowa Stacja Kontroli Pojazdów,,0,51.171634,16.58823
+node/13014237897,"Polski związek hodowców gołębi pocztowych, okręg Kraków",,0,50.079517,20.045629
+node/13017103090,Sąd Okręgowy w Krakowie,,0,50.062514,19.961215
+node/13037271443,Częstochowski Okręgowy Związek Żeglarski,,0,50.823906,19.12694
+node/13037280595,Elbląski Okręgowy Związek Żeglarski,,0,54.174873,19.385693
+node/13038150703,Jeleniogórski Okręgowy Związek Żeglarski,,0,50.901134,15.74306
+node/13056827603,Stensättning,archaeological_site,0,56.180379,15.09313
+node/13056827604,Stensättning,archaeological_site,0,56.183627,15.071203
+node/13056827605,Stensättning,archaeological_site,0,56.183003,15.065974
+node/13057498230,Stensättning,archaeological_site,0,56.169594,15.053141
+node/13064082803,Okrągłe pomosty,,0,52.296021,17.891396
+node/13073118503,Okrąglik,,0,49.146926,22.366188
+node/13089094154,Muzeum Okręgowe,,0,50.035349,22.001162
+node/13123754879,Okręgowa Stacja Kontroli Pojazdów,,0,51.148236,21.959446
+node/13134641580,80 lat Sądu Okręgowego we Wrocławiu 1945–2025,memorial,0,51.10646,17.024684
+node/13137924501,Na okrągło pierożki azjatyckie,,0,51.93725,15.506858
+node/13141282510,(N/Ż) Sąd Okręgowy,,0,50.865928,20.632821
+node/13142417204,Kamienny Krąg,,0,50.033304,19.956575
+node/13149142757,Okręgowa Stacja Kontroli Pojazdów ELC/026,,0,52.104649,19.953295
+node/13151378967,Kręgski Młyn,,0,53.990092,18.469577
+node/13152521688,Okręgowa stacja kontroli pojazdów,,0,50.983749,23.17814
+node/13152562100,"Okręgowy Urząd Miar w Katowicach, Wydział Zamiejscowy w Częstochowie",,0,50.826307,19.107895
+node/13197130709,"Studio Osteopatii i Fizjoterapii ""Kręgosłup OdNowa"" Krzysztof Usarek",,0,53.263276,16.459456
+node/13197462766,Lodolandia & Kołacz na Okrągło,,0,52.100916,19.934981
+node/13227518982,Steinkreis Blasiwald,archaeological_site,1,47.800866,8.177691
+node/13227833769,Okrąglica,,0,53.915153,19.341862
+node/13230232157,Kręgielnia Stacja Kłaj,,0,50.000948,20.304286
+node/13258043605,Okręgowa Stacja Kontroli Pojazdów nr.zk/013,,0,54.176627,16.195694
+node/13264954697,Góra Okrągła,,0,49.491878,19.204629
+node/13294826232,Okręgowa Stacja Kontroli Pojazdów EBE/008,,0,51.325576,18.986476
+node/13300041200,Tomnaverie Stone Circle Maintenance Cairn,memorial,0,57.119829,-2.844433
+node/13305475429,Okręgowa Stacja Kontroli Pojazdów EZD/012,,0,51.56366,19.006098
+node/13307748552,Gliwice Sąd Okręgowy,,0,50.292259,18.656529
+node/13307748553,Gliwice Sąd Okręgowy,,0,50.292886,18.655836
+node/13341278923,Okręgowy Urząd Miar w Łodzi - Wydział Zamiejscowy w Kielcach,,0,50.870538,20.633531
+node/1335892212,Okręgowa Stacja Chemiczno-Rolnicza w Warszawie,,0,52.24879,21.244487
+node/13360317041,Okręgowa Stacja Kontroli Pojazdów,,0,53.001461,16.92766
+node/13360348910,Okręgowa Stacja Kontroli Pojazdów,,0,52.902335,16.97463
+node/13360377926,Okręgowa Stacja Kontroli Pojazdów,,0,52.976576,17.138938
+node/13360384954,Okręgowa Stacja Kontroli Pojazdów,,0,52.903717,16.972019
+node/13387522680,Prokuratura Okręgowa w Tarnowie,,0,50.007465,20.993768
+node/13387522682,Sąd Okręgowy w Tarnowie,,0,50.008428,20.993627
+node/13415791030,(N/Ż) Sąd Okręgowy,,0,50.865982,20.632937
+node/13415791031,(N/Ż) Sąd Okręgowy,,0,50.865393,20.635076
+node/13426175174,Prokuratura Okręgowa,,0,54.189219,16.193854
+node/13428356179,Okręgowy Inspektorat Służby Więziennej,,0,52.208115,21.014687
+node/13441987364,Okręgowa Stacja Kontroli Pojazdów M. Kmita,,0,51.595394,20.291197
+node/13452696225,Prokuratura Okręgowa,,0,52.734255,15.22415
+node/13456012719,Stone Circle,,0,55.779305,-4.030922
+node/13467985694,Okręgowa Rada Radców Prawnych w Koszalinie,,0,54.19111,16.190701
+node/13467985695,Środkowopomorska Okręgowa Izba Lekarska w Koszalinie,,0,54.191131,16.190684
+node/13471155947,Gliwice Sąd Okręgowy,,0,50.292851,18.655776
+node/13471155948,Gliwice Sąd Okręgowy,,0,50.292297,18.656589
+node/13501261006,Rondo Centralnego Okręgu Przemysłowego,,0,50.570148,21.701882
+node/13525003060,Sąd Okręgowy,,0,52.743739,15.228599
+node/13525003069,Sąd Okręgowy,,0,52.743981,15.230496
+node/13564998401,Kołacz na okrągło,,0,52.304006,21.079526
+node/1357775993,Lissivigeen Stone Circle,archaeological_site,1,52.05878,-9.46257
+node/1359631584,Dromatouk stone circle,archaeological_site,1,51.883212,-9.525664
+node/13621616681,Kręgielnia BOSiR Brzesko,,0,49.961265,20.601175
+node/13628927108,Okręgows Stacja Kontroli Pojazdów - Zasada Trans Spedition,,0,49.979912,20.615467
+node/13634177283,Stensättning,archaeological_site,0,58.279081,11.873253
+node/13634177284,Stensättning,archaeological_site,0,58.278303,11.879604
+node/13634177285,Stensättning,archaeological_site,0,58.281631,11.867245
+node/13634177286,Stensättning,archaeological_site,0,58.28333,11.868701
+node/13634177287,Stensättning,archaeological_site,0,58.28335,11.867907
+node/13634177288,Stensättning,archaeological_site,0,58.283532,11.86815
+node/13634177289,Stensättning,archaeological_site,0,58.283832,11.868652
+node/13653413814,Sąd Okręgowy Warszawa - Praga w Warszawie,,0,52.23467,21.085066
+node/13661231305,Okręgows Stacja Kontroli Pojazdów - AUTO-PARTNER,,0,49.967017,20.598199
+node/1366784444,Centralnego Okręgu Przemysłowego/01/WOST,,0,50.930211,21.375505
+node/13687769891,Okręgowa Komisja Egzaminacyjna,,0,54.347981,18.63997
+node/13700513284,T-Service Okręgowa Stacja Kontroli Pojazdów,,0,53.201993,19.638635
+node/13712284608,Okręgowa Stacja Kontroli Pojazdów,,0,51.527845,22.325022
+node/13714507279,Okręgowy Inspektorat Pracy w Kielcach,,0,50.878483,20.638209
+node/13727864344,Prokuratura Okręgowa w Tarnobrzegu 1 Wydział Śledczy,,0,50.579855,21.687276
+node/13730623429,I Opiniodawczy Zespół Sądowych Specjalistów Sądu Okręgowego w Krakowie,,0,50.053289,19.920827
+node/13730623431,II Opiniodawczy Zespół Sądowych Specjalistów Sądu Okręgowego w Krakowie,,0,50.069297,20.009786
+node/13731103045,Starorzecze Krępa Polski Związek Wędkarski Okręg w Zielonej Górze tel. 68 453 73 33,,0,52.025889,15.554744
+node/13742924559,Foltrans Okręgowa Stacja Kontroli Pojazdów,,0,50.277891,18.518043
+node/13752567602,Okręgowa Stacja Kontroli Pojazdów,,0,52.812634,21.891704
+node/13763324464,Kręgielnia zewnętrzna,,0,51.721651,23.502417
+node/13763324483,Kręgielnia zewnętrzna,,0,51.47986,23.299712
+node/13763324484,Kręgielnia zewnętrzna,,0,51.402812,23.410455
+node/13763324487,Kręgielnia zewnętrzna,,0,51.324345,23.629531
+node/13808186260,Ornemental stone circle,,0,56.582233,-3.973498
+node/13832199234,Chodaków Okrąglak 01,,0,52.256972,20.272501
+node/1384932791,Uragh Stone Circle,archaeological_site,1,51.81155,-9.695473
+node/13849633905,"Wasserfall mit künstlichen Steinsetzungen, Postkarte, um 1900",,0,48.145573,11.587357
+node/13850496282,Okręgowa Stacja Kontroli Pojazdów Europak,,0,54.591164,18.495547
+node/1385269705,Cefn Gwernffrwd Stone Circle,archaeological_site,1,52.127695,-3.846282
+node/1385803911,Prokuratura Okręgowa w Opolu,,0,50.663987,17.929838
+node/13878893879,Rzeczyca Okrągła 20,,0,50.645913,22.05497
+node/13878893880,Rzeczyca Okrągła 09,,0,50.646675,22.055374
+node/13893443543,Okręgowe Przedsiębiorstwo Geodezyjno-Kartograficzne w Krakowie,,0,50.088361,20.06435
+node/13903998517,Okręgowa Stacja Kontroli Pojazdów WGS/002,,0,52.43735,19.47186
+node/13926126463,Okręgowa Stacja Kontroli Pojazdów,,0,52.186441,18.231557
+node/13953821645,Okręgowa Stacja Kontroli Pojazdów,,0,52.310506,18.271473
+node/13954034130,Okręgowy Urząd Miar w Krakowie - Wydział Zamiejscowy w Tarnowie,,0,50.016343,20.998953
+node/13954034131,Okręg Polskiego Związku Wędkarskiego w Tarnowie,,0,50.016615,20.998864
+node/13954844573,Cromlech,archaeological_site,1,42.78755,-0.449414
+node/1396036112,Stone Circle,archaeological_site,1,55.757356,-5.041136
+node/13997636446,Krąg Solarny Kłodawa,,0,54.196787,18.55872
+node/14024295808,Achmore Stone Circle,,0,58.170237,-6.564982
+node/14026638154,Okręgowa Stacja Kontroli Pojazdów,,0,53.138703,23.197199
+node/1405047469,Sąd Okręgowy,,0,52.743901,15.230529
+node/14063496262,Okręgowa Stacja Kontroli Pojazdów WZ/028,,0,52.247424,20.842901
+node/14067941471,Domarring Hjällbo,cemetery,0,57.774029,12.015387
+node/14078896681,Steinkreis,memorial,0,51.643509,12.486066
+node/14098609105,Centrum Terapii Kręgosłupa,,0,50.227692,19.238246
+node/14104977454,Okręgowa Stacja Kontroli Pojazdów,,0,51.643654,15.164332
+node/14105422302,Okręgowa stacja kontroli pojazdów MP-Auto,,0,53.233208,20.153782
+node/1416566580,Kamienny krąg w pobliżu Rostek,ruins,1,52.993289,21.75073
+node/1417203016,Stone Circle ( Maulathanavalla ),archaeological_site,1,51.646432,-9.064279
+node/1417204856,Stone circle ( Glanbrack ),archaeological_site,1,51.648299,-9.052822
+node/14178523987,OKRĘG PZW GORZÓW WLKP. JEZIORO STOBNO POD OPIEKĄ KOŁA PZW TRZCIEL GOSPODARZ ŁOWISKA TEL. 509 209 433,,0,52.430477,15.798805
+node/14180398357,Okręgowa Stacja Kontroli Pojazdów,,0,50.576919,22.045517
+node/1469746258,Cromlech Añarón 1,archaeological_site,1,42.864918,-0.68136
+node/1469746263,Cromlech Añarón 2,archaeological_site,1,42.866243,-0.679258
+node/1469746279,Cromlech Añarón 3,archaeological_site,1,42.866672,-0.679294
+node/1469746282,Cromlech Añarón 4,archaeological_site,1,42.866864,-0.679045
+node/1469746283,Cromlech Añarón 5,archaeological_site,1,42.867271,-0.678858
+node/1480002533,Steinkreis,archaeological_site,1,48.037499,16.024746
+node/1480360735,Krąglak,,0,51.585833,16.100556
+node/1580062085,Okrągła,,0,53.769532,20.435467
+node/1593994603,Leczenie kręgosłupa,,0,52.113911,19.949094
+node/1612847754,stone circle,archaeological_site,1,50.108059,-5.349702
+node/1654981320,Ku Pamięci Zamordowanych przez Niemców w latach 1939-1945 na terenie Lasu Okręglik,monument,0,51.830043,19.401532
+node/1674854209,Steinkreis,,0,48.309115,12.866049
+node/1678165904,das käffchen am steinkreis,,0,51.256619,6.404554
+node/1734299569,Steinkreis,,0,51.214262,6.628706
+node/1736572590,Okrąglica Północna,,0,49.522395,20.445924
+node/1798137697,Okręgowa Stacja Kontroli Pojazdów,,0,50.498707,22.143944
+node/1808462442,Stone Circle,,0,52.346143,-6.516392
+node/1812703093,Okręgowa Stacja Kontroli Pojazdów,,0,51.187037,22.433752
+node/1822877216,Kołobrzeska Okrąglicka,,0,51.747603,18.152319
+node/1825420620,site of stone circle,archaeological_site,1,54.622132,-2.027919
+node/1825650867,Łódzka Okrąglicka,,0,51.749016,18.154066
+node/1825650871,Łódzka Okrąglicka,,0,51.749222,18.152465
+node/1832155030,Okrąglica,,0,50.398924,19.436855
+node/1859414389,Okrągłe,,0,50.510137,22.720727
+node/1860056255,Sąd Okręgowy,,0,52.743252,15.229719
+node/1860760850,Krągły Goraj,,0,50.303217,23.457034
+node/1863582723,Krężnica Okrągła,,0,51.16476,22.247804
+node/1870446311,Krąg 2000 Azyl Żelaznych Ludzi,,0,50.822203,15.525851
+node/1878996474,Kręgi Nowe,,0,52.581578,21.376871
+node/1878996480,Kręgi,,0,52.570414,21.358318
+node/1884322741,Stensättningar,archaeological_site,0,57.244439,15.041828
+node/1889944349,Konstantynowska/Okręglik,,0,51.834072,19.396339
+node/1889944834,Konstantynowska/Okręglik,,0,51.834233,19.396443
+node/1890524209,Okręgowa stacja kontroli pojazdów,,0,51.073397,19.411948
+node/1905768285,Transbud Katowice. Okręgowa stacja kontroli pojazdów,,0,50.105601,18.238609
+node/1911081750,Okręgowa Stacja Kontroli Pojazdów,,0,52.224148,21.222242
+node/1915195158,Narodowy Bank Polski Oddział Okręgowy w Katowicach,,0,50.258623,19.028438
+node/1927559945,Prokuratura Okręgowa w Katowicach,,0,50.247275,19.016194
+node/1927559966,Sąd Okręgowy w Katowicach,,0,50.24924,19.026899
+node/1939504089,Kręgielnia Galaktyka,,0,50.263209,19.009896
+node/1939688642,Kręgielnia,,0,53.411854,18.443874
+node/1942923154,Modern Stone Circle / Monolith,,0,37.74958,-25.621407
+node/1963166869,Kręgielnia Platyna,,0,51.388513,21.147709
+node/1974353251,Drumskinny Stone Circle,archaeological_site,1,54.58437,-7.690079
+node/1982683093,Okrągła 02,,0,52.318068,21.067139
+node/1983358728,Okrąglak,,0,50.947565,16.154158
+node/2012478918,Okręgowa Stacja Kontroli Pojazdów,,0,51.093732,22.362707
+node/2014758615,"Kręgielnia ""Mario""",,0,50.350869,22.325129
+node/2077129116,BOWLING BILARD KRĘGIELNIA,,0,54.101934,17.944702
+node/2077342723,Cromlech,archaeological_site,0,49.459298,-2.461729
+node/2079333058,Okręgowa Stacja Kontroli Pojazdów,,0,52.273521,16.691387
+node/2093657810,Stone Circle,,0,53.519065,-1.444913
+node/2094710771,Okręgowa Stacja Kontroli Pojazdów,,0,50.927359,23.541234
+node/2117666387,(N/Ż) Sąd Okręgowy,,0,50.865472,20.63514
+node/2121676174,Okrąglica,,0,51.143056,16.37
+node/2137094332,Okręgowa Stacja Kontroli Pojazdów - Moto Led,,0,51.396242,21.111765
+node/2146611600,Okrąglica,,0,51.437203,15.181608
+node/2156864542,Sąd Okręgowy,,0,52.743742,15.228332
+node/2185896398,Okręgowa Komisja Egzaminacyjna,,0,50.203366,19.272958
+node/2197901514,Balgarthno Stone Circle,archaeological_site,1,56.472196,-3.051335
+node/2208061208,Gościniec Złoty Krąg,,0,54.439,17.01646
+node/2238344891,Krągłe Wzgórze,,0,51.462778,17.173611
+node/2255903463,Okręgowa Stacja Kontroli Pojazdów TKI/020,,0,50.80496,20.804147
+node/2281855477,Okręgowa Izba Pielęgniarek i Położnych,,0,52.272351,20.935249
+node/2302447124,Steinkreis,,0,49.966083,9.635182
+node/2308026092,Kamienne Kręgi w Leśnie,,0,53.929978,17.693884
+node/2308306473,Cromlech,archaeological_site,0,52.988139,-9.095543
+node/2322339873,Muzeum Okręgowe w Toruniu,,0,53.010683,18.60422
+node/2338526248,"Steinkreis, Anerkennung für eine Zustimmung",memorial,0,51.471478,7.011437
+node/2360873579,Okręgowa Stacja Kontroli Pojazdów,,0,51.277168,22.573029
+node/2381254453,Kraftplatz Steinkreis,,0,46.562862,13.296411
+node/2399839401,Okrąg 01,,0,52.096312,21.009579
+node/2403671818,Krąg Megalityczny,,0,52.213054,21.003997
+node/2404592120,Okrąg,,0,51.102778,15.576944
+node/2413881618,Okrąglica,,0,51.436027,15.172002
+node/2422708550,Okręgowa stacja kontroli pojazdów,,0,52.801131,16.719481
+node/2423384749,Krągi Osiedle,,0,53.594518,16.577547
+node/2425202849,"30 - PUNKT POBORU WODY, Nadleśnictwo - Czersk, Leśnictwo - Okręglik",,0,53.808295,17.717321
+node/2434283871,Rzeszowski Okręgowy Związek Żeglarski,,0,50.041016,22.009367
+node/2445672154,Kręgielnia-Bilard,,0,50.440512,18.860292
+node/2449398283,Cromlech Boulders,,0,53.089833,-4.04949
+node/2450476895,Okręg PZW Lublin,,0,51.210418,22.543976
+node/2460241419,Okręgowy Urząd Probierczy,,0,52.241477,21.000717
+node/2460276648,Okręgowy Urząd Miar,,0,52.241296,21.000373
+node/2465836536,CZARNOGŁOWIE - OKRĘGLIK - BRUSY,,0,53.796414,17.731403
+node/2465836537,CZŁOWIECZEK - OKRĘGLIK - BRUSY,,0,53.801087,17.751608
+node/2465836582,OKRĘGLIK - OKRĘGLIK - BRUSY,,0,53.799171,17.713158
+node/2469895544,Okręgowa Stacja Kontroli Pojazdów,,0,53.572032,18.012455
+node/2481497794,Krąglak,,0,50.841389,16.058056
+node/2510718050,Izba Przemysłowo-Handlowa Rybnickiego Okręgu Przemysłowego,,0,50.095087,18.542047
+node/253737989,Trzy Korony (Okrąglica),,0,49.413833,20.414216
+node/2582591795,Okrąglak,,0,50.446686,18.825099
+node/2585285385,Muzeum Okręgowe,,0,52.289575,18.257439
+node/2603955226,Okręgowa Stacja Kontoli Pojazdów GST 010,,0,53.958848,18.496681
+node/2618803208,Okręgowa Stacja Kontroli Pojazdów,,0,50.11397,19.316212
+node/2634226309,Okrąglica,,0,50.829181,20.474196
+node/2642829322,"Okręgowa Izba Lekarska w Łodzi, Delegatura w Sieradzu",,0,51.593806,18.72804
+node/2714579250,Krąg,,0,49.720593,22.206371
+node/2718912188,Rzeczyca Okrągła 01,,0,50.645911,22.055124
+node/2721317571,Pomnik Chwały Żołnierzy Armii Krajowej Podokręgu Rzeszów AK,memorial,0,50.0325,22.002515
+node/27351686,Stone Circle,ruins,1,54.216582,-2.172968
+node/2739283787,Okręgowa Stacja Kontroli Pojazdów,,0,50.104951,18.574223
+node/2739283788,Okręgowa Stacja Kontroli Pojazdów,,0,50.105484,18.575567
+node/2740883708,Okręgowa Stacja Kontroli Pojazdów,,0,50.086339,18.541715
+node/2750466397,Okręgowa Stacja Kontroli Pojazdów,,0,52.979354,22.865305
+node/2754728894,Krągi,,0,53.601098,16.580005
+node/2793698026,Okręgowa Stacja Kontroli Pojazdów CIN/008,,0,52.771536,18.269232
+node/2794048546,Cromlech de La Praz,monument,1,46.658336,6.431437
+node/2818684881,Centralnego Okręgu Przemysłu/02/WOST,,0,50.930402,21.375663
+node/2834228140,Okręgowa Stacja Kontroli Pojazdów Waldam,,0,50.018051,18.361156
+node/2881713695,Związek Polskich Artystów Fotografików Okręg Dolnośląski,,0,51.116163,17.042203
+node/2887011304,Krąg,,0,54.007385,18.447514
+node/2892002751,Steinkreis,,0,47.544326,12.306798
+node/2894324583,Okręgowa Stacja Kontroli Pojazdów,,0,52.23522,20.200311
+node/2926137602,Stone Circle,archaeological_site,1,52.873737,-3.985833
+node/2928411279,Stone Circle,archaeological_site,1,52.870391,-4.071569
+node/2929821877,Stone Circles,archaeological_site,1,52.857785,-4.081744
+node/2943947180,Cloughbeach Stone Circle,archaeological_site,1,54.322929,-7.864368
+node/2952231167,Klub Bowlingowy (kręgle),,0,50.31925,19.193266
+node/2961184620,Kromlech,rune_stone,0,50.270883,13.928778
+node/2966424254,Stensättningar,archaeological_site,0,59.514061,12.640394
+node/2968704946,Bar Okrąglak,,0,53.13533,23.135748
+node/2973460660,Okrąglak,,0,50.30772,18.784688
+node/2981940466,Rzeszowski Okręgowy Związek Żeglarski,,0,49.363808,22.439282
+node/2981993684,Okręgowa Stacja Kontroli Pojazdów,,0,51.894517,17.806276
+node/2993055508,Okręgowej Stacji Kontroli Pojazdów,,0,50.592861,16.512322
+node/2994436458,Śląska Okręgowa Izba Inżynierów Budownictwa,,0,50.255639,19.024455
+node/3009665869,Okrągłe,,0,53.356088,22.72097
+node/3009665870,Okrągłe,,0,53.390045,21.54015
+node/3009675827,Okrągła,,0,52.744722,19.034444
+node/3009675828,Okręg Międzychodzki,,0,52.639446,16.053771
+node/3009675829,Okręg Wieleński,,0,52.678745,16.071216
+node/3009675830,Okręg,,0,52.986302,22.517957
+node/3009675831,Okręgi,,0,52.923056,22.383333
+node/3009698548,Duża Okręglica,,0,51.041389,22.11
+node/3009700382,Dół Okrągły,,0,51.205817,21.806183
+node/3009714688,Kolonia Okręglica,,0,51.526315,18.744787
+node/3009718804,Krąg,,0,49.787393,22.112368
+node/3009718805,Krąglik,,0,51.992378,23.042657
+node/3009718813,Kręgi,,0,49.785833,21.253889
+node/3009718814,Kręgła Choina,,0,50.930872,23.587755
+node/3009718935,Krężnica Okrągła,,0,51.149444,22.196667
+node/3009730855,Od Wygody Zakręgi,,0,49.706807,21.874797
+node/3009731149,Okrąg,,0,49.579073,20.368572
+node/3009731150,Okrąg,,0,49.706409,20.632512
+node/3009731151,Okrąg,,0,52.416273,21.396531
+node/3009731152,Okrąglak,,0,50.739444,22.683056
+node/3009731153,Okrąglak,,0,50.889087,23.084336
+node/3009731154,Okrąglica,,0,50.240637,21.627078
+node/3009731155,Okrąglica,,0,50.422734,21.007289
+node/3009731156,Okrąglica,,0,50.461429,20.728844
+node/3009731157,Okrąglica,,0,50.878667,20.502778
+node/3009731158,Okrąglice,,0,50.095276,19.393574
+node/3009731159,Okrąglik,,0,50.055556,21.079722
+node/3009731160,Okrąglik,,0,50.368883,19.066215
+node/3009731161,Okrąglik,,0,50.658889,18.987222
+node/3009731162,Okrągła,,0,49.891484,21.419179
+node/3009731163,Okrągła,,0,49.891721,21.420584
+node/3009731164,Okrągła,,0,50.464509,21.313246
+node/3009731165,Okrągłe,,0,49.495,19.195556
+node/3009731166,Okrągłe,,0,49.497778,19.000278
+node/3009731167,Okrągłe,,0,49.597957,20.781205
+node/3009731168,Okrągle,,0,50.158611,19.273889
+node/3009731169,Okrągłe,,0,51.409225,22.43996
+node/3009731170,Okrągłe,,0,52.225556,22.386944
+node/3009731171,Okręg,,0,49.633889,18.933333
+node/3009731172,Okrąg,,0,49.648871,20.54223
+node/3009731173,Okręg,,0,50.229884,20.755251
+node/3009731174,Okręg,,0,51.325336,18.985456
+node/3009731175,Okręglica,,0,49.628333,20.515555
+node/3009731176,Okręglica,,0,49.937502,21.147892
+node/3009731177,Okręglica,,0,50.375278,20.400278
+node/3009731178,Okręglica,,0,50.408849,20.364535
+node/3009731179,Okręglica,,0,50.632769,21.946827
+node/3009731180,Okręglica,,0,50.764647,21.109306
+node/3009731181,Okręglica,,0,50.863804,21.792358
+node/3009731182,Okręglica,,0,51.012338,21.602281
+node/3009731183,Okręglica,,0,51.351567,22.044353
+node/3009731184,Okręglica,,0,51.745799,18.15161
+node/3009731185,Okręglica-Kolonia,,0,51.044922,22.10003
+node/3009731186,Okręglik,,0,51.834311,19.387787
+node/3009769442,Zakrąg,,0,49.646438,20.774695
+node/3009769443,Zakrąg,,0,49.894444,21.948333
+node/3009769449,Zakręgi,,0,49.718298,21.879153
+node/3009770159,Zaokręgowa,,0,50.768056,23.559722
+node/3010348233,Okręgowa Stacja Kontroli Pojazdów,,0,53.149633,22.986929
+node/3026997406,"Diagnostyka Plakwicz, Okręgowa Stacja Kontroli Pojazdów i Eurowarsztat",,0,53.990008,20.384109
+node/3035448644,Okręgowa Stacja Kontroli Pojazdów,,0,52.820353,20.292342
+node/3042848835,Okręgowa Izba Aptekarska,,0,50.026286,19.913078
+node/3044528200,Okrągła 01,,0,52.317241,21.067233
+node/3044528201,Okrągła 02,,0,52.318063,21.067021
+node/3050966977,Okręgowa Stacja Kontroli Pojazdów,,0,53.396962,22.803676
+node/306004082,Steinkreis,,0,54.073079,11.886393
+node/3067531071,"Plan sytuacyjny rezerwatu ""Kręgi Kamienne"" w Odrach w/g Stephana z 1915 r",,0,53.898438,17.992444
+node/3069939006,Stone Circle,,0,54.753045,-1.584888
+node/3073739616,Stone Circle - Brenig 8,archaeological_site,1,53.094821,-3.512765
+node/3075968252,Bedd Emlyn Stone Circle,archaeological_site,1,53.067982,-3.415586
+node/3077534752,Pogotowie kręgosłupa,,0,52.252182,20.912497
+node/3080951487,Okręgowa Stacja Chemiczno-Rolnicza,,0,50.029482,21.987381
+node/3085405188,Krąg kamienny ze stelą,,0,53.929602,17.693723
+node/3085405194,"Witamy na ścieżce kulturowej ""Leśno Kręgi Kamienne""",,0,53.930366,17.695158
+node/3113616226,Kamienne kręgi w Trątkownicy,,0,54.286522,18.27179
+node/3113616227,"Trasa rowerowa ""Kamienne Kręgi""",,0,54.286504,18.271754
+node/31346858,Krąg,,0,54.21229,16.70218
+node/3138716048,Kręgielnia,,0,50.04141,19.936998
+node/31522043,Okrągłe,,0,54.191435,22.842803
+node/31522046,Okrągłe,,0,53.879913,21.993234
+node/31531158,Okręglik,,0,53.794746,17.724946
+node/31531731,Krąg,,0,54.003306,18.442358
+node/31531732,Krąg,,0,53.743566,18.060084
+node/31585115,Okrągłe,,0,53.419439,20.013905
+node/31585128,Okrągła Łąka,,0,53.61688,18.81542
+node/31588309,Krągi,,0,53.60302,16.58056
+node/31595820,Wólka Okrąglik,,0,52.628102,22.076871
+node/31620613,Krągola,,0,52.151742,18.251472
+node/31620681,Krągola Pierwsza,,0,52.145934,18.238034
+node/31793780,Okręglica,,0,51.857147,18.529193
+node/31793792,Okręglica,,0,51.523393,18.752032
+node/31877643,Okrąglik,,0,51.635383,21.035944
+node/31889455,Okręglica,,0,50.876745,21.411972
+node/3199183625,Pen-y-Stryd Stone Circle,archaeological_site,1,52.865166,-3.894115
+node/3219197764,Ochotnicza Straż Pożarna w Wólce Okrąglik,,0,52.62828,22.07573
+node/3237706876,Okręgowa Stacja Kontroli Pojazdów,,0,51.618958,16.874335
+node/3252759910,"F.H.U. ""CHOJDAK"" Okręgowa Stacja Kontroli Pojazdów",,0,51.412164,22.012208
+node/3259780244,Stone Circle,archaeological_site,1,53.201996,-3.242274
+node/3272725798,Kręgielnia,,0,52.412469,17.069666
+node/3280888571,Okręgowa Stacja Kontroli Pojazdów,,0,51.989407,21.188219
+node/3298237551,Jeleń Okrągle Kapliczka (204),,0,50.158192,19.276945
+node/3298237552,Jeleń Okrągle Skrzyżowanie (203),,0,50.158156,19.270564
+node/3298241262,Jeleń Okrągle Skrzyżowanie (266),,0,50.158292,19.268328
+node/3321279459,Okręgowa Stacja Kontroli Pojazdów Rosiak,,0,52.474027,17.242897
+node/3329326851,Stone Circle,archaeological_site,1,53.223616,-3.910617
+node/3342624199,Okręgowa Stacja Kontroli Pojazdów,,0,49.689616,21.193026
+node/3370665967,Okręgowa Stacja Kontroli Pojazdów,,0,51.394979,19.695772
+node/3396529147,Sąd Okręgowy i Rejonowy,,0,49.624153,20.689658
+node/3410392563,Kręgalnia,,0,49.632369,20.700423
+node/341776492,Okręgowa stacja kontroli pojazdów,,0,50.30863,18.754996
+node/3420287126,Okręgowa Stacja Kontroli Pojazdów ETM/017,,0,51.548179,20.027908
+node/3426360134,Okręgowa Stacja Chemiczno - Rolnicza w Opolu,,0,50.685312,17.943633
+node/343749451,Wildburn Stone Circle,ruins,1,55.524803,-3.772043
+node/3452656607,Okręglice /Pramen Okręglice/,,0,50.447102,19.787264
+node/3457461891,Steinkreis auf dem Horreb,,0,50.291326,11.071419
+node/3481276234,Info Steinkreis Werpeloh,,0,52.875753,7.473712
+node/3510954028,Kręgielnia Atom,,0,49.613502,20.695547
+node/3561638479,Okręgowa stacja kontroli pojazdów,,0,51.36789,17.459991
+node/359077230,Parkplatz Steinkreis,,0,48.791043,8.66601
+node/3621794078,Stone Circle,archaeological_site,1,52.9048,-4.024746
+node/3626942971,Okręgowa Stacja Kontroli Pojazdów,,0,51.711618,16.749144
+node/3644598514,Okręgowa Stacja Kontroli Pojazdów,,0,49.97,22.029207
+node/3654963592,Okręgowa Stacja Kontroli Pojazdów,,0,52.63505,17.42931
+node/3657617858,Bagno Krągłe,,0,50.456591,22.808278
+node/3663318715,Okrąglak,,0,50.663913,22.390459
+node/3680140059,Krągłe,,0,53.876426,16.558967
+node/3683634775,krąg druidów,,0,50.829252,15.813889
+node/3694420476,Okręgowa Stacja Kontroli Pojazdów,,0,52.998909,16.91741
+node/3696867080,Okrąglak Portków,,0,50.683866,22.374465
+node/3700817673,Okręgowa Stacja Kontroli Pojazdów,,0,50.935249,21.380977
+node/371648885,Krąg ziemny - miejsce stacjonowania oddziału partyzanckiego,monument,0,50.635119,22.897763
+node/371978310,Rzeczyca Okrągła,,0,50.644682,22.054831
+node/3725457716,Hafodygors Wen Stone Circle,archaeological_site,1,53.18889,-3.897833
+node/3745903851,Sąd Okręgowy w Poznaniu,,0,53.147549,16.74064
+node/3761999922,Kręgi Kamienne,,0,53.899048,17.993385
+node/3761999923,"Witamy w Rezerwacie Archeologiczno-Przyrodniczym ""Kamienne Kręgi"" w Odrach",,0,53.897035,17.996644
+node/3786975569,Ortachis Circoli Megalitici Stone Circle,archaeological_site,1,40.348311,8.907765
+node/3792660882,Państwowa Inspekcja Pracy Okręgowy Inspektorat Pracy w Katowicach,,0,50.253869,19.034986
+node/3813454172,Stone Circle,,0,51.879172,-9.586312
+node/3834632601,Restauracja Yunavi kręgielnia & squash,,0,52.404969,22.244073
+node/3841378156,Kręgielnia,,0,52.590525,14.638887
+node/3843769087,Steinkreis,,0,48.783329,9.160418
+node/3844208615,Standing Stone Circle,,0,56.216518,-3.165334
+node/3865425939,Sąd Okręgowy w Zielonej Górze,,0,51.936862,15.501951
+node/3871040076,Kołobrzeska Okrąglicka,,0,51.747589,18.152255
+node/3874037480,Okręgowa Stacja Kontroli Pojazdów,,0,53.878301,21.321203
+node/3890506861,Okręgowa Stacja Kontroli Pojazdów,,0,50.134071,19.581295
+node/3896639362,Biblioteka Muzeum Okręgowego,,0,50.035183,22.001611
+node/3909167281,Okrąglica Południowa,,0,49.516764,20.44445
+node/3909629690,Okrąg,,0,49.578505,20.364989
+node/3956578410,Okręgowy Urząd Miar w Katowicach,,0,50.259962,19.023032
+node/3965412222,Okręgowa Stacja Kontroli Pojazdów MPK,,0,52.517323,17.602719
+node/3979828923,Kręgi Kamienne w Węsiorach,,0,54.217227,17.839944
+node/3995067547,"Darlingerode, Am Steinkreis",,0,51.848889,10.73681
+node/3995067548,"Darlingerode, Am Steinkreis",,0,51.848927,10.736716
+node/3997134321,Stone Circle,,0,52.072604,-0.763256
+node/3997529546,Okręgowa Stacja Kontroli Pojazdów,,0,51.967025,17.486678
+node/4015360954,Okrąglak,,0,50.774598,15.751751
+node/4038588793,Am Steinkreis,,0,47.140957,16.096878
+node/4056954246,Okręgowa Stacja Kontroli Pojazdów,,0,49.87024,21.776008
+node/4058805172,Okręgowa Stacja Kontroli Pojazdów TSK/015,,0,51.111781,20.877655
+node/4082829825,Stensättning,archaeological_site,0,59.733593,17.832441
+node/4083920201,Okręgowa Stacja Kontroli Pojazdów,,0,53.83289,22.393683
+node/408993462,Okręgowy Inspektorat Państwowej Inspekcji Pracy,,0,52.201568,20.966807
+node/4102281589,Kręgielnia Kołacz,,0,53.301948,16.476921
+node/4124144367,Okręgowa stacja kontroli pojazdów,,0,54.068689,18.434654
+node/4124679849,Stensättningar,archaeological_site,0,59.215238,15.591859
+node/416047984,Gorsedd Stone Circle,monument,0,51.616171,-3.980847
+node/4165748142,Okręgowa Stacja Kontroli Pojazdów,,0,52.313404,15.089126
+node/4169533147,Prokuratura rejonowa i okręgowa,,0,50.300064,18.673713
+node/4205962889,Okrągła Góra,,0,51.5994,19.427128
+node/4206336702,EKO TANKO 2 Okręgowa Stacja Kontroli Pojazdów,,0,50.039228,20.224227
+node/4215499812,Okrągła,,0,49.518788,20.938338
+node/4223570332,Polski Czerwony Krzyż - Podlaski Oddział Okręgowy,,0,53.132517,23.171411
+node/4244752037,Okręgowa Stacja Kontroli Pojazdów w Ogrodzieńcu,,0,50.453824,19.508729
+node/4250151003,PZŁ - Zarząd Okręgowy w Zielonej Górze,,0,51.971679,15.543115
+node/4251283209,Kealkill stone circle,,0,51.744764,-9.371241
+node/4259838230,Beaghmore Stone Circles,,0,54.701401,-6.939241
+node/4259838231,Beaghmore Stone Circles,,0,54.70157,-6.936995
+node/4298729310,"Dårskilds Högar, stone circle #5",archaeological_site,1,58.929707,11.315811
+node/4308047271,Sąd Okręgowy w Warszawie,,0,52.230881,20.966586
+node/4313269414,Polski Związek Niewidomych - Okręg Wielkopolski,,0,52.413128,16.92008
+node/4316708174,Okręgowa Stacja Kontroli Pojazdów Bartex,,0,50.446174,19.114728
+node/4319187678,"Tablica ""Park Cytadela bezkręgowce""",,0,52.424734,16.933554
+node/4349461262,Kręgielnia Malwa,,0,51.658118,17.772522
+node/4365968087,Steinkreis,,0,53.045848,9.76158
+node/4368562956,Dolnośląska Okręgowa Izba Inżynierów Budownictwa,,0,51.112944,17.031381
+node/4371616993,Cromlech,,0,53.282221,-6.282064
+node/4382208127,Okręgowa Stacja Kontroli Pojazdów,,0,52.758696,16.970701
+node/4395955695,Ardamore Stone Row,archaeological_site,0,52.132235,-10.156436
+node/4396641283,Krąg pamięci,memorial,0,50.807461,17.463906
+node/4421011489,Kręgielnia Rondo,,0,53.339048,15.03696
+node/4422962955,Okręgowa Stacja Kontroli Pojazdów,,0,52.41676,19.025025
+node/4444717859,Stensättning,archaeological_site,0,59.033601,17.17294
+node/4444717860,Stensättning,archaeological_site,0,59.033758,17.173906
+node/4444724308,Stensättning,archaeological_site,0,59.034284,17.184301
+node/4447053089,Sąd Okręgowy,,0,49.692268,21.766261
+node/444751942,Parking przy rezerwacie Kamienne Kręgi w Odrach,,0,53.896909,17.997614
+node/444752353,Kamienne Kręgi w Leśnie,,0,53.929657,17.694121
+node/4449795290,Okręgowa Stacja Kontroli Pojazdów WG/011,,0,51.956744,21.55605
+node/4455695205,Okręgowa Stacja Kontroli Pojazdów WG/020/P,,0,51.810299,21.884526
+node/4458882016,Balbirnie stone circle (original site),archaeological_site,1,56.214638,-3.154261
+node/4459298057,Stensättning,archaeological_site,0,59.037502,17.198423
+node/4459304424,Stensättning,archaeological_site,0,59.03621,17.200788
+node/4459655589,Stensättning,archaeological_site,0,59.035601,17.207335
+node/4464957248,Polski Związek Niewidomych Okręg Pomorski,,0,54.378941,18.597696
+node/4484035489,Okręgowa Stacja Kontroli Pojazdów,,0,51.574688,17.697923
+node/4501564878,Śląski Oddział Okręgowy PCK,,0,50.291306,18.670421
+node/4578181879,Muzeum Okręgowe,,0,51.841374,16.571479
+node/4581896167,Okręgowa Stacja Kontroli Pojazdów Pol-Zar,,0,51.259621,22.62891
+node/4593964225,Okręgowa Stacja Kontroli Pojazdów,,0,50.94115,20.240447
+node/4594269995,Okręgowa Stacja Kontroli Pojazdów,,0,52.334434,21.101796
+node/4598337392,"Pawilon wielkich i średnich drapieżników, gadów, płazów, ryb, bezkręgowców",,0,50.718318,23.239571
+node/4602717648,Okrąglica,,0,51.575,16.297778
+node/4623217426,Krąglak,,0,51.421459,16.747583
+node/4637224725,Okrąglaczek,,0,49.965423,20.450392
+node/4652957430,Krąglak,,0,51.13295,16.576028
+node/4655345423,Okrąglak,,0,50.936111,16.599722
+node/4663060202,Okręgowa Stacja Kontroli Pojazdów LZ002,,0,50.731251,23.269141
+node/4666999741,Sąd Okręgowy w Kaliszu,,0,51.760003,18.089321
+node/4670566042,Okręgowy Inspektorat Pracy w Łodzi Oddział w Skierniewicach,,0,51.958502,20.146993
+node/4670738790,ZURIS Okręgowa Stacja Kontroli Pojazdów,,0,50.710575,23.212401
+node/4674153725,Sąd Okręgowy,,0,51.958036,20.147765
+node/4683309580,Gorosketattipi cromlech,archaeological_site,1,43.176245,-1.840486
+node/4683309581,Espide cromlech,archaeological_site,1,43.175082,-1.838277
+node/4684980597,Wyszyńskiego nr 126 Okrąglak,,0,50.715488,23.273702
+node/469264573,Pen-y-Beacon Stone Circle,archaeological_site,1,52.028958,-3.110067
+node/4693239087,Stone Circle,archaeological_site,1,56.463814,-3.400369
+node/4699638912,Masaż klasyczny kręgosłupa kręgarstwo Tadeusz Czarny,,0,50.073158,22.49389
+node/4701244310,Steinkreis,,0,51.193325,7.008539
+node/470210569,Bar pod Okrąglakiem,,0,50.051667,19.945108
+node/4704464810,Okręgowa Stacja Kontroli Pojazdów,,0,49.682305,20.469989
+node/4706663955,Dąb Pomorskiego Okręgu Wojskowego,,0,53.11816,18.011635
+node/4707259384,Venner Steinkreis - Sonnenuhr,,0,52.37993,8.133886
+node/4717221049,Glyn Arthur Round Cairn and Stone Circle,archaeological_site,1,53.161467,-4.17486
+node/4720866539,Okrąglak,,0,50.949511,16.159058
+node/4731007643,Biuro Zarządu Okręgowego PiS okręgu nr 41 Szczecin,,0,53.439507,14.519496
+node/475387279,Okręgowy Inspektorat Pracy,,0,50.064278,19.935576
+node/4754619229,Remico Okręgowa Stacja Kontroli Pojazdów,,0,52.59799,15.512054
+node/4764537772,Balbirnie Stone Circle (modern),stone,0,56.213784,-3.152896
+node/4770390436,Okręgowa Stacja Kontroli Pojazdów,,0,52.338378,14.614512
+node/4796450439,Okrągła,,0,50.746062,16.321332
+node/4808429951,Okręgowa Stacja Kontroli Pojazdów,,0,49.873672,22.812474
+node/4862041182,Cromlech,archaeological_site,1,43.009909,-1.387659
+node/486585198,Stone Circle (E bound),,0,54.603754,-3.098068
+node/486585202,Stone Circle (S bound),,0,54.603702,-3.098125
+node/4876646547,Stensättning,archaeological_site,0,59.795194,17.861158
+node/4877878791,Stensättning,archaeological_site,0,59.799923,17.852993
+node/4883856174,"""Timex"" S.A. Okręgowa Stacja Kontroli Pojazdów - Stacje obsługi i warsztaty samochodowe",,0,52.219311,21.303091
+node/4884503024,Okręgowa Stacja Kontroli Pojazdów,,0,52.99409,15.181211
+node/489371525,Stone Row,,0,54.863524,-1.639809
+node/489371527,Stone Row,,0,54.863845,-1.640146
+node/4911483164,Okręgowa Stacja Kontroli Pojazdów,,0,50.273254,18.953988
+node/4927623289,Dye Domarring,archaeological_site,1,59.407459,13.475463
+node/4935259521,Sklep Okręgowej Spółdzielni Mleczarskiej,,0,51.137389,22.854103
+node/4946362536,Niżnia Okrąglica,,0,49.413068,20.414213
+node/497296916,Domarringen,,0,60.662744,17.215523
+node/497296923,Domarringen,,0,60.662694,17.214806
+node/5010936763,Okręgowa stacja kontroli pojazdów,,0,52.415696,18.755078
+node/5046918526,Stone circle,,0,51.178556,-1.679289
+node/5052055669,Cromlech,archaeological_site,1,47.360964,-0.418349
+node/5103969701,Okręgowa Stacja Kontroli Pojazdów,,0,52.39401,16.805935
+node/5117016105,Okręgowa Stacja Kontroli Pojazdów WX/167,,0,52.26849,21.015505
+node/5118598363,Okręgowa Stacja Kontroli Pojazdów,,0,50.786534,19.130854
+node/513454689,Okrąglik / Kruhliak,,0,49.14705,22.366252
+node/513454725,Krąglica,,0,49.25295,22.19668
+node/5167448780,Steinsetzung Hunt,,0,53.405917,7.821158
+node/5167448781,Steinsetzung Hunt,,0,53.405904,7.821086
+node/5206488890,Przystanek 3. Bezkręgłowce rezerwatu Niebieskie Źródła,,0,51.512215,20.026052
+node/5231651610,Okrągły Dół,,0,52.720236,16.166084
+node/5234697487,Okręgowa Stacja Kontroli Pojazdów SCZ/016,,0,50.70265,19.150908
+node/5247275560,Okręgowa Stacja Kontroli Pojazdów,,0,50.12081,21.969014
+node/5251390932,Okręgowa Stacja Kontroli Pojazdów,,0,52.079235,16.619128
+node/5252854752,Okręgowa Stacja Kontroli Pojazdów LZA/003,,0,50.543626,23.24705
+node/5255773003,Okrągła Górka,,0,49.542648,22.28279
+node/5256723041,Kręgi Kamienne,stone,1,53.929379,17.6936
+node/5260397251,Sąd Okręgowy w Zamościu,,0,50.716103,23.27171
+node/5273774935,Cromlech de Lous Couraus,,0,43.067905,-0.445347
+node/5296259687,Polski Związek Działkowców Okręg Opolski w Opolu,,0,50.654416,17.946021
+node/5316468082,Kręgi na polu koło Nowego Objezierza,archaeological_site,0,52.848063,14.337636
+node/5317190341,Prokuratura Okręgowa we Włocławku,,0,52.658326,19.066848
+node/5335020304,Chodaków Okrąglak 01,,0,52.256973,20.272576
+node/5342142299,Sąd Okręgowy w Sieradzu,,0,51.593952,18.731388
+node/5395824224,Rzeczyca Okrągła 02,,0,50.646723,22.055253
+node/5432193130,Krężnia Okrągła skrz. na Kierz,,0,51.172478,22.231723
+node/5432193157,Krężnia Okrągła skrz. na Kierz,,0,51.171844,22.230522
+node/5432193185,Krężnica Okrągła - rondo,,0,51.163129,22.225699
+node/5432193186,Krężnica Okrągła – rondo,,0,51.163512,22.227421
+node/5432193187,Krężnica Okrągła – rondo,,0,51.163802,22.225397
+node/5432193198,Krężnica Okrągła – rondo ul. Kościuszki,,0,51.164129,22.226763
+node/5433737400,Großer Marler Steinkreis,,0,51.657302,7.09676
+node/5462655279,Okrągła,,0,49.438419,22.080645
+node/5484998657,Okrąglak,,0,49.783192,19.197052
+node/5506717194,Okrąglak,,0,53.040544,15.053704
+node/5530618472,Cromlech du Puy de Pauliac,archaeological_site,1,45.184542,1.682971
+node/5577241683,Rondo Kręgów Kamiennych,monument,0,53.803273,17.97854
+node/5579746736,Steinkreis,,0,49.997865,8.303929
+node/5585780942,Okrągła 01,,0,52.317225,21.067106
+node/5588232707,Loanhead Stone Circle,,0,57.349245,-2.421383
+node/5596209867,Discover Eden Stone Circle,,0,54.903162,-2.91831
+node/5597315665,Steinkreis,,0,49.995915,8.312744
+node/559985905,Stone row,archaeological_site,0,51.611748,-10.132546
+node/5617140842,Kamienne kręgi w Świdnicy,,0,51.871875,15.379554
+node/5617140882,Kamienne kręgi w Świdnicy,,0,51.8655,15.379107
+node/562703448,Staddlestone Circle,,0,52.03946,-2.71643
+node/5646286175,Okręgowa Stacja Kontroli Pojazdów AUTO DZIENISZ,,0,54.563604,18.480602
+node/5648250724,Okręgowa Stacja Kontroli Pojazdów,,0,52.212477,20.969365
+node/5656901839,Okręgowa Stacja Kontroli Pojazdów,,0,51.160843,15.000456
+node/567835419,Sąd Okręgowy,,0,51.20555,16.157599
+node/568803379,Stone Row,,0,50.434891,-3.880309
+node/5695242503,Castlerigg Stone Circle,,0,54.60365,-3.098032
+node/5695242504,Castlerigg Stone Circle,,0,54.60366,-3.098032
+node/5695242505,Castlerigg Stone Circle,,0,54.603679,-3.098406
+node/5695242506,Castlerigg Stone Circle,,0,54.603689,-3.098406
+node/5701343185,Kamienny krąg,,0,53.533132,19.903687
+node/5705349035,Stone circle,archaeological_site,1,56.469299,-3.395396
+node/571598051,Stone Row (West),,0,50.554621,-4.043955
+node/571598083,Stone Row (East),,0,50.554903,-4.041911
+node/571598085,Stone Row Merrivale,,0,50.554912,-4.040613
+node/5737574464,Zachodniopomorski Oddział Okręgowy PCK,,0,53.432821,14.540902
+node/579643769,Sąd Okręgowy,,0,52.742873,15.229998
+node/5804284277,Okręgowa Stacja Kontroli Pojazdów,,0,51.024426,17.062651
+node/5818039537,Muzeum Okręgowe,,0,52.289022,18.257144
+node/5818190397,OKRĘG Polskiego Związku Wędkarskiego SZCZECIN,,0,53.435284,14.537395
+node/5820100377,Krągola NŻ,,0,52.151397,18.251609
+node/5820100378,Krągola NŻ,,0,52.151363,18.251599
+node/5820100379,Krągola NŻ,,0,52.151691,18.251077
+node/5820100380,Krągola NŻ,,0,52.15168,18.251188
+node/5822422441,Krągola Pierwsza NŻ,,0,52.148058,18.22716
+node/5822422442,Krągola Pierwsza NŻ,,0,52.148087,18.227144
+node/5822422443,Krągola Pierwsza NŻ,,0,52.148115,18.227095
+node/5822422444,Krągola Pierwsza NŻ,,0,52.148082,18.227115
+node/5822422445,Krągola NŻ,,0,52.145039,18.228573
+node/5822422446,Krągola NŻ,,0,52.145038,18.228635
+node/5822422451,Krągola NŻ,,0,52.144829,18.228637
+node/584469212,Muzeum Okręgowe w Tarnowie,,0,50.01287,20.98847
+node/5856430565,Sittaford Tor stone circle,ruins,1,50.628828,-3.938177
+node/5881048055,Polski Związek Łowiecki Zarząd Okręgowy w Zamościu,,0,50.714089,23.267728
+node/5943114401,Okręgowa Stacja Kontroli Pojazdów ZPL/006,,0,53.555102,14.557175
+node/5971408238,Okręgowa Izba Pielęgniarek i Położnych,,0,53.046924,18.577352
+node/598727629,Domarringen,monument,1,58.138285,11.8277
+node/5994217454,Sąd Okręgowy w Szczecinie,,0,53.428134,14.561378
+node/601208919,Lundby domarring,monument,1,59.170412,14.862546
+node/6045689891,Okręgowa Stacja Kontroli Pojazdów Sławex,,0,52.483242,16.979019
+node/6048790313,Okręgowy Urząd Miar w Gdańsku,,0,54.40299,18.560545
+node/6122345795,Schronsiko w Okrągłej Górze,,0,50.418808,20.671207
+node/614776666,Stary drogowskaz - kamienny krąg,memorial,0,54.40323,18.543244
+node/6166891976,Okręgowa Stacja Kontroli Pojazdów,,0,53.455974,14.572228
+node/6179290795,Okręgowa Izba Lekarska,,0,51.746071,19.459123
+node/6204028969,Zachodniopomorska Okręgowa Izba Inżynierów Budownictwa,,0,53.418964,14.565062
+node/6227623270,Okręgowa Izba Radców Prawnych,,0,51.753645,19.473996
+node/6230113884,Krągła,,0,50.61473,22.806746
+node/6230647871,Okręgowa Stacja Kontroli Pojazdów EKO-WOD,,0,50.834772,16.508082
+node/6245745281,Okręgowa Stacja Kontroli Pojazdów,,0,52.504968,16.597857
+node/6246709785,Okręgowa Stacja Kontroli Pojazdów ETM/028,,0,51.55169,20.01427
+node/6246760343,Okręgowa Stacja Kontroli Pojazdów ETM/001,,0,51.553466,20.018674
+node/6246799208,Okręgowa Stacja Kontroli Pojazdów ETM/003,,0,51.555439,20.004474
+node/6247129933,Okręgowa Stacja Kontroli Pojazdów ETM/012,,0,51.516987,20.061566
+node/6247187138,Okręgowa Stacja Kontroli Pojazdów ETM/020,,0,51.507169,20.044756
+node/6249768887,Okrąglak,,0,50.703539,22.722602
+node/6257550097,Okręgowa Stacja Kontroli Pojazdów,,0,52.420553,17.084001
+node/6276278063,Okręgowa Stacja Kontroli Pojazdów,,0,51.427119,21.949556
+node/6284286074,Stone circle,,0,56.218576,-3.188689
+node/6287111155,Okręgowa Stacja Kontroli Pojazdów MPK Poznań,,0,52.381378,16.86114
+node/6288047458,Okręgowa stacja kontroli pojazdów WAŚPOL,,0,49.974494,19.810598
+node/6305849116,Okręgowa Stacja Kontroli Pojazdów,,0,52.232278,16.850262
+node/6316675688,Okręgowa Stacja Kontroli Pojazdów,,0,49.974471,19.810606
+node/6327683590,Warszawskie Kręgi,,0,52.199748,20.976695
+node/6337620514,Okręgowa Stacja Kontroli Pojazdów,,0,52.337508,16.893059
+node/6339642570,Okręgowa Stacja Kontroli Pojazdów,,0,53.783972,20.505991
+node/6340687062,Okręgowa Stacja Kontroli Pojazdów ZS/006,,0,53.382461,14.650398
+node/6349414045,Sąd Okręgowy w Ostrołęce,,0,53.08417,21.570174
+node/6352269130,Okręgowa Stacja Kontroli Pojazdów,,0,51.162534,17.029717
+node/6357108201,Okręgowy Urząd Górniczy w Katowicach,,0,50.266487,18.965908
+node/6357749758,Kręgielnia Piwinica,,0,52.659108,19.046445
+node/6370941252,Kręgielnia A1,,0,53.711454,17.583156
+node/6371207405,Biurowiec Zakładów Energetycznych Okręgu Wschodniego,,0,51.400378,21.163464
+node/6387743901,Kręgielnia Zorza,,0,51.075468,17.720413
+node/6391172566,Cromlech,archaeological_site,1,39.705399,-4.198665
+node/6408349023,Kręgielnia A1,,0,53.711488,17.583177
+node/6422780900,Kręgielnia Aquapark Sopot,,0,54.459687,18.557349
+node/6447198626,Dam-Ber s.c. Okręgowa stacja kontroli pojazdów,,0,50.294052,19.470854
+node/6479061260,Okręgowa Stacja Kontroli Pojazdów,,0,52.681966,17.196628
+node/6494336096,Prokuratura Okręgowa we Wrocławiu,,0,51.105536,17.02691
+node/6500972876,Okręgowa stacja kongroli pojazdów WX029/P,,0,52.272346,21.066594
+node/650798513,Tablica upamiętniająca żołnierzy Śląskiego Okręgu Armii Krajowej zamordowanych w katowickim więzieniu,memorial,0,50.255234,19.013574
+node/6508885158,Polski Związek Kręglarski,,0,52.409552,16.910734
+node/6531705201,MATT Okręgowa Stacja Kontroli Pojazdów,,0,52.348904,16.824853
+node/6535275263,Stone Circle,archaeological_site,1,54.967528,-7.167568
+node/6536823093,Cromlech Bidegorreta,archaeological_site,1,43.129845,-1.902125
+node/6549438213,Sąd Okręgowy w Słupsku,,0,54.467072,17.031838
+node/6551126171,Sąd Okręgowy,,0,54.468292,17.029899
+node/655322033,Sąd Okręgowy w Katowicach,,0,50.256777,19.013947
+node/6566720722,Okręgowy Urząd Miar,,0,51.118348,17.013744
+node/6604431130,Okręgowa Stacja Kontroli Pojazdów,,0,52.996423,17.50031
+node/6605682649,Okręgowa Stacja Kontroli Pojazdów KR/022,,0,50.035529,20.005099
+node/6690873110,Tarnowski Okręgowy Związek Żeglarski,,0,50.020228,21.001132
+node/6691713825,Okręgowa Stacja Kontroli Pojazdów,,0,51.097169,16.981767
+node/6708089232,Cromlech,stone,0,51.187909,-4.214074
+node/6722723364,Uragh SW Stone Circle,stone,1,51.807777,-9.704131
+node/6722761435,Uragh North Stone Circle,archaeological_site,1,51.813799,-9.689755
+node/6742642755,Okręgowa Stacja Kontroli Pojazdów,,0,52.86145,18.704039
+node/6744596420,Beim Steinkreis,,0,48.791235,8.666706
+node/6745795197,Prokuratura Okręgowa w Suwałkach,,0,54.117114,22.937558
+node/6745887678,Okręgowy Inspektorat Służby Więziennej w Szczecinie,,0,53.423234,14.54797
+node/6745887700,Prokuratura Okręgowa w Szczecinie,,0,53.423346,14.547265
+node/6750645176,Prokuratura Okręgowa w Zielonej Górze,,0,51.932018,15.520149
+node/6750794352,Prokuratura Okręgowa w Legnicy,,0,51.199272,16.15709
+node/6750933768,Prokuratura Okręgowa w Nowym Sączu,,0,49.617509,20.694048
+node/6753191918,Prokuratura Okręgowa w Świdnicy,,0,50.844094,16.492489
+node/6753220761,Prokuratura Okręgowa w Gorzowie Wielkopolskim,,0,52.73255,15.229978
+node/6753245674,Prokuratura Okręgowa w Sieradzu,,0,51.592876,18.731951
+node/6753255032,Prokuratura Okręgowa w Tarnobrzegu,,0,50.574391,21.675055
+node/6757694020,Polski Związek Wędkarski Okręg w Poznaniu,,0,52.446324,16.924149
+node/6770651281,Okręgowa Stacja Kontroli Pojazdów ZUK Mosina,,0,52.240346,16.852963
+node/6782791339,Steinkreis Medizinrad,memorial,0,48.903825,11.635799
+node/6806481730,Okręgowa Izba Radców Prawnych,,0,51.402519,21.153995
+node/6806587289,PZW Okręg w Zielonej Górze Buczek Wojskowy,,0,51.457955,15.591077
+node/6810247631,PZW Okręg w Zielonej Górze Buczek 3 wyrobisko,,0,51.454997,15.594858
+node/6810247633,PZW Okręg w Zielonej Górze Buczek 2 wyrobisko,,0,51.455206,15.597527
+node/6817524909,Pizzeria & Kręgielnia La Gondola,,0,49.89143,20.818942
+node/6859145043,Okręgowa Stacja Kontroli Pojazdów,,0,51.122201,17.121224
+node/6859145044,Okręgowa Stacja Kontroli Pojazdów,,0,51.148683,17.023407
+node/6859170216,Okręgowa Stacja Kontroli Pojazdów,,0,51.127997,16.953464
+node/6859171537,Okręgowa Stacja Kontroli Pojazdów,,0,51.140222,17.093584
+node/6859180947,Okręgowa Stacja Kontroli Pojazdów,,0,51.168625,17.022598
+node/6864292063,Cromlech de Lacam de Rogues (B),archaeological_site,1,43.89032,3.5658
+node/6864319855,Cromlech de Planas (B),archaeological_site,1,43.927711,3.53692
+node/6864320449,Cromlech de Lacam de la Rigalderie,archaeological_site,1,43.927151,3.49137
+node/688068216,Okręgowa Stacja Kontroli Pojazdów,,0,49.79623,20.5977
+node/6900876470,Okręgowy Urząd Miar w Szczecinie,,0,53.430053,14.550085
+node/6919788331,Pomorskie Okręgowe Muzeum PRL,,0,53.465903,17.535036
+node/692604933,Okrąglik,,0,50.7647,19.42479
+node/692606343,Krągi-Osiedle,,0,53.59576,16.58002
+node/692606346,Krągłe,,0,53.877238,16.557121
+node/692615106,Rozbórz Okrągły,,0,49.924793,22.489907
+node/692622063,Okrąg,,0,52.865166,19.192293
+node/7023310292,Im Steinkreis,,0,47.581484,9.847678
+node/7045058155,Moto Koncept Sp zo.o Okręgowa Stacja Kontroli Pojazdów,,0,49.696007,19.180509
+node/7060828586,Miejsce punktu kontaktowego Komendy Poznańskiego Okręgu Armii Krajowej,memorial,0,52.403536,16.94051
+node/7067161331,Okręgowy Urząd Górniczy w Rybniku,,0,50.042761,18.573787
+node/707154673,Steinkreis,,0,51.256784,6.406124
+node/7076330358,Okręgowa Stacja Kontroli Pojazdów,,0,53.707446,16.711029
+node/708117312,Steinkreis,ruins,1,49.966012,9.635148
+node/7128123762,Okrągła,,0,49.549938,20.897826
+node/7132579548,Okręgowa Stacja Kontroli Pojazdów ZSW/006,,0,53.893633,14.242868
+node/7164362400,Okręgowa Stacja Kontroli Pojazdów TT-Thermo King Sp. z o.o.,,0,52.347225,16.776846
+node/7193741306,"Okręgowy urząd miar we Wrocławu, wydział zamiejscowy w Brzegu",,0,50.861596,17.460422
+node/7206328450,"Kręgielnia ""RENOMA""",,0,50.30226,19.004472
+node/7235014385,Okręgowa Stacja Kontroli Pojazdów,,0,52.833623,15.845631
+node/7286560954,Okrąglak pub & pizza,,0,53.668768,15.120614
+node/729619719,Kręgielnia Rydzewski,,0,53.82303,22.356172
+node/7302082824,Okręgowa Stacja Kontroli Pojazdów ONY/023,,0,50.456887,17.358017
+node/7342883171,Okrąglica,,0,51.066389,20.614722
+node/7431223543,OKRĘGOWA STACJA KONTROLI POJAZDÓW AUTO CHECK sp. zo.o.,,0,50.568983,18.88847
+node/7475647617,Okrągła,,0,49.665909,20.028264
+node/7475799641,Okręgowy Urząd Górniczy,,0,51.111414,17.034186
+node/7553981527,Cromlech,archaeological_site,0,54.418574,-8.298501
+node/7565392824,Okręgowa stacja kontroli pojazdów HERON,,0,50.050191,22.524304
+node/7573218125,Okręgowa Stacja Kontroli Pojazdów TK/001,,0,50.862313,20.59758
+node/7589336967,Okręgowe Przedsiębiorstwo Energetyki Cieplnej w Puławach,,0,51.422108,21.966066
+node/7594639409,Okręgowa Stacja Kontroli Pojazdów WSK/011,,0,52.412533,22.229177
+node/7638855192,Okręgowa Stacja Kontroli Pojazdów,,0,54.122564,18.010587
+node/7658726954,Okrągła Górka,archaeological_site,0,53.735731,19.611119
+node/7695437413,Okręgowa Stacja Kontroli Pojazdów,,0,50.173225,19.471788
+node/7707277087,Okręgowa stacja kontroli pojazdów,,0,54.340322,18.029387
+node/7728477148,Wólka Okrąglik II,,0,52.626612,22.073404
+node/7730791137,Okrągła,,0,49.446532,20.89124
+node/7747819618,Okręgowa Stacja Kontroli Pojazdów,,0,53.046778,16.442809
+node/7771498964,PSZ/008 Okręgowa SKP,,0,52.717769,16.386009
+node/7776596356,PZW Okręg w Zielonej Górze,,0,52.045017,14.986214
+node/7776596365,PZW Okręg w Zielonej Górze,,0,52.045413,14.988953
+node/7797121746,Stone Rings,,0,54.266865,-3.147212
+node/7806195789,Okrągła skała,,0,49.429181,20.128339
+node/7815462863,Marpol Okręgowa Stacja Kontroli Pojazdów,,0,50.66556,18.774117
+node/7815492444,Okręgowa Stacja Kontroli Pojazdów Ansibl,,0,50.633447,18.847061
+node/7820545196,Krąg kierunkowy Baterii Wiejskiej,yes,0,54.407625,18.648884
+node/7827770019,Słowiański Krąg Kamienny,,0,52.644484,22.765018
+node/7837509085,Okręgowa Stacja Kontroli Pojazdów CSW 015,,0,53.594427,18.349334
+node/7837551887,Okręgowa Stacja Kontroli Pojazdów GCH 015,,0,53.709347,17.538963
+node/7837555185,Okręgowa Stacja Kontroli Pojazdów,,0,53.892476,17.722921
+node/7837555385,Okręgowa Stacja Kontroli Pojazdów GCH 007,,0,53.707358,17.578914
+node/7845927202,Okręgowa Stacja Kontroli Pojazdów TSK/021,,0,51.099052,20.863863
+node/7847391086,Grange Stone circle,,0,52.514315,-8.542791
+node/7868801439,Krężnia Okrągła,,0,51.172943,22.232386
+node/7868801440,Krężnia Okrągła,,0,51.17296,22.232366
+node/7868935687,Krężnia Okrągła,,0,51.162203,22.224706
+node/7911115308,Okręgowa Stacja Kontroli Pojazdów,,0,53.119345,23.127566
+node/793552630,Okręgowa Stacja Kontroli Pojazdów,,0,51.208187,16.128613
+node/7952827676,Stone Circle,ruins,1,57.483974,-7.300023
+node/7961313060,Małopolska Okręgowa Izba Pielęgniarek i Położnych w Krakowie,,0,50.070935,19.94083
+node/7966164342,Okręgowa Stacja Kontroli Pojazdów Śmigrol,,0,52.005328,16.525716
+node/7970041133,Związek Oficerów Rezerwy Rzeczypospolitej Polskiej im. Marszałka Józefa Piłsudskiego - Zarząd Okręgu Kujawsko-Pomorskiego,,0,53.126758,18.010286
+node/7970041137,Związek Represjonowanych Politycznie Żołnierzy Górników - Okręgowy Zarząd w Bydgoszczy,,0,53.126756,18.010294
+node/7970041138,Związek Inwalidów Wojennych RP - Zarząd Okręgowy w Bydgoszczy,,0,53.126762,18.010289
+node/799556385,Stensättningar,,0,58.374618,15.538153
+node/8003387203,Okręgowa Stacja Kontroli Pojazdów Satal II,,0,51.388591,21.13173
+node/8007322883,Okręgowa Stacja Kontroli Pojazdów,,0,50.271042,21.252658
+node/8016059747,Okręgowa stacja kontroli pojazdów,,0,51.385964,21.132259
+node/8100998693,Okręgowa Izba Lekarska,,0,53.437785,14.511089
+node/8124232517,Diagona - Okręgowa Stacja Kontroli Pojazdów,,0,52.903952,16.588437
+node/8175066305,Okręgowa Stacja Kontroli Pojazdów,,0,53.161538,18.913422
+node/8237691885,Okręgowa Stacja Kontroli Pojazdów Iwo-Mar,,0,50.308214,19.767319
+node/8275023592,Forntida stensättning,archaeological_site,0,58.385082,13.66758
+node/8275978204,Okręgowa stacja kontroli pojazdów Autocom,,0,52.222489,20.929932
+node/8279158965,Sighthill Stone Circle,,0,55.869985,-4.240473
+node/8284982579,Wodne Bezkręgowce,,0,51.551272,17.367514
+node/8291847339,Polski Związek Wędkarski Okręg w Zielonej Górze,,0,51.928877,15.505014
+node/830288083,Okrąglica,,0,50.720588,19.461596
+node/8303645723,Okręgowa Stacja Kontroli Pojazdów KR/002,,0,50.085301,20.067564
+node/832398447,Okrąglica,,0,49.627328,19.655081
+node/8328257018,Okręgowa Stacja Kontroli Pojazdów TKI/008,,0,50.928761,20.555027
+node/8328337842,Okręgowa Stacja Kontroli Pojazdów TKI/015,,0,50.972699,20.656775
+node/8330279940,Okręgowa Stacja Kontroli Pojazdów TKI/022,,0,50.756366,20.590736
+node/8330990946,Okręgowa Stacja Kontroli Pojazdów TKI/024,,0,50.852084,21.084196
+node/8331319642,Okręgowa Stacja Kontroli Pojazdów TKI/025,,0,50.852622,20.817169
+node/8331407033,Okręgowa Stacja Kontroli Pojazdów TKI/033,,0,50.907808,20.683193
+node/8343759983,Okręgowa Stacja Kontroli Pojazdów TSA/008,,0,50.591672,21.574998
+node/8347014825,Okręgowa Stacja Kontroli Pojazdów TKN/005,,0,51.068859,20.248479
+node/8347175796,Okręgowa Stacja Kontroli Pojazdów TSZ/005,,0,50.440953,21.292146
+node/8353535664,"PZW Okręg w Zielonej Górze Betony Duże  wyrobisko 2,6[ha]",,0,51.783607,15.235278
+node/8363362993,Okręgowa Stacja Kontroli Inter Auto,,0,52.120802,16.127207
+node/846142083,Sąd Okręgowy,,0,54.191122,16.200019
+node/846142317,Sąd Okręgowy,,0,54.192392,16.198288
+node/8478198395,Historischer Steinkreis,memorial,0,53.777475,8.62014
+node/847984681,Krągłe,,0,52.608917,23.550754
+node/8483706614,Okrągłe,,0,50.518224,22.723286
+node/8489122239,Okręgowa Stacja Kontroli Pojazdów,,0,50.031135,18.672533
+node/8499431695,Krągi Osiedle,,0,53.595424,16.578149
+node/8510824749,Kręgielnia,,0,50.637197,21.887737
+node/8518301454,Stone Circle,,0,54.371054,-7.466476
+node/8520568491,Śląski Oddział Okręgowy PCK - Dom Polskiego Czerwonego Krzyża,,0,50.300897,18.972481
+node/8528596226,Wólka Okrąglik I,,0,52.63777,22.051787
+node/8528596227,Wólka Okrąglik I,,0,52.638544,22.050835
+node/8541560857,Wólka Okrąglik II,,0,52.627134,22.072188
+node/8541560858,Wólka Okrąglik II,,0,52.626574,22.073314
+node/8556246422,Okręgowa Stacja Kontroli Pojazdów TSK/019,,0,51.097726,20.8618
+node/8567397504,Okręgowa Stacja Kontroli Pojazdów w Żłobnicy,,0,51.215392,19.260113
+node/8571969228,Okrągłe,,0,50.514977,22.72901
+node/8590199446,Diabelska kręgielnia,,0,50.706547,17.121604
+node/8616056797,Okręgowa Stacja Kontroli Pojazdów,,0,52.332497,17.537117
+node/8616208523,Okręgowa Stacja Kontroli Pojazdów,,0,52.28457,17.883123
+node/8676492209,Steinkreis,,0,49.928389,10.268756
+node/8679600826,Okręgowa stacja kontroli pojazdów,,0,54.114164,22.926968
+node/8718557640,Stone Circle,,0,53.495029,-1.005157
+node/8728785869,Okręglica,,0,49.64288,21.461159
+node/8749827239,Okręglica,,0,49.731106,21.410137
+node/8751002828,Cromlech,archaeological_site,0,51.52313,-9.346141
+node/8760811078,Prokuratura Okręgowa,,0,52.412358,16.927979
+node/8760811080,Prokuratura Okręgowa - Wydział VIII do Spraw Wojskowych,,0,52.412623,16.924419
+node/877217633,Cromlech de la Baigt de Saint-Cours,ruins,1,42.869115,-0.504933
+node/8772467781,Okręgowa Stacja Kontroli Pojazdów,,0,49.425455,22.606793
+node/8779518864,Okręgowa Stacja Kontroli Pojazdów Ryczywoł,,0,52.814327,16.836558
+node/8792734475,Carriganine Cromlech,archaeological_site,0,51.518458,-9.62162
+node/8815604825,Steinkreis,,0,50.925916,10.831698
+node/8820600361,Kamienny Krąg,memorial,0,50.935841,15.969522
+node/8870722407,Kamienny krąg,,0,54.397736,18.571699
+node/8880627028,Okręgowa Stacja Kontroli Pojazdów,,0,52.023253,16.534395
+node/8897392944,Okręg Śląski Związku Polskich Artystów Fotografików,,0,50.255084,19.021159
+node/8904197848,Okręgowa Stacja Kontroli Pojazdów TSK/012,,0,51.086238,20.862369
+node/8935471432,Okręgowa Stacja Kontroli Pojazdów WWL/029,,0,52.344309,21.227309
+node/8940396906,Steinkreis,,0,51.325321,14.350836
+node/8951350459,Okręgowa Stacja Kontroli Pojazdów WL/012,,0,52.43245,21.029435
+node/8953960242,Okręgowa Stacja Kontroli Pojazdów TKN/009,,0,51.190875,20.38528
+node/8956480494,Kamienny Krąg w Jeziorach Małych,,0,52.161772,17.140082
+node/8960868272,Duddo Stone Circle,,0,55.686883,-2.113492
+node/8964362430,Stone circle,,0,53.525557,-2.590367
+node/8977024593,Okręgowa Stacja Kontroli Pojazdów WX/152,,0,52.199167,20.891691
+node/9082819435,Der Steinkreis als Kraftort,,0,49.202189,12.889718
+node/9101547750,Okręgowa Stacja Kontroli Pojazdów,,0,49.886795,20.080909
+node/9103750093,Okręgowa Stacja Kontroli Pojazdów,,0,51.709473,16.740058
+node/9108114927,Polski Związek Wędkarski Okręg w Kielcach,,0,50.877355,20.63569
+node/9114678707,Miejsce siedziby Komitetu Okręgowego Polskiej Partii Socjalistycznej Lewicy,memorial,0,52.404776,16.941898
+node/9115973787,Miejsce pierwszego posiedzenia Komitetu Okręgowego PPR,memorial,0,52.382272,16.884136
+node/9116981205,Miejsce Wydziału Organizacyjnego Poznańskiego Okręgu Związku Walki Zbrojnej,memorial,0,52.409225,16.935088
+node/9120684351,Miejsce posiedzeń Okręgowego Komitetu KPRP,memorial,0,52.409002,16.932024
+node/9120684355,Miejsce dowodzenia Związkiem Odwetu Poznańskiego Okręgu ZWZ,memorial,0,52.407116,16.933301
+node/9122432473,Okręgowa Stacja Kontroli Pojazdów,,0,51.967053,21.2142
+node/9125964217,Okrągła Skała,,0,50.849167,15.536111
+node/9130620698,Solinger Steinkreis,,0,51.166249,7.093571
+node/9150928797,Okręgowa Stacja Kontroli Pojazdów BWM/008,,0,52.873346,22.552635
+node/9163080270,Das Brandnertal gemeinsam erleben / Steinkreise,,0,47.149393,9.755632
+node/9163080274,Steinkreise,,0,47.154225,9.758318
+node/9164128428,Okręgowa Stacja Kontroli Pojazdów PKN/021,,0,52.16979,18.215046
+node/9168769807,Kręgielnia Mirosławiec ROYAL PUB,,0,53.34275,16.082951
+node/9168769808,Kręgielnia Mirosławiec ROYAL PUB,,0,53.342876,16.082992
+node/9174084413,"Sieraków, I (Okręg Międzychodzki)",,0,52.640427,16.053759
+node/9174084414,"Sieraków, I (Okręg Międzychodzki)",,0,52.639219,16.05194
+node/9176648329,Polski Związek Wędkarski - Okręg Mazowiecki,,0,52.231131,20.995528
+node/9200195702,Okręgowa Izba Radców Prawnych,,0,52.239913,20.980639
+node/9219972533,Okręgowa Stacja Kontroli Pojazdów,,0,50.059322,20.198628
+node/9238618674,Tablica żołnierzy okręgu poznańskiego Armii Krajowej,memorial,0,52.411633,16.920001
+node/9246150517,Sąd Okręgowy,,0,54.191131,16.199936
+node/9250117812,Okręgowa Stacja Kontroli Pojazdów,,0,52.187123,20.997273
+node/9264703227,Piskowitzer Steinkreis,archaeological_site,1,51.282741,14.209208
+node/9293406995,Acharn stone circle,archaeological_site,1,56.558193,-4.00631
+node/9391670388,Okręgowa stacja kontroli pojazdów,,0,49.951765,18.482652
+node/9403759901,"Okręgowa Stacja Kontroli ""Rudnik""",,0,54.182048,17.485427
+node/9423581779,Okręg PZW w Krośnie,,0,49.71667,21.724642
+node/9430320538,"Okręgowa Stacja Kontroli ""Pawłowski""",,0,54.181276,17.487824
+node/9436468951,Okręgowa Stacja Kontroli Pojazdów,,0,52.683843,19.006946
+node/9438937611,Okręgowa Izba Lekarska,,0,49.688615,21.766472
+node/9442744395,Harcerski Krąg Seniora,,0,49.69013,21.766554
+node/9445920521,Sąd Okręgowy,,0,51.103318,17.053783
+node/9490076985,Hwlfa'r Ceirw Stone Row,archaeological_site,0,53.338887,-3.85566
+node/9524464290,Sąd Okręgowy we Wrocławiu,,0,51.105968,17.024231
+node/9565902689,Polski Czerwony Krzyż - Wielkopolski Oddział Okręgowy,,0,52.394003,16.923074
+node/9569874337,Zakład Pielęgnacyjno-Opiekuńczy Caritas Okręg Głogów Młp.,,0,50.153698,21.966587
+node/9592967625,Kamienny Krąg,memorial,0,53.169939,18.036387
+node/9623058666,Stensättning,archaeological_site,0,60.656604,15.776704
+node/9623058667,Stensättning,archaeological_site,0,60.658926,15.77916
+node/9623058668,Stensättning,archaeological_site,0,60.660622,15.774047
+node/9627262040,Okrągłe,,0,50.996772,22.810835
+node/9627364590,Okręgowa Stacja Kontroli Pojazdów PKM Spółka z o.o.,,0,50.193297,19.284308
+node/9670378240,Kręgielnia WIKI,,0,49.540277,22.213564
+node/9694325064,Okręgowa Stacja Kontroli Pojazdów FZI/005,,0,52.090907,15.619201
+node/9709778949,Kręgi,,0,50.359979,16.41515
+node/9710000432,Domarring,,0,59.328988,18.025288
+node/9713864708,Okręgowa Komisja Egzaminacyjna w Krakowie,,0,50.076841,20.051215
+node/9727019368,"Okręgowy Urząd Miar w Gdańsku, Wydział Zamiejscowy w Kętrzynie",,0,54.074854,21.384333
+node/9734767191,Castlerigg Stone Circle,,0,54.603724,-3.098766
+node/9764786097,Kołacz na Okrągło,,0,52.231752,21.01139
+node/9771426441,Okręgowa Stacja Kontroli Pojazdów,,0,52.502713,16.734939
+node/9789024131,Bezkręgowce muraw,,0,52.845883,14.231611
+node/9809758793,Podświetlane kręgi z archiwalnymi zdjęciami Rynku Kościuszki,,0,53.132353,23.159351
+node/9844427199,Okręgowa Stacja Kontroli Pojazdów,,0,52.201561,20.211862
+node/9853654500,Kręgielnia Pod Pałacem,,0,50.634413,18.840842
+node/9858354260,"Bezkręgowce: mięczaki, motyle i ważki",,0,50.765355,20.488227
+node/9877462147,Okrąg 01,,0,52.096372,21.009563
+node/9879991757,Krężnica Okrągła,,0,51.164647,22.247615
+node/9888636753,Okręgowa Stacja Kontroli Pojazdów,,0,52.550039,16.10873
+node/9908915630,Okręgowa Stacja Kontroli Pojazdów WWL/010,,0,52.313737,21.183398
+node/9917582060,Okrąglak Café,,0,51.41771,21.970316
+node/9941961917,Okręgowa Stacja Kontroli Pojazdów,,0,51.748211,19.482201
+node/9943481799,Cromlech de Kergonan,,0,47.590322,-2.851357
+node/9949299360,Polski Związek Działkowców - Okręgowy zarząd Mazowiecki,,0,52.246475,21.109571
+node/9954858353,Domarringar på Revstensmon,archaeological_site,1,59.076585,14.319382
+node/9967444496,Polski Związek Działkowców Okręgowy Zarząd w Gdańsku,,0,54.378316,18.605663
+node/9976843780,Małopolski Oddział Okręgowy Polskiego Czerwonego Krzyża,,0,50.062561,19.929329
+node/9981994146,Okręgowa stacja kontroli pojazdów,,0,52.553204,16.995739
+node/9983933599,Przedszkole nr 113 „Przedszkole w Tęczowym Kręgu”,,0,52.294299,21.046392
+relation/10253240,Alternativweg Steinkreis-Hoimostein,,0,49.98902,9.6243318
+relation/10806574,Okręgowa Spółdzielnia Mleczarska,,0,50.968948,23.1528887
+relation/12476364,Drummy Woods and Stone circle,,0,57.1273,-2.8581229
+relation/13102457,Okręglik,,0,51.8259242,19.3874076
+relation/13454398,Krągola,,0,52.1496956,18.227781
+relation/13458260,Krągola Pierwsza,,0,52.1451497,18.220659
+relation/1380344,Domarringen,,0,58.5812749,16.1728058
+relation/14233830,Allée du Cromlech,,0,47.574,-3.0682403
+relation/1442246,Okręgowy Inspektorat Pracy,,0,51.1068607,17.0833733
+relation/14442134,Kręgi,,0,52.5630441,21.3205349
+relation/15655081,Sąd Rejonowy i Okręgowy,,0,50.575,21.6755091
+relation/15670659,Rue du Cromlech,,0,47.387091,0.212247
+relation/16478343,Okręg do Sejmu RP nr 6,,0,51.6175626,21.6155463
+relation/16478344,Okręg do Sejmu RP nr 7,,0,51.8133585,22.3525652
+relation/16478367,Okręg do Sejmu RP nr 23,,0,50.2376794,21.1421116
+relation/16478368,Okręg do Sejmu RP nr 22,,0,49.7761044,21.2417725
+relation/16478379,Okręg do Sejmu RP nr 33,,0,50.7523931,19.7043035
+relation/16478428,Okręg do Sejmu RP nr 24,,0,53.4609517,21.5928371
+relation/16478429,Okręg do Sejmu RP nr 8,,0,52.3961392,14.5341205
+relation/16478430,Okręg do Sejmu RP nr 39,,0,52.3610745,16.4528185
+relation/16478940,Okręg do Sejmu RP nr 9,,0,51.8080724,19.3208598
+relation/16488821,Okręg do Sejmu RP nr 21,,0,50.4494483,16.907898
+relation/16488875,Okręg do Sejmu RP nr 1,,0,50.879585,14.8173748
+relation/16488890,Okręg do Sejmu RP nr 2,,0,50.7913755,16.0675733
+relation/16488949,Okręg do Sejmu RP nr 3,,0,51.6778632,16.2678036
+relation/16489242,Okręg do Sejmu RP nr 5,,0,53.1035689,18.1448736
+relation/16489689,Okręg do Sejmu RP nr 10,,0,51.2905303,18.855786
+relation/16489690,Okręg do Sejmu RP nr 11,,0,51.3499171,18.0745958
+relation/16489903,Okręg do Sejmu RP nr 13,,0,50.2591452,19.3234228
+relation/16489904,Okręg do Sejmu RP nr 12,,0,49.9505996,19.0831232
+relation/16489905,Okręg do Sejmu RP nr 15,,0,49.9712333,19.9628773
+relation/16489906,Okręg do Sejmu RP nr 14,,0,49.5611735,19.527408
+relation/16489949,Okręg do Sejmu RP nr 17,,0,51.6416143,20.3849987
+relation/16489950,Okręg do Sejmu RP nr 18,,0,52.6510265,20.6945775
+relation/16489951,Okręg do Sejmu RP nr 16,,0,52.4425912,19.2592144
+relation/16490118,Okręg do Sejmu RP nr 32,,0,50.3779837,18.9577598
+relation/16490119,Okręg do Sejmu RP nr 31,,0,50.2467749,18.792342
+relation/16490120,Okręg do Sejmu RP nr 30,,0,50.0657662,18.0350325
+relation/16490121,Okręg do Sejmu RP nr 29,,0,50.3565689,18.3577446
+relation/16490122,Okręg do Sejmu RP nr 28,,0,50.7030993,18.4782635
+relation/16490123,Okręg do Sejmu RP nr 27,,0,49.8806691,18.5656704
+relation/16490245,Okręg do Sejmu RP nr 36,,0,51.8959455,16.0982159
+relation/16490246,Okręg do Sejmu RP nr 37,,0,52.140711,16.790238
+relation/16490317,Okręg do Sejmu RP nr 34,,0,53.6021858,19.1276405
+relation/16490318,Okręg do Sejmu RP nr 35,,0,53.9139679,20.1066244
+relation/16490349,Okręg do Sejmu RP nr 41,,0,52.842942,14.1228849
+relation/16490350,Okręg do Sejmu RP nr 40,,0,53.0446754,15.2050085
+relation/16490506,Okręg do Senatu RP nr 18,,0,50.9122134,22.7571107
+relation/16490507,Okręg do Senatu RP nr 17,,0,51.8133585,22.3525652
+relation/16490508,Okręg do Senatu RP nr 14,,0,51.6175626,21.6155463
+relation/16490509,Okręg do Senatu RP nr 15,,0,50.9479551,21.8118447
+relation/16490510,Okręg do Senatu RP nr 16,,0,51.2152398,22.4537881
+relation/16490511,Okręg do Senatu RP nr 19,,0,50.3952465,22.4029451
+relation/16490556,Okręg do Senatu RP nr 42,,0,52.2877505,20.9957619
+relation/16490558,Okręg do Senatu RP nr 45,,0,52.2009766,20.8516882
+relation/16543068,Okrągły,,0,51.8067009,20.4647852
+relation/16847373,Route du Cromlech,,0,47.2508,-2.2869576
+relation/16867484,Parkplatz Steinkreis - Beim Steinkreis,,0,48.7910426,8.6660103
+relation/16867485,Reichenbach - Parkplatz Steinkreis,,0,48.7918389,8.6560062
+relation/17075670,Okręg nr 4,,0,49.9826386,21.9551194
+relation/17075671,Okręg nr 3,,0,50.0043233,21.9346704
+relation/17075672,Okręg nr 2,,0,50.0740087,21.9881193
+relation/17075673,Okręg nr 1,,0,50.0428231,21.8586836
+relation/17594400,Boucle de l'Occabé et ses cromlechs,,0,43.0369903,-1.0755295
+relation/17951350,Prokuratura Okręgowa w Sosnowcu,,0,50.2724641,19.1458018
+relation/18613743,Krąg,,0,53.9740173,18.4013713
+relation/1871615,Sąd Okręgowy w Warszawie,yes,0,52.2408934,20.9911867
+relation/19354854,Zachodniogalicyjskie cmentarze wojenne - Okręg III – Gorlice,,0,49.678695,21.13199
+relation/19365755,Zachodniogalicyjskie cmentarze wojenne - Okręg IV – Łużna,,0,49.7003409,20.9394049
+relation/19391621,Zachodniogalicyjskie cmentarze wojenne - Okręg I – Nowy Żmigród,,0,49.626,21.3755977
+relation/19391673,Zachodniogalicyjskie cmentarze wojenne - Okręg II – Jasło,,0,49.7501059,21.4768061
+relation/19996539,Sąd Okręgowy,,0,52.6491296,19.055421
+relation/20126967,Sąd Okręgowy,,0,52.7432518,15.2297194
+relation/2270518,Sąd Okręgowy w Warszawie,,0,52.2135332,21.0472537
+relation/231051,Castlerigg Stone Circle,,0,54.6037539,-3.0980682
+relation/2352075,Walk 1 - Drombeg Standing Stone Circle (7 - 9 km),,0,51.56556,-9.119385
+relation/235211,Grange Villa - Stone Row,,0,54.8635236,-1.6398091
+relation/2422355,Okrąglak,,0,53.8335622,22.3453443
+relation/2427406,Sąd Okręgowy,,0,50.0324693,22.0000399
+relation/2491586,Sąd Okręgowy w Suwałkach,,0,54.0989959,22.9495246
+relation/2570380,Sąd Okręgowy - Wydział Karny,,0,51.7729941,19.470763
+relation/2740408,Wydział Zasilania Oddziału Okręgowego NBP,,0,50.0316626,22.0341829
+relation/3205346,Okręgowy Inspektorat Pracy w Rzeszowie,,0,50.049343,22.0076708
+relation/3487081,Prokuratura Okręgowa w Gliwicach,,0,50.2999787,18.6727491
+relation/3571825,Okrąglik,,0,51.6400149,21.0226379
+relation/3853605,Okrągłe,,0,50.511708,22.7089817
+relation/3890482,Szlak Kamienne Kręgi,,0,54.2776,18.1983873
+relation/3972281,Le Plateau de Benou et les Cromlechs de Lous Couraus,,0,43.0619,-0.4570509
+relation/4801362,Szlak Kręgów Kamiennych,,0,54.2173,17.8289742
+relation/4804622,Sąd Okręgowy,,0,51.4089675,19.691339
+relation/4840005,Okręgowa Spółdzielnia Mleczarska w Kraśniku (zlikwidowana)`,,0,50.9132025,22.2495684
+relation/534369,Sąd Okręgowy w Szczecinie,,0,53.4200379,14.5469922
+relation/5455182,Schloß Krumbach - Hochhalt - Steinkreis,,0,47.5025,16.1926783
+relation/5957232,"Darlingerode, Am Steinkreis",,0,51.8488608,10.7367321
+relation/6062638,Okrąglica,,0,51.4466057,15.1541599
+relation/6118474,Okręg,,0,50.2297728,20.7451163
+relation/6229832,"Droga Pożarowa ""Okrąglica""",,0,50.076,18.8769944
+relation/6297436,Okręglik,,0,53.8083618,17.7195231
+relation/6521831,Okrągła,,0,50.45971,21.28573
+relation/6581575,Steinkreis-Strecke,,0,47.52293,16.193924
+relation/6587371,Okręglica,,0,50.8725983,21.4049411
+relation/6773110,Rozbórz Okrągły,,0,49.9127932,22.4648832
+relation/6800514,Okrągłe,,0,54.1878352,22.8136968
+relation/6846696,Rezerwat Okrąglak,,0,52.4106609,17.357096
+relation/6856222,Okrągłe,,0,53.4070404,19.9947422
+relation/6907618,Domarringen,,0,60.6627442,17.2155233
+relation/7009774,Rzeczyca Okrągła,,0,50.636796,22.0370535
+relation/7312986,Kamienne Kręgi,,0,54.0683848,16.4356005
+relation/7475933,Okręglica-Kolonia,,0,51.0431075,22.0795174
+relation/7600643,Krężnica Okrągła,,0,51.1497121,22.1847965
+relation/7600644,Krężnica Okrągła,,0,51.1579538,22.1989243
+relation/7894838,2: Chodaków Okrąglak => Energomontaż,,0,52.2569732,20.2725765
+relation/7894842,2: Energomontaż => Chodaków Okrąglak,,0,52.1954489,20.2010628
+relation/7896619,4: Chodaków Okrąglak => Energomontaż via Kozłów Biskupi,,0,52.2569732,20.2725765
+relation/7896620,4: Chodaków Okrąglak => Energomontaż,,0,52.2569732,20.2725765
+relation/7896621,4: Energomontaż => Chodaków Okrąglak via Kozłów Biskupi,,0,52.1954489,20.2010628
+relation/7896622,4: Energomontaż => Chodaków Okrąglak,,0,52.1954489,20.2010628
+relation/7896993,DHL: Olimpijska DHL => Chodaków Okrąglak,,0,52.2245389,20.2570069
+relation/7896995,DHL: Chodaków Okrąglak => Olimpijska DHL,,0,52.2569732,20.2725765
+relation/8497688,Avebury Stone Circle,,0,51.4272,-1.8531908
+relation/8778358,Rzeczyca Okrągła,,0,50.6459128,22.0549703
+relation/9386926,Stone Circles Challenge,,0,52.851,-2.0578046
+relation/9962948,Beim Steinkreis - Schwarzenberg Rossweide,,0,48.7912346,8.6667055
+way/1000292067,Okrągły,,0,50.2988032,19.2417454
+way/1003955553,Brimstone Row,,0,55.0321127,-1.6574906
+way/1004618130,Okręgowa Stacja Kontroli Pojazdów,,0,49.7635481,18.6169565
+way/100547486,Widnokręgowa,,0,49.9800066,22.0240085
+way/1006180707,Okręgowa Stacja Kontroli Pojazdów,,0,51.6404804,20.9507735
+way/100807370,Okręgowa Izba Radców Prawnych w Łodzi,,0,51.7535953,19.4734711
+way/101361709,Okręgowy Zarząd Polskiego Związku Działkowców we Wrocławiu,,0,51.1254239,17.0040356
+way/1015291974,Okręgowa Stacja Kontroli Pojazdów BSI/012,,0,52.4271666,22.8722225
+way/1019078295,Okrągły dom,,0,50.1323779,18.6608983
+way/1019376920,Trundale Gill prehistoric stone circle settlement,archaeological_site,0,54.6085516,-2.4074406
+way/1019689532,Ochotnicza Straż Pożarna w Kręgu,,0,54.0028416,18.440859
+way/101982580,Okręglik,,0,51.8352227,19.3913567
+way/1020025870,Okręgowa Stacja Kontroli Pojazdów,,0,53.3571082,21.5543985
+way/1021272167,Okręgowa Stacja Kontroli Pojazdów Kępa,,0,50.0108849,20.9023984
+way/1021352832,Okręgowa stacja kontroli pojazdów,,0,51.1547135,19.5094737
+way/1026994221,Okręgowy Urząd Miar w Bydgoszcz Wydział Zamiejscowy w Brodnicy,,0,53.2606976,19.3897623
+way/102706828,Narodowy Bank Polski - oddział okręgowy w Gdańsku,,0,54.417355,18.571436
+way/1032673942,OKRĘGOWA STACJA KONTROLI POJAZDÓW,,0,51.8884481,16.0771319
+way/1035849420,Caer Euni Stone Circles,archaeological_site,1,52.9568898,-3.5011097
+way/104032569,Archiwum Zakładowe Sądu Okręgowego w Łodzi,,0,51.7649719,19.4860547
+way/1052845455,Glastonbury's Stone Circle;Stone Circle,monument,0,51.1450032,-2.5856155
+way/1053030480,Domarringsvägen,,0,59.1692417,14.8676705
+way/1053031612,Domarringsvägen,,0,59.1688788,14.870478
+way/1053574377,Okręgowa Stacja Kontroli Pojazdów,,0,52.2725348,18.6039895
+way/1055186036,Steinkreis Hermannsberg,,0,49.5047424,7.8630215
+way/1055968176,Okrąg,,0,49.5227228,19.9228882
+way/1056634532,Rue du Cromlech,,0,47.5154667,-3.1309001
+way/106081328,Okrąglak,,0,50.7261981,17.0462324
+way/1061211101,Kamienny krąg,,0,54.2041279,18.1069404
+way/1065557068,Kręgielny Trakt,,0,50.4443912,16.4174394
+way/1067394954,Baza Małopolskiego Okręgu Związku Harcerstwa Rzeczypospolitej w Polichtach,,0,49.8150252,20.8791991
+way/107236879,Sąd Okręgowy,,0,49.8201899,19.040862
+way/1072833543,"Okręgowa Stacja Kontroli Pojazdów ""Poręba""",,0,50.4890161,19.3197623
+way/1076509003,Okręgowa Stacja Kontroli Pojazdów,,0,52.3522763,20.8534336
+way/107769705,Gorsedd Stone Circle,monument,0,51.7972016,-3.9893319
+way/1078722377,The Stone Circle,,0,54.3535839,-6.650851
+way/1080105284,Stone Rings Beck,,0,53.9674261,-1.5294829
+way/1080105285,Stone Rings Beck,,0,53.9663401,-1.5273832
+way/1080105287,Stone Rings Beck,,0,53.9679793,-1.5316656
+way/1080105288,Stone Rings Beck,,0,53.9683226,-1.5335771
+way/1080105293,Stone Rings Beck,,0,53.9686044,-1.534337
+way/1080105294,Stone Rings Beck,,0,53.969026,-1.5349759
+way/1080105295,Stone Rings Beck,,0,53.9696021,-1.5357412
+way/1080105296,Stone Rings Beck,,0,53.9709772,-1.5389876
+way/1080105297,Stone Rings Beck,,0,53.9700837,-1.5363861
+way/1080639275,Okręgowa Stacja Kontroli Pojazdów WM/001,,0,52.2547961,21.2883444
+way/1083272103,Okręgowa Stacja Kontroli Pojazdów w Górnie,,0,50.8616079,20.7933729
+way/1084255137,WronCar-Trans Okręgowa Stacja Kontroli Pojazdów,,0,51.7436791,15.0087976
+way/1085687297,Domarringsgatan,,0,57.731839,11.7719914
+way/1086441451,Domarringsvägen,,0,59.0755605,14.3225892
+way/108716870,Domarringsvägen,,0,57.1725213,14.034951
+way/108716903,Domarringsvägen,,0,57.1723265,14.036021
+way/1088260853,Kręgielny Trakt,,0,50.4688396,16.3478199
+way/1088262264,Kręgielny Trakt,,0,50.4682417,16.3523198
+way/1092015423,Okręgowa Stacja Kontroli Pojazdow EWI/003,,0,51.2384487,18.5324556
+way/1092950803,AUTO ZYK Okręgowa Stacja Kontroli Pojazdów,,0,52.409312,16.7452959
+way/1093371704,Okręgowa Stacja Kontroli Pojazdów PZMot,,0,52.1128525,19.9494243
+way/1098404915,Cromlech Court,,0,53.400159,-6.2741887
+way/1098404917,Cromlech Court,,0,53.3999365,-6.2732293
+way/1100877030,Prokuratura Okręgowa w Koszalinie,,0,54.1893961,16.1923367
+way/1102921169,Cromlech,archaeological_site,0,54.8376102,-7.7221549
+way/110718172,Ffordd Cromlech,,0,53.3289959,-3.8438755
+way/1110067254,Centralnego Okręgu Przemysłowego,,0,50.930402,21.3756633
+way/1110067257,Centralnego Okręgu Przemysłowego,,0,50.9328826,21.3780988
+way/1110091340,Discover Eden Stone Circle,,0,54.9032086,-2.9183839
+way/1110673275,Okręgowa Stacja Kontroli Pojazdów,,0,50.3786126,19.095101
+way/1113330366,Okrąg,,0,50.0435113,19.8221096
+way/1114698616,Okręgowa Stacja Kontroli Pojazdów Nowogród,,0,53.22325,21.8902246
+way/1115488689,"Okręgowa Stacja Kontroli Pojazdów "" Kokoszka""",,0,50.1836917,21.2626573
+way/111750411,Okrągła,,0,53.8381649,20.4779932
+way/111767646,Okręgowa Stacja Kontroli Pojazdów GD/013,,0,54.3110701,18.6317391
+way/1118271484,Zakręgi,,0,49.8946266,21.2325009
+way/1118480271,Stone Row,archaeological_site,0,50.4582073,-4.0094734
+way/112492136,Rondo Kręgów Kamiennych,,0,53.8032644,17.9783399
+way/1126431446,Okręgowa Stacja Kontroli Pojazdów KAM-TRANS Strzegom,,0,50.9457792,16.3335049
+way/112793326,Stone Row,,0,55.3047142,-1.613517
+way/1128196256,Askims Domarringsväg 103 förskola,,0,57.6328804,11.9589783
+way/1128305399,Domarringsvägen,,0,59.1687243,14.8676014
+way/112873115,Kręgielny Trakt,,0,50.4685999,16.3482407
+way/1136436489,Okręg PZW w Bydgoszczy,,0,53.119759,18.0213004
+way/113817174,Okręgowa Spółdzielnia Mleczarska,,0,53.0776274,21.5981196
+way/114243058,Domarringen,,0,55.7276765,13.1633337
+way/114647775,Okręgowa Stacja Kontroli Pojazdów,,0,50.201035,19.2624407
+way/1148666502,Okręgowa Stacja Kontroli Pojazdów w Wolicy,,0,52.118836,20.8702872
+way/1148781373,Okręgowa Stacja Kontroli Pojazdów Alta-Trans,,0,50.0677392,21.5897737
+way/1152255997,Mleczarska Okręgowa Spółdzielnia Łowicz,,0,53.0376123,18.6308879
+way/115434193,Kręgielna,,0,54.1634441,19.4014298
+way/1157858332,Sąd Rejonowy i Okręgowy,,0,50.5743691,21.674818
+way/116035370,Domarringsgatan,,0,57.7286749,11.7516425
+way/1160883971,"Pomnik ""Krąg Mitropa""",memorial,0,51.9461992,22.5427382
+way/1162267051,Okręgowa Stacja Kontroli Pojazdów AUTO-MAR Dariusz Marcinkiewicz,,0,52.4861855,21.3544843
+way/1172188779,Kręgierz,,0,53.0402201,18.6883749
+way/1180648205,Kamienny Krąg w Toruniu,,0,53.0471412,18.7025409
+way/1185463378,Stone circle,,0,57.072578,-2.146599
+way/1185463379,Stone Circle,,0,57.0722045,-2.1484608
+way/1185463380,Stone Circle,,0,57.0728445,-2.1479656
+way/1188033769,Okręgowa Spółdzielnia Mleczarska,,0,52.599998,22.1467174
+way/118929238,Okrąglak,,0,52.1907559,20.892732
+way/1190128042,Okręg Wieleński,,0,52.6800811,16.0740163
+way/1190840401,Okrąglica,,0,52.5007918,21.093923
+way/1190840454,Okrąglica,,0,52.5004578,21.0934607
+way/1191383392,Okręgowy Ośrodek Wychowawczy w Gackach,,0,50.4477968,20.5849927
+way/1191779185,Krąg 2,,0,52.4206549,17.0239933
+way/1195400309,Askims Domarringsväg,,0,57.6370519,11.9443304
+way/1196080988,Sąd Okręgowy w Gdańsku,,0,54.3524324,18.6386938
+way/1201560896,Okręgowa Spółdzielnia Mleczarska Garwolin,,0,51.8975759,21.5509439
+way/120169339,Am Steinkreis,,0,51.256427,6.4049115
+way/1202540534,Okręgowa Stacja Kontroli Pojazdów,,0,51.3920665,16.1850847
+way/1204425616,Okręgowa Stacja Kontroli Pojazdów Auto Technika,,0,51.235447,22.2488288
+way/120516794,Okrągła,,0,53.0311386,18.7878834
+way/1208668793,Okręgowa stacja kontroli pojazdów,,0,51.3925372,19.4081232
+way/1212849467,Krąg Solarny Kłodawa,,0,54.1979943,18.5719457
+way/1215509005,Okręgowa Stacja Kontroli Pojazdów ERA/026,,0,51.0824121,19.4137343
+way/1216299672,Kręgle,,0,50.1769826,18.7694583
+way/1217630497,Okręgowa Spółdzielnia Mleczarska w Skierniewicach,,0,51.9709103,20.1689573
+way/121854017,Okręgowa Stacja Kontroli Pojazdów - Krysgum,,0,53.7478722,20.4858085
+way/1220373161,Okręgowa Stacja Kontroli Pojazdów,,0,50.0661391,22.5009902
+way/1220501803,"Wol-Mat Woliński H. Kręgi betonowe, bloczki fundamentowe, przepusty",,0,51.4571312,22.5599388
+way/122069557,Sąd Okręgowy,,0,53.7782999,20.4835065
+way/122251090,Saddlestone Circle,,0,52.0376758,-2.7162214
+way/122267619,Centralnego Okręgu Przemysłowego,,0,50.9302111,21.3755045
+way/1222820090,Tartak Okrąglak,,0,53.4358726,22.8027999
+way/122494875,Sąd Okręgowy - Wydział Cywilny,,0,51.772946,19.4714545
+way/1225769422,Łódzka Okrąglicka,,0,51.7489079,18.1540114
+way/1225769423,Łódzka Okrąglicka,,0,51.7493038,18.1523462
+way/1225769424,Kołobrzeska Okrąglicka,,0,51.7475956,18.1520872
+way/1225769425,Kołobrzeska Okrąglicka,,0,51.7475244,18.1521016
+way/1226043037,Lemar. Okręgowa stacja kontroli pojazdów,,0,54.3373186,18.6017335
+way/1228343428,Okręgowa Izba Lekarska,,0,54.3639534,18.6292077
+way/1229990944,Kamienny Krąg Mocy,,0,51.2479557,20.7564401
+way/1230346552,Okrągła,,0,53.8802225,14.4483638
+way/1234109479,Polski Związek Łowiecki - Zarząd Okręgowy Radom,,0,51.4880426,21.1102511
+way/1234603880,Okręgowa Stacja Kontroli Pojazdów,,0,51.6879834,21.5577567
+way/1236131605,Carrieblair Stone Circle,archaeological_site,1,57.836872,-4.1762738
+way/1236719870,Bogton Stone Circle,archaeological_site,1,57.6310213,-3.2171647
+way/1237221022,Brimstone Row,,0,55.0323042,-1.6568612
+way/1237221023,Brimstone Row,,0,55.0322955,-1.6563343
+way/124192104,Okręgowa Stacja Kontroli Pojazdów WX-24,,0,52.2731401,21.0287032
+way/1252552594,Domarringsgatan,,0,57.7285565,11.7510813
+way/125807882,Okrąglica,,0,50.1847426,18.9799281
+way/1269027199,Hinkelsteinkreisel,,0,49.7391906,8.6138549
+way/1273013928,Okręgowy Ośrodek Wychowawczy,,0,53.0050475,17.7202921
+way/1275306004,Sąd Okręgowy,,0,52.7430045,15.2299416
+way/1275306012,Sąd Okręgowy,,0,52.7433928,15.2295645
+way/127605891,Domarringsvägen,,0,59.3931612,16.4256314
+way/127670655,Prokuratura Okręgowa w Bydgoszczy,,0,53.1161099,17.9585229
+way/1280116480,Okręgowa Stacja Kontroli Pojazdów,,0,50.7426285,18.4433997
+way/1284694483,Okrąglak,,0,50.0516924,19.9449172
+way/1284836719,Brimstone Row,,0,55.0319899,-1.6575262
+way/1292930033,Forteca Kręgliccy,,0,52.2572902,21.0064884
+way/1298165058,"Domek ""Okrąglik 1101""",,0,49.3366869,22.4357716
+way/129859329,Jezioro Okrąglak,,0,52.4161959,17.3597773
+way/130041624,Okrąg,,0,52.2288457,21.0356596
+way/1301391545,Okręgowa Stacja Kontroli Pojazdów Szorc Auto Serwis,,0,53.142676,23.2170114
+way/1302251088,Domarringen,yes,1,58.6281823,16.5833358
+way/130658910,Okręgowa Stacja Kontroli Pojazdów,,0,49.75107,18.6711154
+way/1306992350,Centralnego Okręgu Przemysłowego,,0,51.068058,21.0540704
+way/1306992352,Centralnego Okręgu Przemysłowego,,0,51.0688087,21.054174
+way/1306992353,Centralnego Okręgu Przemysłowego,,0,51.0692202,21.0541778
+way/1308479894,Okrągła,,0,52.3179713,21.0654146
+way/1308479895,Okrągła,,0,52.3180291,21.0654823
+way/1308479896,Okrągła,,0,52.3180002,21.0655593
+way/1308603444,Centralnego Okręgu Przemysłowego,,0,51.0654081,21.0589524
+way/1308804657,Centralnego Okręgu Przemysłowego,,0,51.0693683,21.0562103
+way/1309013542,Cromlech Close,,0,53.2399502,-6.1949655
+way/1311199426,Centralnego Okręgu Przemysłowego,,0,51.0691758,21.058103
+way/1311199427,Centralnego Okręgu Przemysłowego,,0,51.067947,21.0608666
+way/1311199429,Centralnego Okręgu Przemysłowego,,0,51.0653463,21.059141
+way/1311819790,Impasse du Cromlech,,0,48.5402458,-1.7419257
+way/1316531322,Stone Circle,,0,51.8786337,-9.5876075
+way/1316531323,Stone Circle,,0,51.8784533,-9.5884462
+way/131665718,Rue du Cromlech,,0,47.3870914,0.212247
+way/131947223,Domarringsvägen,,0,59.4750125,18.0949797
+way/131947224,Domarringsvägen,,0,59.4752147,18.0964069
+way/131947226,Domarringsvägen,,0,59.472454,18.0916323
+way/1320080977,Folkestone Rowing Club,,0,51.073551,1.1459716
+way/1322518392,Gorsedd Stone Circle,ruins,0,53.2211414,-4.1658273
+way/1324948706,Am Steinkreis,,0,51.8487452,10.7372294
+way/132569582,Okręgowy Urząd Miar w Łodzi,,0,51.7722833,19.4760652
+way/1326443706,Rondo Centralnego Okręgu Przemysłowego,,0,50.5701396,21.7016788
+way/1327476434,Megalithen-Steinkreis,,0,48.9778768,15.3442896
+way/133226847,Okręgowa Stacja Kontroli Pojazdów KRA / 030,,0,50.1143608,19.9671981
+way/1341065789,"Prokuratura Okręgowa w Gdańsku, 8 Wydział ds. Wojskowych",,0,54.403808,18.586563
+way/1343098166,Okręgowa Stacja Ratownictwa Górniczego,,0,50.1822462,19.2904545
+way/134810534,Okręgowa Spółdzielnia Mleczarska w Aleksandrowie Kujawskim,,0,52.8766718,18.6919415
+way/1352734872,Cuparstone Row,,0,57.1403097,-2.114573
+way/135564069,Domarringsvägen,,0,58.1274377,12.1263313
+way/1356171219,Okręgowa Stacja Kontroli Pojazdów Serwis samochodowy,,0,51.6563494,15.1486084
+way/135726408,Okręgowa Stacja Kontroli Pojazdów CT/017,,0,53.0242075,18.5864057
+way/1357733293,Okręgliki,,0,49.9294318,18.5623012
+way/1364060916,Prokuratura okręgowa i regionalna (w budowie),,0,50.2725952,18.9674448
+way/1365049600,Altenröder Steinkreis,archaeological_site,1,51.8492062,10.7353872
+way/1376324360,Stone Row,,0,54.5691449,-0.8986553
+way/1377495622,"Okręgowa Stacja Kontroli Pojazdów ""Delux""",,0,54.2465863,20.8206261
+way/138623010,Okręglik,,0,50.0077841,20.0529314
+way/1387626379,Buckstone Circle,,0,55.9050157,-3.197239
+way/1391102689,Okręgowy Ośrodek Wychowawczy w Mrozach,,0,52.1769216,21.8067449
+way/1395932015,Centralnego Okręgu Przemysłowego,,0,50.5424292,22.0428592
+way/139749928,Muzeum Okręgowe im. Leona Wyczółkowskiego,,0,53.1245546,18.0029088
+way/140235047,Zaokręgiem,,0,51.922928,22.3624091
+way/1413323146,Ochotnicza Straż Pożarna w Rzeczycy Okrągłej,,0,50.6475181,22.0537144
+way/142397506,Sąd Okręgowy,building,0,54.1599053,19.4055608
+way/1426659333,Krąg,,0,53.1428808,23.2809002
+way/1430703924,Przystań kajakowa Kręgski Młyn,,0,53.9898912,18.472506
+way/1434662935,Czosnkowy Krąg,,0,52.6427173,22.7639684
+way/144566754,Okręgowy Urząd Miar w Bydgoszczy,,0,53.1313037,17.9938037
+way/145118035,Stone circle,,0,51.5627302,-3.0283061
+way/145402125,Okręgowa Stacja Kontroli Pojazdów,,0,51.7841509,19.4653834
+way/146137831,Cromlech Park,,0,54.0679464,-6.0068386
+way/146137833,Cromlech Park,,0,54.0671361,-6.0053766
+way/146137837,Cromlech Park,,0,54.0674036,-6.0044803
+way/146137838,Cromlech Park,,0,54.0683213,-6.007777
+way/1464456962,Okręgowa Stacja Kontroli Pojazdów,,0,50.9650903,22.1708935
+way/146490050,Prokuratura Okręgowa w Zamościu,,0,50.7109233,23.2677207
+way/1465699060,Okręgowa Spółdzielnia Mleczarska w Kole - Baza Grabów,,0,52.1299127,19.0057256
+way/1474255674,Sąd Okręgowy,,0,52.7437067,15.2281173
+way/1474255677,Sąd Okręgowy,,0,52.7438986,15.2303947
+way/147469712,Adama Kręglewskiego,,0,52.3758335,16.9799015
+way/1476176481,Okręgowa Spółdzielnia Mleczarska Pszczyna,,0,49.9767539,18.9548117
+way/1481132233,Okręgowy Urząd Górniczy,,0,51.2653731,22.5739281
+way/148505848,Prokuratura Okręgowa w Warszawie,yes,0,52.2125985,21.0222294
+way/148554341,Kręgielny Trakt,,0,50.4692593,16.3421416
+way/1489680992,Kręgielnia Złoty Łan,,0,51.838215,15.7096058
+way/1490422363,Sąd Okręgowy,,0,52.7437635,15.2284308
+way/1490422364,Sąd Okręgowy,,0,52.7438986,15.2303947
+way/1493184067,Okręgowa Stacja Kontroli Pojazdów,,0,49.5465409,20.3809402
+way/1493867520,Okręgowa Stacja Kontroli Pojazdów,,0,50.9108498,21.3855342
+way/149719335,Okręgowa Stacja Kontroli Pojazdów EZD/014,,0,51.5992992,18.9462461
+way/1498205537,Okręgowa Izba Pielęgniarek i Położnych w Bydgoszczy,,0,53.10607,17.9751563
+way/150186714,Okręgowa Stacja Kontroli Pojazdów EZD/010,,0,51.6104282,18.9479257
+way/1508988551,Okręgowa Stacja Kontroli Pojazdów Kowalczyk Holding,,0,52.2466604,19.3778941
+way/151217595,Okręgowa stacja kontroli pojazdów,,0,50.1479288,19.3978647
+way/151595465,Świętokrzyska Okręgowa Izba Architektów,,0,50.8679462,20.6491233
+way/151913827,Okrąglak,,0,50.0516856,19.9448283
+way/152212120,Cromlech Gardens,,0,55.1688917,-6.702131
+way/152212127,Cromlech Court,,0,55.1681828,-6.7021204
+way/152212130,Cromlech Park,,0,55.1680777,-6.7034458
+way/152214684,Cromlech Mews,,0,55.1692022,-6.7036472
+way/1522839623,Narodowy Bank Polski Oddział Okręgowy w Łodzi,,0,51.7684679,19.4540008
+way/152586136,Domarringen,yes,1,60.4522862,15.466635
+way/1535860824,Ośrodek zarybieniowy Okręgu Polskiego Związku Wędkarskiego w Krośnie Hodowla i połów ryb Folusz,,0,49.6090571,21.3687537
+way/1537561429,Rondo Staropolskiego Okręgu Przemysłowego,,0,50.902005,20.6250166
+way/1537561430,Rondo Staropolskiego Okręgu Przemysłowego,,0,50.9016932,20.6250349
+way/1537561431,Rondo Staropolskiego Okręgu Przemysłowego,,0,50.9017264,20.6248532
+way/1537561432,Rondo Staropolskiego Okręgu Przemysłowego,,0,50.9019613,20.6251801
+way/1537561433,Rondo Staropolskiego Okręgu Przemysłowego,,0,50.9017191,20.6251481
+way/1537561434,Rondo Staropolskiego Okręgu Przemysłowego,,0,50.9018305,20.6247616
+way/1537561435,Rondo Staropolskiego Okręgu Przemysłowego,,0,50.901942,20.6248089
+way/1540369729,Stone Row,,0,54.5691237,-0.8988215
+way/1540730140,Sąd Okręgowy w Opolu,,0,50.6660285,17.9278381
+way/154237649,Okręgowa Stacja Kontroli Pojazdów,,0,53.7072721,17.5786784
+way/15435480,Krąg,,0,53.9802503,18.0896571
+way/1548635468,"Leśnictwo Gawłowskie, Okrągłe, Złatna",,0,49.4912654,19.1664087
+way/1550211097,Jezioro Okrągłe,,0,53.4828982,16.0700719
+way/1551188865,Steinkreis Zislow,,0,53.4315283,12.3105237
+way/1553511549,ForRest Camp Kręgiel,,0,53.3541353,18.0035911
+way/1555507958,Centralnego Okręgu Przemysłowego,,0,51.0678395,21.0611748
+way/1555507959,Centralnego Okręgu Przemysłowego,,0,51.0693683,21.0562103
+way/155905400,Polski Związek Działkowców Okręgowy Zarząd Małopolski,,0,50.0874569,19.9203993
+way/1560461023,Centralnego Okręgu Przemysłowego,,0,50.9293966,21.3741985
+way/1560461024,Centralnego Okręgu Przemysłowego,,0,50.9294915,21.3744281
+way/156818290,Okrąglica,,0,50.5802853,19.3725764
+way/158008490,Okręgowa Stacja Ratownictwa Górniczego,,0,50.3403854,18.9292543
+way/158540935,Rezerwat Kręgi Kamienne,,0,50.9696346,20.5727894
+way/159487415,Prokuratura Okręgowa w Olsztynie,,0,53.780764,20.4853856
+way/163203288,Skwer Pomorskiego Okręgu Wojskowego,,0,53.1387797,18.0244109
+way/164866337,Okręgowa Izba Pielęgniarek i Położnych,,0,52.4005869,16.8810025
+way/164911660,Krąg - dom kultury,,0,52.3904729,16.8997493
+way/165306859,Domarringsgatan,,0,57.7288169,11.7523237
+way/165306860,Domarringsgatan,,0,57.7297373,11.760309
+way/165306861,Domarringsgatan,,0,57.7299346,11.7607295
+way/165336141,Domarringsgatan,,0,57.7306812,11.7807561
+way/165336142,Domarringsgatan,,0,57.7305874,11.7809844
+way/166249739,Okręglik,,0,51.8252908,19.4114844
+way/166535237,Okrąglak,,0,50.7151849,23.273558
+way/167821345,Muzeum Okręgowe Ziemi Kaliskiej,,0,51.7606991,18.0818209
+way/167998827,Duży Krąg Taneczny,,0,50.2880661,18.9821408
+way/168896341,Staw Okrągły,,0,49.9337823,18.7404925
+way/169011867,Droga na Okrągłe,,0,51.400364,22.4296471
+way/169274812,Okręgowa Spółdzielnia Mleczarska,,0,54.3379791,18.2033834
+way/169882713,Okręgliki,,0,49.9260446,18.5592636
+way/170908395,Okręgowa Stacja Kontroli Pojazdów Dacar,,0,51.4731983,21.4729427
+way/172010442,Okręgowa Stacja Kontroli Pojazdów w Suwałkach,,0,54.0991653,22.9119247
+way/172228025,Okręg Międzychodzki,,0,52.645719,16.0609953
+way/172826323,Domarringsgatan,,0,57.7309746,11.7798127
+way/173469892,Okręgowa,,0,51.7224931,19.468038
+way/173863266,Jezioro Okrągłe Borskie,,0,53.6392802,16.4069505
+way/173917446,110kV Krągola - Władysławów,,0,52.1280268,18.4503638
+way/173997861,Okrąglicka,,0,50.0920187,19.3941904
+way/174282817,Okręgowa Stacja Kontroli Pojazdów Michałów,,0,51.5920835,19.0105112
+way/174483658,Okręgowa Stacja Kontroli Pojazdów DAMAL,,0,51.7494999,19.3180234
+way/174598419,Sąd Okręgowy,,0,50.3024925,19.0008931
+way/174810545,Okrągłe,,0,53.6492807,18.0762659
+way/175020082,Kręgielnia,,0,52.956008,15.8355458
+way/175805491,Okrąglak,,0,50.7838558,19.1421301
+way/176716441,Okręgowa Stacja Kontroli Pojazdów,,0,51.3893444,21.1308589
+way/176757450,Okręgowa Stacja Kontroli Pojazdów EZD/003 Wicar,,0,51.6875752,18.9691681
+way/177435896,Okręgowa Stacja Kontroli Pojazdów,,0,52.121842,20.6793207
+way/177582176,Okręgowa stacja kontroli pojazdów,,0,52.1738362,20.8368411
+way/177914211,Muzeum Okręgowe w Sieradzu,,0,51.594623,18.7387312
+way/178138973,Prokuratura Okręgowa w Krośnie,,0,49.689049,21.7582922
+way/178396191,Muzeum Okręgowe w Sieradzu,,0,51.59481,18.7388724
+way/178556818,Okręgowa stacja kontroli pojazdów,,0,50.9727469,16.3508337
+way/179613706,Okrągłe,,0,54.0587025,22.6938061
+way/179950830,Okręgowy Szpital Kolejowy,,0,50.2264126,18.9586902
+way/179993916,Okręgowa Stacja Kontroli Pojazdów Autopol,,0,52.5316699,16.8331497
+way/180169506,Sąd Okręgowy,building,0,50.2872716,19.1339785
+way/181223362,Kamienne Kręgi,archaeological_site,1,54.0675363,16.4342459
+way/181227750,Ferienwohnung am Steinkreis,,0,47.8005546,8.1776763
+way/181318841,Okręgowa Stacja Chemiczno-Rolnicza w Lublinie,,0,51.2648629,22.512954
+way/182823042,Sąd Okręgowy w Radomiu,,0,51.3986434,21.1524708
+way/182831048,Sąd Okręgowy w Koszalinie,,0,54.1920583,16.1992986
+way/183755419,Ellmauer Steinkreis,,0,47.544256,12.3063657
+way/183961615,Okrąg,,0,54.3761457,18.6315084
+way/184467301,Okrągła,,0,53.8788435,14.4467291
+way/184492421,Druidensteinkreis,,0,48.122464,11.6355075
+way/18751612,Okrągła,,0,53.7685092,20.4363133
+way/188481356,Stone Circle,,0,52.4229488,-1.4980398
+way/192146978,Budowa 4 kręgu Opery Nova,,0,53.1240868,17.9978956
+way/192484156,Okrągły Staw,,0,50.6251068,18.5613057
+way/192931223,Park Okrąglik,,0,50.2388469,19.2251246
+way/192961828,Okręgowa Stacja Kontroli Pojazdów,,0,51.2596977,22.620309
+way/193089712,Staw Okrągły,,0,49.8521991,18.779493
+way/193594880,Okrągłe,,0,52.2596474,15.5711379
+way/193684541,Okrąglak Residence,,0,50.286173,19.1496787
+way/193925034,Okręgowy Urząd Miar w Gorzowie Wielkopolskim,,0,52.7304229,15.2272928
+way/193954018,Okręgowa Stacja Chemiczno-Rolnicza,,0,52.7276308,15.2439104
+way/193966867,Sąd Okręgowy,,0,52.7428396,15.2292551
+way/193972296,TOP-TOMYŚL Okręgowa Spółdzielnia Mleczarska,,0,52.3048099,16.1285428
+way/194449890,rondo Centralnego Okręgu Przemysłowego,,0,50.4192364,21.753311
+way/194556150,Okręgowa Stacja Kontroli Pojazdów,,0,52.0692396,20.4478461
+way/195032906,Okręgowa Stacja Kontroli Pojazdów PCKPiEZ,,0,50.0645503,22.2351527
+way/196935713,Sąd Okręgowy w Koninie,,0,52.2269532,18.2524727
+way/197213728,Prokuratura Okręgowa w Rzeszowie,,0,50.0251277,21.9974158
+way/197437407,Jezioro Okrągłe,,0,53.0790457,15.7816142
+way/198144395,Domarringsvägen,,0,56.2850943,14.5420575
+way/198207150,Okrąglak - Zespół Poradni Specjalistycznych,,0,50.3479693,18.9073225
+way/198491325,"Kręgielnia klasyczna - Klub Kręglarski ""Dziewiątka-Amica"" Wronki",,0,52.7067416,16.3766833
+way/199266978,Okręgowa Komisja Egzaminacyjna w Łodzi,,0,51.7768206,19.4136531
+way/199306664,Okręgowa Stacja Kontroli Pojazdów WX064,,0,52.2867304,21.0927802
+way/199999547,Cmentarz parafialny w Rozbórzu Okrągłym,,0,49.9253651,22.4811441
+way/200610410,Okrągłe,,0,54.2651991,22.9019343
+way/201172621,Sąd Okręgowy,,0,52.5429229,19.6871178
+way/201503738,Sąd Okręgowy w Kielcach,,0,50.8651975,20.6348334
+way/202025853,"Okręgowa stacja kontroli pojazdów ""Lambda""",,0,50.2709818,19.0662361
+way/202161900,Muzeum Okręgowe w Rzeszowie,,0,50.035091,22.0011496
+way/202207629,Okręgowa Izba Radców Prawnych w Rzeszowie,,0,50.0342486,21.9942648
+way/202500714,Rezerwat Kręgi Kamienne,,0,53.89752,17.9901004
+way/203779867,Okręgowa Stacja Kontroli Pojazdów RKE/011,,0,50.2747179,22.4078858
+way/204178600,Prokuratura Okręgowa w Jeleniej Górze,,0,50.8980484,15.7382291
+way/205106300,Okręglik,,0,50.0062251,20.0542102
+way/205175503,Okręgowa Stacja Kontroli Pojazdów,,0,52.170807,20.610933
+way/205772962,Przedszkole Miejskie nr 27 Okrąglaczek,,0,50.8996761,15.7477811
+way/206684395,Okręgowa Stacja Kontroli Pojazdów,,0,49.9339077,18.5489766
+way/206803334,Okrągła,,0,53.8774503,14.4637692
+way/207020332,Okręgowy Inspektorat Służby Więziennej,,0,50.67347,17.9205236
+way/208307382,Okręgowa Komisja Egzaminacyjna w Jaworznie,,0,50.2033786,19.2725963
+way/210045451,Kręgielnia,,0,50.096593,18.2179729
+way/210375097,Stone circle.,archaeological_site,1,56.5302462,-3.4605259
+way/211509925,Bar Okrąglak,,0,50.2183691,18.9633549
+way/211548302,Narodowy Bank Polski - Oddział Okręgowy w Białymstoku,,0,53.1295194,23.15353
+way/211768113,"""JL"" Okręgowa Stacja Kontroli Pojazdów",,0,51.2369678,22.5830785
+way/212766122,Domarringsvägen,,0,59.0247174,17.5360228
+way/212766123,Domarringsvägen,,0,59.024936,17.5353727
+way/214314775,Okręgowa Stacja Chemiczno-Rolnicza w Łodzi,,0,51.7772467,19.5306903
+way/218002258,IV Wydział Pracy i Ubezpieczeń Społecznych - Sąd Okręgowy w Częstochowie,,0,50.8101603,19.1132123
+way/218706639,Rue des Cromlechs,,0,42.8153962,0.5538088
+way/219047679,Rondo Centralnego Okręgu Przemysłowego,,0,50.0727364,21.6899804
+way/219267847,"Okręgowa Stacja Kontroli Pojazdów ""MOTYL""",,0,50.4919556,19.2230187
+way/219284691,"Okręgowa Stacja Kontroli Pojazdów ""ZET""",,0,50.2966267,19.1017453
+way/219307479,Okręgowa Stacja Kontroli Pojazdów,,0,50.353959,19.073847
+way/219344856,Okręgowa Stacja Kontroli Pojazdów Interpromex,,0,50.325757,19.143102
+way/219825573,Okręgowy Inspektorat Pracy,,0,53.1373392,23.1643298
+way/220233975,Galeria Sztuki Muzeum Okręgowego,,0,51.845348,16.5739924
+way/220541688,Sąd Okręgowy,,0,51.9372242,15.5033081
+way/220673668,Okręgowy Inspektorat Służby Więziennej,,0,53.126783,23.117555
+way/220759567,Okręgowy Urząd Miar we Wrocławiu Wydział Zamiejscowy w Nysie,,0,50.4704447,17.3329857
+way/220962970,Okręgowa Stacja Kontroli Pojazdów,,0,50.3191357,19.0100114
+way/221977456,Okręgowa Stacja Kontroli Pojazdów,,0,50.9346455,16.7635157
+way/222219165,Zielony Krąg,,0,52.0720099,20.9986899
+way/223069260,Narodowy Bank Polski - Oddział Okręgowy,,0,51.9403633,15.4903229
+way/224085211,Muzeum Okręgowe,,0,54.1043588,22.9269174
+way/22428357,Domarringsvägen,,0,57.9852132,13.7756967
+way/225418342,Okręgowa Stacja Kontroli Pojazdów WM/010,,0,52.2700005,21.3642626
+way/226047630,Okręgowa Stacja Kontroli Pojazdów,,0,53.2738029,19.83728
+way/226704448,Okręgowa Stacja Kontroli Pojazdów,,0,54.11815,17.9735748
+way/226935294,Okręgowa Stacja Kontroli Pojazdów GWE/010,,0,54.596956,18.411841
+way/227199466,Okrąglicka,,0,51.7491173,18.1532759
+way/227199476,Okrąglicka,,0,51.7476897,18.1527634
+way/22763038,Cromlech Fields,,0,53.2445229,-6.1214758
+way/227906381,Okrąglica,,0,50.1847692,18.9827009
+way/228356354,Ruine Cabane & Cromlech,ruins,0,42.8592807,-0.6332322
+way/229322824,"Regionalne Centrum Edukacji o Pamięci, Oddział Muzeum Okręgowego w Tarnowie",,0,50.0113388,20.9758453
+way/229356190,Kręgielnia,,0,51.8311643,16.5874812
+way/229578656,Okręg,,0,54.0525,21.1533614
+way/229829805,PZŁ - Zarząd Okręgowy w Zielonej Górze,,0,51.9718856,15.5424516
+way/229932151,Kręgielny Trakt,,0,50.4670224,16.3552168
+way/23021045,Askims Domarringsväg,,0,57.6368635,11.9447449
+way/230337987,Domarringsvägen,,0,58.2452753,12.422523
+way/231111097,Prokuratura Okręgowa,,0,53.1324064,23.1645842
+way/231240117,Okrągłe,,0,54.0207004,23.0198718
+way/231375481,Sąd Okręgowy,,0,49.781415,22.7800359
+way/23266898,Okręgowa,,0,51.724821,19.4738045
+way/233057356,Okręgowa Stacja Chemiczno-Rolnicza w Białymstoku,,0,53.1357941,23.1688071
+way/23312473,Cromlech Fields,,0,53.2449393,-6.1232657
+way/23312474,Cromlech Fields,,0,53.2450587,-6.1227042
+way/23312476,Cromlech Fields,,0,53.2444423,-6.1231433
+way/23312477,Cromlech Fields,,0,53.2451671,-6.1235401
+way/23312513,Cromlech Fields,,0,53.2446427,-6.1243809
+way/23312514,Cromlech Fields,,0,53.2447797,-6.1244066
+way/23312515,Cromlech Fields,,0,53.2455033,-6.1239196
+way/233189802,Okręgowa Izba Lekarska,,0,53.1285721,23.1745609
+way/234819576,Okręgowa Stacja Kontroli Pojazdów,,0,51.6299247,15.1309927
+way/234881080,stone circle short term parking,,0,51.3670301,-2.5788201
+way/235325524,Dinas Cromlech,,0,53.0920517,-4.0483367
+way/235479422,Zarząd Okręgowy Polskiego Związku Łowieckiego,,0,51.4180294,19.7365282
+way/235970326,Sąd Okręgowy w Warszawie,,0,51.9779267,21.2172387
+way/236127824,Kręgielnia Mango,,0,53.2867177,18.9469011
+way/23651963,Domarringen,,0,60.6626127,17.2135663
+way/236717458,Okrąg,,0,52.0972335,21.0126235
+way/236761884,Okrąglak,,0,50.4689589,17.3340864
+way/237146607,Prokuratura Okręgowa w Przemyślu,,0,49.7823913,22.7657039
+way/238861811,Prokuratura Okręgowa Warszawa-Praga,yes,0,52.2646566,21.0406791
+way/239019293,Zamek w Krągu,castle,0,54.213643,16.699022
+way/240227248,Yellow Mead Stone Circle,,0,50.492864,-4.0105187
+way/240297474,okręgowa stacja kontroli pojazdów,,0,51.8099166,21.9032004
+way/241271377,Okręgowa Spółdzielnia Mleczarska w Bochni,,0,49.9947642,20.4401382
+way/24287537,Askims Domarringsväg,,0,57.6360147,11.9437345
+way/243699583,Cromlech Close,,0,55.1693206,-6.7026392
+way/243859891,Prokuratura Okręgowa w Ostrowie Wielkopolskim,,0,51.655915,17.8012182
+way/24419505,Am Steinkreis,,0,51.2568877,6.4034123
+way/244387962,Okręgowa Stacja Kontroli Pojazdów,,0,51.756214,19.55335
+way/244742069,Okręgowa Stacja Kontroli Pojazdów,,0,53.9821066,20.4085041
+way/245001130,Jezioro Okrągłe,,0,53.9313631,17.3776007
+way/24605695,Stone Row Head,,0,54.048734,-2.7756
+way/246117826,Okrąglak,,0,52.4084066,16.9220397
+way/250576390,Okręgowa Izba Lekarska,,0,53.0106796,23.0565865
+way/250584647,Templebryan Stone Circle,archaeological_site,1,51.6431443,-8.8834569
+way/251569508,Kręgielnia Tomaszów Mazowiecki,,0,51.5196293,20.0274966
+way/251819874,Centralnego Okręgu Przemysłowego,,0,51.0655369,21.065804
+way/252062861,Widnokręgowa,,0,49.9838859,22.0299893
+way/252744169,Okręgowa Stacja Kontroli Pojazdów WX /151,,0,52.2710248,21.0206396
+way/252952975,Aquhorthies Stone Circle,archaeological_site,1,57.0580206,-2.1636307
+way/253538285,Prokuratura Okręgowa w Toruniu,,0,53.0195346,18.6090164
+way/255048031,Okręgowa Stacja Kontroli Pojazdów,,0,52.8504608,15.6405917
+way/255130230,Okręgowa Stacja Kontroli Pojazdów,,0,51.5637985,15.5563417
+way/255155156,Okręgowa Spółdzielnia Mleczarska w Giżycku,,0,54.0331127,21.7874949
+way/255158637,Sąd Okręgowy we Włocławku,,0,52.6580003,19.0605107
+way/255761101,Okręglik,,0,53.8010739,17.7120429
+way/256190890,Euro-Center okręgowa stacja kontroli pojazdów,,0,50.0469295,22.1659467
+way/257197356,Sąd Okręgowy w Świdnicy,,0,50.8409666,16.4849938
+way/25765335,Domarringen,,0,55.6389455,13.1952016
+way/258257299,Okrągły Lasek,,0,50.5804617,17.3305543
+way/258498820,Okręgowa Stacja Kontroli Pojazdów - Wrocław,,0,51.3252556,16.6317833
+way/258752801,Okręgowa Stacja Kontroli Pojazdów,,0,52.0901515,21.0316007
+way/259335326,Prokuratura Okręgowa w Kielcach,,0,50.8677973,20.6317231
+way/260445069,Okręgowa Stacja Kontroli Pojazdów CT/035,,0,53.0346337,18.5866915
+way/261066993,Okręgowa Stacja Kontroli Pojazdów RTA/012,,0,50.5634035,21.8812036
+way/261421228,Sąd Okręgowy w Gdańsku,,0,54.3551468,18.6410869
+way/261510291,Muzeum Okręgowe w Koninie,,0,52.2906959,18.2568305
+way/262383145,Okręgowa stacja kontroli pojazdów,,0,51.0855567,17.7124668
+way/262383512,Okręgowa stacja kontroli pojazdów,,0,51.073793,17.7217905
+way/262385395,Okręgowa stacja kontroli pojazdów,,0,51.0844119,17.7043633
+way/26238895,Buckstone Circle,,0,55.9034387,-3.1958862
+way/262599839,Domarringen,,0,59.2543047,15.2618073
+way/262599840,Domarringen,,0,59.2530142,15.2647453
+way/262602689,Domarringens Koloniförening,,0,59.2534369,15.2571068
+way/262950688,Sąd Okręgowy w Kielcach,,0,50.8653982,20.6374899
+way/26307261,Aviemore ring cairn and stone circle,archaeological_site,1,57.1987634,-3.8274977
+way/263204864,Narodowy Bank Polski - Oddział Okręgowy w Kielcach,,0,50.878674,20.6366724
+way/263823830,Okręgowa Stacja Kontroli Pojazdów,,0,53.1247826,23.2404418
+way/26391656,Zum Steinkreis,,0,52.445245,9.9017768
+way/263997378,"Okręgowa Stacja Kontroli Pojazdów ""Spółdzielnia Kółek Rolniczych w Białej Rawskiej""",,0,51.802366,20.477766
+way/264053095,Okręgowa Stacja Kontroli Pojazdów TACH-POL,,0,51.035506,17.3150027
+way/264646189,Okręgowa Stacja Kontroli Pojazdów BGR/006,,0,53.6387309,22.4380691
+way/264841022,Adama Kręglewskiego,,0,52.3755251,16.9801867
+way/264841023,Adama Kręglewskiego,,0,52.3758335,16.9799015
+way/266592431,Okręgowa Izba Lekarska,,0,50.0340194,22.0016063
+way/266713203,Okręgowa Spółdzielnia Mleczarska,,0,50.0683997,21.695028
+way/267726692,Hurtownia mleczarska Okręgowej Spółdzielni Mleczarskiej w Łowiczu,,0,52.1146821,19.9322934
+way/268001726,Sąd Okręgowy w Rybniku,,0,50.0889966,18.5442302
+way/272539207,Sąd Okręgowy,,0,53.178461,22.0780822
+way/272601845,Okręgowa Stacja Kontroli Pojazdów,,0,49.885105,19.2383481
+way/273510570,Okręgowa,,0,49.8591059,19.112837
+way/275019483,Domarringsvägen,,0,58.0299872,11.672022
+way/275198257,Okręgowa Stacja Kontroli Pojazdów,,0,54.301782,22.2992961
+way/275353305,Okrąglica,,0,52.501168,21.0971762
+way/27570398,Domarringsvägen,,0,59.4984051,18.259882
+way/27570457,Domarringsvägen,,0,59.4987837,18.2638544
+way/27570509,Domarringsvägen,,0,59.5004397,18.2694874
+way/276221091,Jezioro Okrągłe,,0,53.2903407,14.5903839
+way/277715838,Domarringsvägen,,0,56.2546513,12.5216034
+way/28067207,NBP Oddział Okręgowy w Warszawie,,0,52.2360359,21.0136825
+way/280799044,Prokuratura Okręgowa w Łodzi,,0,51.7577211,19.4701226
+way/282761431,Okręgowa Stacja Kontroli Pojazdów EZD/006,,0,51.5898206,18.9433815
+way/283412606,Okręgowa Stacja Kontroli Pojazdów,,0,52.0532867,17.7539184
+way/283560128,Okręgowa Stacja Kontroli Pojazdów,,0,53.8467134,19.6004221
+way/283765907,Okręgowa Stacja Kontroli Pojazdów FKR/001,,0,52.0268386,15.0833801
+way/284332724,Okręgowa Izba Lekarska,,0,51.7461765,19.4588501
+way/286261666,Okręgowa Spółdzielnia Mleczarska w Piątnicy,,0,53.1997835,22.0928563
+way/286552507,Okręgowa Stacja Kontroli Pojazdów,,0,49.7566663,18.80091
+way/29098273,Zielony Krąg,,0,52.0715295,20.9972599
+way/291572422,Okręgowa Stacja Kontroli Pojazdów,,0,50.4769357,19.4567134
+way/292482077,Okręgowa Stacja Kontroli Pojazdów,,0,50.4823163,19.4130727
+way/292630645,Kamienne Kręgi w Trątkownicy,,0,54.2863566,18.2708504
+way/29335117,Okrąg,,0,52.0963876,21.0087519
+way/29335118,Okrąg,,0,52.0968318,21.0083098
+way/29335119,Okrąg,,0,52.0972265,21.0080142
+way/29335120,Okrąg,,0,52.0981917,21.0080099
+way/29335121,Okrąg,,0,52.0977246,21.0078955
+way/293938494,Okręgowa Stacja Kontroli Pojazdów,,0,52.5930148,18.9993838
+way/294010107,Domarringsvägen,,0,59.4972238,18.2607831
+way/294124229,Okręgowa Stacja Kontroli Pojazdów,,0,54.4514251,16.9850182
+way/294168138,Kręgielnia Sieraków,,0,52.6329853,16.0979425
+way/294871411,Okręgowa Stacja Kontroli Pojazdów EZD/002,,0,51.5978969,18.9393493
+way/294980129,Okręgowa Stacja Kontroli Pojazdów,,0,52.645622,19.1336893
+way/294980130,Okręgowa Stacja Kontroli Pojazdów,,0,52.6429995,19.1153635
+way/295575182,Okręgowa stacja kontroli pojazdów,,0,52.9169479,22.5252979
+way/297143690,Przedsiębiorstwo Wodociągów i Kanalizacji Okręgu Częstochowskiego,,0,50.8162487,19.1322561
+way/298312424,Stone Row,,0,53.2202867,-3.0597717
+way/298583669,Okręglica,,0,51.0171175,21.5447775
+way/298820818,Okręgowa stacja kontroli,,0,50.236133,22.1247536
+way/299132151,Krąg Ogniskowy,,0,49.2111924,22.6677459
+way/299202908,Państwowa Inspekcja Pracy Okręgowy Inspektorat Pracy w Rzeszowie. Oddział w Tarnobrzegu.,,0,50.5748686,21.6722902
+way/299458878,Okręgowa stacja kontroli pojazdów,,0,50.1488172,23.1140008
+way/300631546,Okręgowa Stacja Kontroli Pojazdów,,0,51.6582085,16.1111661
+way/300670105,Okręgowa stacja kontroli pojazdów,,0,53.3143052,22.9102189
+way/300744052,Okręgowa Stacja Kontroli Pojazdów,,0,51.6558749,16.1070141
+way/300818537,Okrąglak - nieczynne,,0,53.4048762,22.802855
+way/300957191,Okręgowy Inspektorat Pracy w Ostrowie Wielkopolskim,,0,51.6500567,17.8350974
+way/301461219,Model stone circle,monument,0,54.3983867,-3.2400676
+way/303363951,ZAiKS. Stowarzyszenie Autorów. Dyrekcja okręgowa w Poznaniu,,0,51.6485353,17.8168473
+way/303674499,Kręgłe Bagno,,0,50.582719,22.434437
+way/304790856,Okrąglak,,0,54.0403282,21.7388286
+way/304989741,Okręgowa Spółdzielnia Mleczarska Kowalew - Dobrzyca,,0,51.8919438,17.7378553
+way/305950578,Okręgowa Spółdzielnia Mleczarska - Kowalew-Dobrzyca,,0,51.8698456,17.6054333
+way/307024141,Okręgowa Stacja Kontroli Pojazdów DAPEX,,0,51.1428612,23.4944081
+way/307160004,"boisko piłkarskie ""Okrąglak""",,0,51.6278249,15.1231471
+way/307418412,Okrągła,,0,53.7681784,20.4393664
+way/307848107,Okręg Międzychodzki,,0,52.647344,16.0646767
+way/307870399,Okręg Wieleński,,0,52.6723016,16.0800375
+way/30819961,Okrągłe,,0,53.9906307,21.6590171
+way/30926692,Domarringsgränd,,0,55.7651286,12.9946101
+way/31019815,Okrągłe,,0,54.1504451,21.5112697
+way/310399910,Okręgowa Stacja Kontroli Pojazdów PRADO,,0,53.1355755,18.1867637
+way/310730043,Okręgowa Spółdzielnia Mleczarska,,0,50.8353365,21.6280163
+way/310771331,Centralnego Okręgu Przemysłowego,,0,50.5545276,22.0394566
+way/310771332,Centralnego Okręgu Przemysłowego,,0,50.5548342,22.0395405
+way/310773185,Stone Row,,0,55.1313771,-6.6721625
+way/311328510,Okręgowa stacja kontroli pojazdów,,0,49.8855491,21.4055256
+way/311662964,Millennium Stone Circle,,0,51.4593554,-0.0243692
+way/311783262,Okręgowy Urząd Górniczy,,0,52.4336452,16.9782214
+way/311839066,Okręgowa stacja kontroli pojazdów,,0,51.4688795,21.8198964
+way/313003060,Okręg Wieleński,,0,52.6767272,16.0758372
+way/31333289,Okrągła,,0,52.3180643,21.0653893
+way/31341475,Jezioro Okrągłe,,0,53.6599497,20.888524
+way/31351974,Jezioro Okrągłe,,0,53.4254388,20.017241
+way/31356107,Jezioro Okrągłe,,0,53.7992846,22.6276756
+way/314060948,Okręgowa Stacja Kontroli Pojazdów PKS Leszno,,0,51.8543353,16.5790661
+way/314914618,Sąd Okręgowy,,0,53.1179177,18.0179602
+way/315513132,Polski Związek Niewidomych. Okręg wielkopolski. Koło,,0,51.6476101,17.8143321
+way/315873475,Domarringsvägen,,0,59.0761961,14.3148421
+way/315873477,Domarringsvägen,,0,59.0752972,14.3211024
+way/315873721,Domarringsvägen,,0,59.0775454,14.3349073
+way/315873722,Domarringsvägen,,0,59.0765391,14.3323114
+way/316135641,Kamienny krąg,,0,54.4140279,18.5685119
+way/316200094,Okręgowa Stacja Kontroli Pojazdów Warszawa Białołęka,,0,52.3448761,21.0273911
+way/316204412,Okręgowa Stacja Kontroli Pojazdów - Polmozbyt-Legionowo,,0,52.4246483,20.9759829
+way/316715981,Okręgowa Stacja Kontroli Pojazdów,,0,54.1173284,20.1505443
+way/316845673,Centralnego Okręgu Przemysłowego,,0,51.0672281,21.0636113
+way/316853949,Kamieniołom Szewce na Górze Okrąglica,,0,50.8288701,20.4763301
+way/316873182,Sąd Okręgowy w Bydgoszczy,,0,53.119576,17.9986113
+way/317444072,Okręgowa Stacja Kontroli Pojazdów,,0,53.1261077,23.2484723
+way/318117526,Okręgowa Stacja Kontroli Pojazdów PZMot,,0,52.1127136,19.9496288
+way/318834462,Rondo Zdzisława Kręgielskiego,,0,52.6312721,17.1418137
+way/318942881,Okręgowa Stacja Kontroli Pojazdów w Jabłonnie,,0,52.3830456,20.9215638
+way/319018016,Pizzeria Kręgielnia Metro,,0,50.7345082,18.954728
+way/319479867,Okręgowa Stacja Kontroli Pojazdów GDA 007,,0,54.1769228,18.5297058
+way/319861633,Okręgowy Ośrodek Wychowawczy w Warszawie Falenicy,,0,52.1531189,21.2039014
+way/321372423,Okręgowy Urząd Miar w Bydgoszczy,,0,53.1312051,17.9934886
+way/32282311,Okręglica,,0,51.6046071,21.8873259
+way/323324448,Okręgowa Stacja Kontroli Pojazdów TSK/009,,0,51.0946206,20.9133622
+way/324475938,Kręgielny Trakt,,0,50.4687105,16.3479923
+way/324475940,Kręgielny Trakt,,0,50.4696761,16.3461891
+way/324855122,Okręgowa Stacja Kontroli Pojazdów,,0,49.9809917,20.0766256
+way/330144955,Okręgowa Spółdzielnia Mleczarska,,0,49.635723,20.690175
+way/330201817,Delegatura Okręgowej Izby Lekarskiej,,0,49.6204122,20.6988977
+way/33040428,Okręgowy Szpital Kolejowy,,0,51.0869051,17.0175337
+way/330839323,Cromlech Boulders,,0,53.0898347,-4.0496502
+way/330839324,Cromlech Boulders,,0,53.0901401,-4.0506309
+way/331830208,Ławeccy Okręgowa Stacja Kontroli Pojazdów,,0,53.5255389,16.0233167
+way/332154828,Okrąglak,,0,51.4550262,17.4663251
+way/332310651,Sąd Okręgowy w Poznaniu,,0,52.4141991,16.9267868
+way/332480339,Ośrodek Mazurski Okrągłe,,0,53.8888103,21.9860849
+way/333090730,Domarringsvägen,,0,58.0295869,11.6713207
+way/33387110,Steinkreis,,0,48.7924161,8.6666247
+way/33387111,Parkplatz Steinkreis,,0,48.7910908,8.664855
+way/334919950,Okręgowa Spółdzielnia Mleczarska Ostrów Wlkp.,,0,51.6427395,17.8148973
+way/335718868,Okręgowa Stacja Kontroli Pojazdów WG-12,,0,51.6879107,21.5581415
+way/336405219,TIM Okręgowa Stacja Kontroli Pojazdów,,0,53.4948697,19.3879503
+way/337833031,Okręgowa Spółdzielnia Mleczarska,,0,51.3959778,17.6635672
+way/339135471,Okręgowa Stacja Kontroli Pojazdów Auto Park,,0,53.2698502,18.1570535
+way/339880983,Okręgowa stacja kontroli pojazdów,,0,50.1770496,23.1212695
+way/34112023,Stone Circle Road,,0,52.2781767,-0.8389299
+way/34112024,Stone Circle Road,,0,52.2781875,-0.8381412
+way/34112025,Stone Circle Road,,0,52.2780353,-0.8388571
+way/34112026,Stone Circle Road,,0,52.2769985,-0.8450476
+way/34112027,Stone Circle Road,,0,52.2779421,-0.8376589
+way/342300814,Domarringsvägen,,0,56.9123466,12.6734375
+way/343290209,Sąd Okręgowy księgi wieczyste,,0,50.302726,19.0008384
+way/343714362,Okrąglak,,0,51.2656395,17.6771516
+way/344088877,Okręgowy Urząd Miar,,0,52.4000012,16.9313262
+way/345478406,Okręgowa Stacja Kontroli Pojazdów,,0,49.5741817,19.8203891
+way/346890239,Niedzielski s.c. Okręgowa stacja kontroli pojazdów,,0,52.7880873,21.8702771
+way/34716220,Stone Row Court,,0,53.494766,-1.4935592
+way/34716221,Stone Row Court,,0,53.4945316,-1.4944998
+way/349929441,Kamienny krąg,,0,49.7707449,18.8825599
+way/349931835,Kamienny krąg,ruins,1,49.7354434,18.8410295
+way/349933843,Kamienny krąg,,0,49.77228,18.9356198
+way/349933844,kamienny krąg,,0,49.7800986,18.9661726
+way/350326463,kręgielnia,,0,49.5738818,22.209799
+way/351445195,Piec kręgowy Hoffmana,industrial,0,50.1127985,19.439643
+way/351453453,Okręgowa Stacja Kontroli Pojazdów,,0,51.6676826,19.7557358
+way/352314361,Integrative Kindertageseinrichtung Am Steinkreis,,0,51.2570146,6.4063366
+way/352863593,Okręgowa Stacja Kontroli Pojazdów,,0,50.8189559,16.2910898
+way/35327011,Okrąglok,,0,50.0605848,18.6764192
+way/353692618,Okręgowa stacja kontroli pojazdów SCZ/014,,0,50.7753293,19.6905944
+way/354813962,Okręgowa Stacja Kontroli Pojazdów,,0,50.179694,20.985514
+way/354963911,Kręgielny Trakt,,0,50.4636727,16.3670556
+way/355370108,Termon Stone Circle,archaeological_site,1,54.935923,-8.4477677
+way/355573837,Okręgowa Stacja Kontroli Pojazdów,,0,52.3166641,17.5843505
+way/35590186,Domarringsvägen,,0,55.8411613,14.0903831
+way/355918628,Okręgowa Stacja Kontroli Pojazdów ROCAR,,0,50.1614495,18.6972038
+way/356317468,Okrąglik,,0,49.3072909,22.416174
+way/356348162,W. Kręgielski,,0,51.7350506,19.4510119
+way/357860766,Temple Wood Stone Circles Park,,0,56.123533,-5.4991231
+way/357860767,Temple Wood Stone Circle,archaeological_site,1,56.1237991,-5.4984874
+way/358376140,Okręgowa Stacja Kontroli Pojazdów,,0,52.75406,17.4806846
+way/358501972,Okręgowa stacja kontroli pojazdów,,0,51.2080777,16.1285143
+way/358638637,Okręgowa Stacja Kontroli Pojazdów,,0,50.9670864,18.7444664
+way/358721988,Okręgowa Stacja Kontroli Pojazdów,,0,51.1401465,21.9771882
+way/358722736,Okręgowa Spółdzielnia Mleczarska w Opolu Lubelskim,,0,51.1443054,21.9753028
+way/359242129,Stone Row,,0,55.1300117,-6.6709303
+way/359658574,Okręgowa Stacja Kontroli Pojazdów,,0,54.363813,18.490504
+way/360767409,Okręgowa Spółdzielnia Mleczarska w Bieruniu,,0,50.0947309,19.0887106
+way/360866764,Okręgowa Stacja Kontroli Pojazdów,,0,50.4381678,21.7496941
+way/361414798,Okręgowa Stacja Kontroli Pojazdów RKL004,,0,50.2417525,21.7823817
+way/36270276,Okrąglak,,0,50.0966952,18.5465939
+way/363430107,Okręgowa Stacja Kontroli Pojazdów GCZ/001,,0,53.6698769,17.3589771
+way/363855870,Krągłe Mokradło,,0,50.4745235,16.3061655
+way/364180659,Stone Row Head,,0,54.0510722,-2.7748326
+way/364917228,Przedsiębiorstwo Wodociągów i Kanalizacji okręgu Częstochowskiego - Wydział Eksploatacji nr 2 w Olsztynie,,0,50.7562992,19.2646122
+way/365273699,Am Steinkreis,,0,51.8480396,10.7412768
+way/365325096,Am Steinkreis,,0,51.849408,10.7357818
+way/365325098,Am Steinkreis,,0,51.8492524,10.73609
+way/365325100,Am Steinkreis,,0,51.8491251,10.7363181
+way/365325103,Am Steinkreis,,0,51.8490784,10.7364074
+way/365325105,Am Steinkreis,,0,51.8486355,10.7378838
+way/365325108,Am Steinkreis,,0,51.848792,10.7370724
+way/367758623,Muzeum Kręgów Kamiennych,,0,53.890592,18.0169196
+way/368370699,Prokuratura Okręgowa w Piotrkowie Trybunalskim,,0,51.4045004,19.692016
+way/36894058,Kręgielnia Grakula,,0,51.7805884,19.4487565
+way/369554268,Domarringen,,0,60.1668829,22.7336589
+way/369825899,Steinkreis,,0,54.043705,14.0277205
+way/370405419,Okrąg,,0,50.0446523,19.8220533
+way/37114594,Allée du Cromlech,,0,47.5740589,-3.0682403
+way/371463244,Kręgielnia,,0,51.7854571,14.9769588
+way/371589785,Okręgowa Rada Adwokacka,,0,51.106165,17.0235918
+way/371631299,Okręgowy Ośrodek Wychowawczy,,0,53.4531841,14.4801849
+way/372299415,Okrąglak,,0,49.7462957,21.4729335
+way/374875069,Okręgowa Stacja Kontroli Pojazdów,,0,51.3855122,19.6754859
+way/375093898,Okręgowa Spółdzielnia Mleczarska w Giżycku. Zakład mleczarski w Szczytnie,,0,53.5646415,20.9746815
+way/375284508,Okrąglak,,0,52.4270143,19.4625513
+way/376264782,okrąglak,,0,51.0119661,15.3800548
+way/377147360,Okrągły basen z fontanną,,0,49.6858692,19.2026139
+way/379974390,Prokuratura Okręgowa,,0,51.1357221,23.4759549
+way/38098775,Stone Rings Lane,,0,53.9695748,-1.5335221
+way/38098859,Stone Rings Grange,,0,53.9698318,-1.5311862
+way/38098860,Stone Rings Grove,,0,53.9688586,-1.5308802
+way/38098896,Stone Rings Close,,0,53.9696859,-1.53246
+way/381761395,"Stara lokomotywownia ""Okrąglak""",yes,0,54.0898444,18.791163
+way/382263539,Okręgowa Stacja Kontroli Pojazdów,,0,49.6040926,19.1169608
+way/382303022,2x110kV Konin - Konin Południe; Niesłusz - Krągola,,0,52.2438613,18.2236876
+way/382303029,2x110kV Konin - Niesłusz; Niesłusz - Krągola,,0,52.2438613,18.2236876
+way/382309125,110kV Konin Niesłusz - Krągola,,0,52.2328871,18.2646759
+way/382786848,Domarringen,,0,59.3510315,17.8889881
+way/38321612,Okrąg,,0,50.0446523,19.8220533
+way/383303279,Sad Okręgowy,,0,51.9370939,15.5041355
+way/383304138,Sąd Okręgowy w Zielonej Górze,,0,51.9370307,15.5016776
+way/384006143,110kV Niesłusz - Krągola,,0,52.1544262,18.2646568
+way/384006144,Stacja elektroenergetyczna 110/15kV Krągola,,0,52.154194,18.2642539
+way/385273158,Okręgowa Stacja Kontroli Pojazdów w Wawrzeńczycach KRA/045,,0,50.1150535,20.3305649
+way/386658869,Okręgowa Stacja Kontroli Pojazdów,,0,54.1113285,18.7626298
+way/386690331,Okręgowa Stacja Kontroli Pojazdów,,0,54.0937296,18.7566146
+way/386899656,Sąd Okręgowy w Krakowie,,0,50.0644218,19.9615789
+way/38724237,Stone Row,,0,53.1025874,-3.0332332
+way/38724238,Stone Row,,0,53.1028165,-3.0322342
+way/390155827,Stone Circle War Memorial,memorial,0,58.2218837,-6.3997533
+way/392785984,Okręgowa Spółdzielnia Mleczarska Mona,,0,52.2284176,18.2344305
+way/395439953,Okręgowa Stacja Kontroli Pojazdów WGR/007,,0,51.8656811,20.8836679
+way/395581286,Okręgowa stacja kontroli pojazdów,,0,53.2719629,18.9707671
+way/395952926,Centrum Terapii Kręgosłupa Mytnik,,0,49.8243864,22.8016106
+way/396045690,"Okręgowa Stacja Kontroli Pojazdów P.W. ""Tomalik""",,0,50.715401,16.35302
+way/39717518,Kręgi,,0,52.569576,21.3500887
+way/397268623,Ochotnicza Straż Pożarna w Rozborzu Okrągłym,,0,49.9206508,22.4877013
+way/39774479,Okrąglica,,0,53.39388,20.06402
+way/398013124,Kręgielnia TKKF Sokół,,0,52.0825845,17.0195059
+way/398108146,Okręgowa Stacja Kontroli Pojazdów,,0,52.1094719,21.5959386
+way/398705945,Polski Związek Łowiecki Zarząd Okręgowy w Koninie,,0,52.2136233,18.2502817
+way/398723752,Okręgowa Stacja Kontroli Pojazdów RSA/027,,0,49.4400861,22.2082145
+way/400717135,Okręgowa stacja kontroli pojazdów,,0,49.5601964,20.7464597
+way/404769204,Okręgowa Stacja Kontroli Pojazdów,,0,51.41406,22.0011957
+way/406181307,Okręgowa Stacja Kontroli Pojazdów,,0,51.3603146,20.6423078
+way/406512608,Krąg 1,,0,52.4208288,17.02266
+way/407255970,Okrąglak,,0,52.3667821,20.5609775
+way/407592963,Steinkreis-Spirale,,0,50.379522,7.28758
+way/407686979,Okręgowa Stacja Kontroli Pojazdów,,0,53.12407,21.5112739
+way/407888451,Okręgowa Stacja Kontroli Pojazdów - GS Praszka,,0,51.0569384,18.4397951
+way/411159371,Centrum Pogrzebowe Okręgliccy,,0,50.8505946,19.9698946
+way/411619691,Okręgowy Urząd Miar Wydział Zamiejscowy w Broniszach,,0,52.2096235,20.8404175
+way/41198216,Kręgielny Trakt,,0,50.4492519,16.4045559
+way/412201310,Okręgowa Stacja Kontroli Pojazdów,,0,50.6526357,20.0438895
+way/41483325,Bezkręgowce,,0,52.2594073,21.0205396
+way/416046354,Okręgowa Stacja Kontroli Pojazdów,,0,49.9641223,20.9432985
+way/416118230,"Okręgowa Stacja Kontroli Pojazdów ""AMPEX""",,0,51.6333356,16.073253
+way/417642745,Okręgowa Stacja Kontroli Pojazdów TOP AUTO,,0,50.9250429,21.3983261
+way/418929361,Okręgowa Stacja Kontroli Pojazdów,,0,53.150747,18.1435457
+way/419045854,Okręgowa stacja kontroli pojazdów,,0,50.2229001,19.8599661
+way/419779908,Jezioro Okrągłe,,0,50.0312336,19.4862194
+way/420550860,Hotel Okrąglak,,0,50.8018204,20.4144024
+way/421128041,Okręgowa stacja kontroli pojazdów,,0,50.4955058,20.565667
+way/421963550,"Okręgowa Spółdzielnia Mleczarska w Limanowej, oddział w Tymbarku",,0,49.7315132,20.3199376
+way/422838133,Okręgowa stacja kontroli pojazdów,,0,52.5505529,18.5096196
+way/423684034,Okrąglak,,0,53.3479143,17.4900827
+way/423711750,Kręglak,,0,50.063188,22.8188925
+way/424046991,Okręgowa Izba Pielęgniarek i Położnych,,0,50.0148537,21.9761255
+way/424109257,Okręgowa Stacja Kontroli Pojazdów,,0,51.8005929,15.2529058
+way/424879379,Okręgowa Stacja Kontroli Pojazdów RSA/027. Przedsiębiorstwo wielobranżowe Grzegorz Czepiel,,0,49.4401105,22.2075511
+way/427566535,Okręgowa Spółdzielnia Mleczarska,,0,50.325311,17.586614
+way/428125017,Okręgowa Spółdzielnia Mleczarska Czarnków,,0,52.8939074,16.5450033
+way/428206836,Kręgielnia Chełmża,,0,53.1833304,18.6023783
+way/428728018,Steinkreis,,0,47.4252541,13.6233437
+way/429475305,Torhouse Stone Circle,heritage,0,54.8769083,-4.5227687
+way/43029906,Kilmallie Stone Circle,archaeological_site,1,56.8433915,-5.1213563
+way/432090850,Centralnego Okręgu Przemysłowego,,0,51.0685466,21.0541369
+way/432556676,Okręgowa Stacja Kontroli Pojazdów GSL/001,,0,54.492834,17.490841
+way/43319457,Jezioro Krąg,,0,53.7068298,16.150705
+way/434939394,Okręgowa Spółdzielnia Mleczarska w Sierpcu,,0,52.8598764,19.6608344
+way/435450975,Okręgowa Stacja Kontroli Pojazdów TKN/013,,0,51.1974622,20.3942549
+way/436072269,Okrąg,,0,54.3768201,18.6327419
+way/436072270,Okrąg,,0,54.3768201,18.6327419
+way/436157255,Okręgowy Ośrodek Dokształcania Zawodowego,,0,53.1937549,17.9651886
+way/437768720,Okrągła,,0,53.8806396,14.4546114
+way/438281919,Okrąglak,,0,51.3349612,16.0071139
+way/439117702,Okręgowa Stacja Kontroli Pojazdów,,0,50.5161281,21.437567
+way/439450710,Okręgowa Stacja Kontroli Pojazdów,,0,51.6407874,22.4483451
+way/442111628,Okręgowa Stacja Ratownictwa Górniczego,,0,50.0127199,18.4797062
+way/443450736,Okręgowa Stacja Kontroli pojazdów,,0,49.3614455,20.0034924
+way/444130731,Polfrost Internationale Spedition. Okręgowa stacja kontroli pojazdów,,0,52.2074164,18.6680555
+way/444728626,Okręgowa Spółdzielnia Mleczarska w Kole,,0,52.2104053,18.6227087
+way/444728636,Okręgowa Spółdzielnia Mleczarska w Kole,,0,52.2100556,18.6220599
+way/446303583,Łódzka Okręgowa Izba Inżynierów Budownictwa,,0,51.7796081,19.4690799
+way/446623512,Stone Circle,archaeological_site,1,56.3159005,-6.2536895
+way/447494933,Cromlech,archaeological_site,1,43.178168,-1.892859
+way/448376174,Okręgowa Stacja Kontroli Pojazdów EZD/011,,0,51.5809608,18.9109938
+way/449334797,Okręgowa Stacja Kontroli Pojazdów TK/022,,0,50.8924145,20.6526388
+way/449494697,Kręgiel,,0,53.3536174,18.0034193
+way/449494702,Plaża Kręgiel,,0,53.3536174,18.0034193
+way/449808754,Kręgiel,,0,53.3530192,18.0256463
+way/44987192,Okrągła,,0,49.8914494,21.406038
+way/450117215,Przystań Kręgiel,,0,53.3533036,18.0049073
+way/451327034,Okręgowa Stacja Kontroli Pojazdów,,0,52.4681553,17.1704683
+way/452512199,Okręgowa Stacja Kontroli Pojazdów,,0,51.8115091,19.437191
+way/454577605,Okręgowa Stacja Kontroli Pojazdów WWL/033,,0,52.3982813,21.1676754
+way/4550390,Askims Domarringsväg,,0,57.6371686,11.9453677
+way/45831287,Am Steinkreis,,0,51.8483825,10.7395995
+way/459818926,Okręgowa stacja kontroli pojazdów,,0,50.8793141,18.7717566
+way/459873078,Okręgowa stacja kontroli pojazdów,,0,50.8826251,18.7360065
+way/460133560,Cromlech Road,,0,55.979347,-4.9458172
+way/460376813,Okręgowa Stacja Kontroli Pojazdów ZMY009,,0,52.7411782,14.6966555
+way/461407685,Okręgowa Izba Pielęgniarek i Położnych,,0,51.7938518,19.4728003
+way/463248182,Okręgowa Stacja Kontroli Pojazdów Ostrowiec Świętokrzyski Serwis AUTO s.c.,,0,50.9377142,21.409501
+way/465404702,Okręgowa Stacja Kontroli Pojazdów EZG/008,,0,51.7876323,19.3217783
+way/470031921,Bar Okrąglak,,0,50.3370194,16.38531
+way/472638349,Kręgielnia,building,0,52.8855473,18.7956596
+way/472975429,"Sąd Okręgowy, Sąd Rejonowy",,0,54.1686516,19.4046866
+way/475713240,Cromlech Court,,0,53.4008209,-6.2736207
+way/475713241,Cromlech Court,,0,53.4006532,-6.2729448
+way/476063490,Okręgowa Stacja Kontroli Pojazdów TK/036,,0,50.8812302,20.5784284
+way/478296738,Jezioro Okrągłe,,0,52.5520075,15.9506349
+way/479751614,Okręgowa Stacja Kontroli Pojazdów,,0,51.396252,21.1107657
+way/479870646,Car-Gaz Okręgowa stacja kontroli pojazdów,,0,50.921035,23.1744224
+way/4831817,Brodgar Stone Circle,,0,59.0048837,-3.2320446
+way/485036613,Steinkreis,,0,47.951634,13.0605199
+way/487508853,"Okręgowa Stacja Kontroli Pojazdów ""Gepard""",,0,51.1517222,17.1262435
+way/488543371,Okręgowa Spółdzielnia Mleczarska w Piaskach,,0,51.1376476,22.8667653
+way/488861881,Okręgowa Stacja Kontroli Pojazdów EBE 017,,0,51.3514332,19.3739469
+way/489272668,Okręgowa Stacja Kontroli Pojazdów SM/002,,0,50.2045345,19.1519106
+way/491268755,Eurocash S.A. - Centrum Logistyczne Krągola,,0,52.1513713,18.2592514
+way/491268914,Ochotnicza Straż Pożarna w Krągoli,,0,52.1510391,18.2506515
+way/491680777,Serwis Samochodowy / Okręgowa Stacja Kontroli Pojazdów CEL,,0,52.3874855,16.7592874
+way/492207652,Tamera Stone Circle,,0,37.7172211,-8.5164419
+way/495479084,Konstantynowska/Okręglik,,0,51.8340653,19.3962202
+way/495484524,Konstantynowska/Okręglik,,0,51.8341556,19.3964615
+way/49777290,Okrąglak,,0,50.0153347,20.016718
+way/499907777,Okręgowa Stacja Kontroli Pojazdów,,0,51.7492593,19.3629371
+way/50083540,Route du Cromlech,,0,47.250861,-2.2869576
+way/50228684,Okręg Warszawski Związku Polskich Artystów Plastyków,,0,52.2377553,21.0124182
+way/502733915,Okręgowa stacja kontroli pojazdów,,0,53.8685569,22.6553307
+way/503915400,Okręgowa stacja kontroli pojazdów,,0,52.0746201,18.1545251
+way/504573451,Skansen Archeologiczny Muzeum Okręgowego w Koninie,,0,52.4961045,18.120953
+way/506287033,Cromlech Fields,,0,53.2443119,-6.1236638
+way/509275793,Stone Circle,memorial,0,52.7438675,-3.8892452
+way/509477369,Okręgowa Stacja Kontroli Pojazdów GCH/015,,0,53.7093767,17.5387396
+way/510649265,Mechowisko Krąg,,0,53.9806074,18.1152338
+way/511568586,Święty Krąg Kamienny,archaeological_site,0,50.8724253,16.748309
+way/51410064,Cromlech Fields,,0,53.2439329,-6.1227464
+way/51410066,Cromlech Fields,,0,53.2439329,-6.1227464
+way/515370749,Zdrowy Kręgosłup,,0,51.4045969,21.9788735
+way/515546969,Okręgowa Stacja Kontroli Pojazdów,,0,51.4258118,21.9478561
+way/517081300,Krąg ogniskowy,,0,50.2955813,18.9752113
+way/519103328,Butik Pełen Krągłości,,0,51.7936742,19.5100493
+way/52106246,Cromlech de Pirait,archaeological_site,1,42.9932156,-0.6391075
+way/521497131,Okręgowa stacja kontroli pojazdów Petroman,,0,52.5518055,18.8426804
+way/522150753,Lissacromlech,archaeological_site,0,53.4958865,-9.0841822
+way/522358929,Okręgowa Stacja Kontroli Pojazdów,,0,53.1018033,19.0663588
+way/527032797,Leśnictwo Okręglik,,0,53.8103333,17.7238416
+way/527659628,Krąg ogniskowy,,0,50.295678,18.9751697
+way/527659629,Krąg ogniskowy,,0,50.2938232,18.971846
+way/527659630,Krąg ogniskowy,,0,50.2938378,18.9717444
+way/534381132,Steinkreis der Ruhe,,0,51.5529951,7.2782123
+way/536262533,Okręgowa Stacja Kontroli Pojazdów - Krzyżanowice,,0,49.9880123,18.2634756
+way/540737144,Polski Związek Działkowców Okręgowy Zarząd Podlaski,,0,53.1124932,23.1765838
+way/542296568,Stone Row,ruins,0,50.4706554,-3.9166144
+way/542994754,Okręgowa Stacja Kontroli Pojazdów CT/017,,0,53.0246181,18.5861527
+way/544158521,Okręgowa Stacja Kontroli Pojazdów,,0,51.9842493,18.7965167
+way/544391525,Domarringens skola,,0,59.8773174,17.6254218
+way/544780078,Steinkreisch,,0,49.9643265,7.3562936
+way/545820478,Okrągły dom,,0,50.4890585,18.95872
+way/545845436,Sąd Rejonowy i Okręgowy w Radomiu,,0,51.412345,21.1524623
+way/548346539,Okręg Międzychodzki,,0,52.6428549,16.0569519
+way/548597108,Husner Okręgowa Stacja Kontroli Pojazdów,,0,53.4147382,23.5022294
+way/549227511,Cromlech Close,,0,53.2400206,-6.1963812
+way/549564304,Okręgowa Stacja Kontroli Pojazdów,,0,50.3786426,19.0954779
+way/550066763,Okręgowa Stacja Kontroli Pojazdów,,0,52.373075,16.8224284
+way/550387650,OKRĘGOWA STACJA KONTROLI POJAZDÓW Zakład Aparatury Pomiarowej Krzysztof Iszczek,,0,50.2646398,18.7102194
+way/552866962,Prokuratura Okręgowa w Radomiu,,0,51.4040229,21.1489544
+way/555224083,Croft Moraig Stone Circle,archaeological_site,1,56.6017964,-3.9603929
+way/55695105,Okręglik,,0,50.007533,20.0554565
+way/558047700,Okręgowa Stacja Kontroli Pojazdów,,0,50.6620543,21.846498
+way/55897038,Sąd Okręgowy,,0,51.2486052,22.5554827
+way/55897051,Sąd Okręgowy,,0,51.2481103,22.5558156
+way/55897174,Okręgowe Przedsiębiorstwo Geodezyjno-Kartograficzne,,0,51.2515764,22.5556398
+way/559745649,Centralnego Okręgu Przemysłowego,,0,50.5459928,22.0414551
+way/56004414,Sąd Okręgowy - Wydział Cywilny,,0,53.4407559,14.5339985
+way/56019379,Okręgowa Spółdzielnia Mleczarska,,0,52.114995,19.9539024
+way/56322998,Domarringen,,0,55.9366882,12.8140643
+way/563380705,Okręgowa Stacja Kontroli Pojazdów,,0,51.2200452,22.4616113
+way/564777398,Stone Circle,,0,51.4708432,-2.1371909
+way/565868208,Okręgowa Spółdzielnia Mleczarska,,0,50.6713153,18.691628
+way/56660486,Stone Row,,0,54.5690628,-0.8980188
+way/57035307,Stone Row,,0,54.5687233,-0.8990007
+way/5786636,Buckstone Row,,0,55.9091628,-3.1999018
+way/579514709,Rondo Staropolskiego Okręgu Przemysłowego,,0,50.9018228,20.6252526
+way/580513631,Okręgowy Inspektorat Pracy w Zielonej Górze,,0,51.9570631,15.486651
+way/584346320,Okrągła,,0,52.3178833,21.0670588
+way/58669428,Okręgowa Stacja Kontroli Pojazdów,,0,53.453328,14.5031004
+way/587873409,Okręgowa Stacja Kontroli Pojazdów,,0,52.3508615,16.5245459
+way/587983199,"Wol-Mat Woliński H. Kręgi betonowe, bloczki fundamentowe, przepusty",,0,51.4577786,22.5614305
+way/588076718,Kamienny krąg,,0,51.8719108,15.3794657
+way/588076721,Kamienny krąg,,0,51.8654236,15.3790361
+way/588227088,Kamienny krąg,,0,51.8764439,15.3818687
+way/588227714,Kamienny krąg,,0,51.8633455,15.3782065
+way/591427046,"""Pałac Sprawiedliwości"" Sąd Rejonowy i Okręgowy w Radomiu",,0,51.4115024,21.1534738
+way/59387725,Steinkreis Werpeloh,,0,52.8759695,7.4732377
+way/596014366,Okręgowa Stacja Kontroli Pojazdów Dekra,,0,52.414116,19.4600832
+way/596370462,Okręgowa Stacja Kontroli Pojazdów,,0,50.0827622,19.1320019
+way/600323037,Okręgowa Stacja Kontroli Pojazdów GS/011,,0,54.489622,17.0183815
+way/60237845,"Parowozownia ""Okrąglak""",,0,53.1428089,16.7516489
+way/60450719,Polski Związek Niewidomych Okręg Lubelski,,0,51.25337,22.5361485
+way/605942477,Steinkreisanlage Geyersberg,,0,48.3307589,15.4730288
+way/610223824,Adama Kręglewskiego,,0,52.3752961,16.9805438
+way/610522605,Singiel STS- Diabelska Kręgielnia,,0,50.7034541,17.1187261
+way/611559091,AutoLab S.C. Okręgowa Stacja Kontroli Pojazdów w Jaworzu,,0,49.8053191,18.9358397
+way/61393712,Stone Row,,0,55.1314468,-6.6707225
+way/615247797,Muzeum Okręgowe,,0,52.2895077,18.2574895
+way/615247798,Muzeum Okręgowe,,0,52.2889314,18.2569796
+way/615767837,Krągola NŻ,,0,52.1447718,18.2286853
+way/616179182,Gajda Truck Center - Okręgowa Stacji Kontroli Pojazdów,,0,51.476072,21.1279137
+way/616266099,Polski Związek Łowiecki. Zarząd Okręgowy,,0,51.4861348,21.1145507
+way/616728329,Okręgowa Stacja Kontroli Pojazdów,,0,53.7134144,17.5327079
+way/61845560,Muzeum Okręgowe w Pile,,0,53.151679,16.7435214
+way/619470682,Okręgowa Stacja Kontroli Pojazdów,,0,53.1880109,18.0696429
+way/62195126,Stone Row,,0,52.6695373,-2.4582586
+way/622279682,Okręgowa Stacja Kontroli Pojazdów,,0,52.7805107,18.5519148
+way/6233333,Stone Row,,0,53.7908124,-1.5481466
+way/624284360,Okręgowa Spółdzielnia Mleczarska,,0,51.6089786,16.8678462
+way/62720209,Stone Circle Road,,0,52.2779421,-0.8376589
+way/62780649,Cromlech Close,,0,53.2396283,-6.1958111
+way/628423519,Okręgowa Stacja Samochodów Ciężarowych DAF Service&Parts,,0,51.4515785,21.1446135
+way/628557207,Okręgowa Stacja Kontroli Pojazdów Autopatron,,0,52.786533,20.6934457
+way/630537188,"Klub osiedłowy ""KRĄG""",,0,50.3172219,19.1669881
+way/631672126,Domarringsvägen,,0,59.1704999,14.8691507
+way/631672127,Domarringsvägen,,0,59.1697689,14.8687123
+way/631672128,Domarringsvägen,,0,59.1707822,14.8695054
+way/63569275,Chemin du Cromlech,,0,47.516777,-3.1298776
+way/636940779,Maluch PUH Okręgowa Stacja Kontroli Pojazdów,,0,54.1285555,22.946503
+way/63906620,Domarringsgatan,,0,57.8056695,13.3959998
+way/640154845,Okręgowa Izba Pielęgniarek i Położnych,,0,51.417851,21.1659778
+way/641161321,Okręgowa Stacja Kontroli Pojazdów,,0,53.107071,23.1140117
+way/641490959,Okręgowa Stacja Kontroli Pojazdów,,0,52.7535985,18.3101849
+way/648503251,Okręgowa Stacja Kontroli Pojazdów WWL022,,0,52.3287589,21.2798131
+way/653471438,"Okręgowa stacja kontroli pojazdów ADK-Auto, CTR/012",,0,53.1349716,18.4707866
+way/656488408,"Okręgowa Spółdzielnia Mleczarska ""Rokitnianka""",,0,50.6310191,19.7944254
+way/656632709,Okręgowy Urząd Miar w Łodzi - Wydział Zamiejscowy w Piotrkowie Trybunalskim,,0,51.4033236,19.7003906
+way/656824707,Sąd Okręgowy w Bydgoszczy,,0,53.1196007,17.9978383
+way/659394525,Okręglik,,0,51.8263892,19.4090373
+way/660708907,"Okręgowa Stacja Kontroli Pojazdów ""AutoLeKar""",,0,51.4188356,21.149304
+way/662474113,Okręgowa Stacja Kontroli Pojazdów WOS002,,0,53.2201894,21.4616565
+way/663312235,Okręgowa Stacja Kontroli Pojazdów,,0,52.2170978,19.3365141
+way/66439481,Domarringsvägen,,0,58.7091288,13.7974608
+way/66445832,Stone Row,,0,54.569513,-0.8980501
+way/66445846,Stone Row,,0,54.5693258,-0.8976184
+way/666034020,Okręgowa Stacja Kontroli Pojazdów,,0,50.023748,20.854679
+way/666587501,Okręgowa Stacja Kontroli Pojazdów ESK 001,,0,52.0066649,20.086733
+way/667036860,Edelsteinkreisel,,0,49.7196911,7.3015462
+way/667228219,Okręgowa Stacja Kontroli Pojazdów ETM/021,,0,51.5191461,20.2298195
+way/669597172,Okręgowa Stacja Kontroli Pojazdów Mański,,0,54.2673186,18.6699195
+way/670703594,"Okręgowa Stacja Kontroli Pojazdów ""Pruszyńki-Kałużny""",,0,51.7259403,19.6400881
+way/673302123,Okręgowa Stacja Kontroli Pojazdów,,0,52.2329124,18.2286469
+way/674529972,Okręgowa Spółdzielnia Mleczarska w Limanowej,,0,49.7397117,20.3865843
+way/675968993,Loanhead Stone Circle,archaeological_site,1,57.3494191,-2.4216987
+way/67659679,Rue du Cromlech,,0,47.5163266,-3.1301044
+way/680710726,Cromlech Court,,0,53.400707,-6.2729188
+way/680710730,Cromlech Court,,0,53.4008152,-6.272865
+way/680710732,Cromlech Court,,0,53.400866,-6.2735779
+way/680710734,Cromlech Court,,0,53.40098,-6.2734731
+way/682072739,Okrąg,,0,52.0962962,21.00896
+way/682072740,Okrąg,,0,52.0968318,21.0083098
+way/684000618,Okręgowa Stacja Kontroli Pojazdów - Tupadły,,0,52.7363653,18.2645917
+way/685105662,Okręgowa Stacja Kontroli Pojazdów MPK Lublin,,0,51.2298023,22.6217599
+way/689213962,Stensättningsvägen,,0,58.9821756,17.8954415
+way/689213964,Stensättningsvägen,,0,58.9792151,17.8954911
+way/692964584,Stone circle,,0,43.9946597,18.1587633
+way/693668194,Okręgowa Stacja Kontroli Pojazdów,,0,49.9616999,21.3148149
+way/69672563,Sąd Okręgowy,,0,51.2476235,22.5594371
+way/697197429,Okręgowa Stacja Kontroli Pojazdów WPR/022,,0,52.1834693,20.7827924
+way/697283641,Diagno-Test s.c. Okręgowa stacja kontroli pojazdów,,0,52.1833135,20.7798815
+way/698759671,Okręgowa Stacja Kontroli Pojazdów WM 26,,0,52.179388,21.6044519
+way/709007859,Stone Row,,0,51.7852199,-1.4950007
+way/709230920,Okręgowa Stacja Kontroli Pojazdów,,0,52.2014475,21.1499353
+way/714724588,Okręgowa stacja kontroli pojazdów,,0,50.0326532,18.69293
+way/714738019,rondo Centralnego Okręgu Przemysłowego,,0,50.4190716,21.7535024
+way/716749971,Okręgowa Stacja Kontroli Pojazdów,,0,53.0086992,23.3337347
+way/717055422,Okręglik,,0,50.0082205,20.0634529
+way/718596375,Okręgowa Spółdzielnia Mleczarska WART-MILK z siedzibą w Sieradzu,,0,51.599945,18.718845
+way/719968017,Okręgowa Stacja Kontroli Pojazdów,,0,54.0590027,15.2763596
+way/72859022,Domarringsgatan,,0,58.3284759,15.1008977
+way/729683520,Am Steinkreis,,0,52.5446498,13.4003131
+way/730293992,"Okręgowa Spółdzielnia Mleczarska ""Maluta""",,0,54.2091933,19.1273873
+way/732968140,Steinkreis,,0,53.6594229,10.1912185
+way/741919903,Okręgowa Stacja Kontroli Pojazdów MaxTrans,,0,50.2762897,21.4708412
+way/746181558,Okręgow Stacja Kontroli Pojazdów,,0,52.2160372,21.6599312
+way/74665632,Dom Gotycki Muzeum Okręgowe,building,0,49.6247788,20.6929675
+way/749005001,Okręgowa Stacja Kontroli Pojazdów,,0,51.6584704,19.3533622
+way/754383421,Okręg Wieleński,,0,52.6809449,16.0731001
+way/758195270,Parking Kręgski Młyn,,0,53.990867,18.4662116
+way/761795551,Okręgowa Stacja Kontroli Pojazdów,,0,51.899543,21.067328
+way/763311903,Steinkreis,,0,51.4797809,7.4912595
+way/764580881,Okręgowa stacja kontroli pojazdów WĘGLOBUD,,0,52.0897803,18.5941565
+way/770704267,Kamienny krąg i krzyż poświęcony Ojcu Świętemu Janowi Pawłowi II ustawiony przez leśników Nadleśnictwa Gostynin,memorial,0,52.3749064,19.4718197
+way/771643518,Stone Circle,,0,52.882183,-4.4122152
+way/772781276,Okrągła,,0,50.3924957,19.4169696
+way/777459430,Centralnego Okręgu Przemysłowego,,0,50.5509639,22.0396686
+way/777504702,Okrągły Borek,,0,51.1809513,20.8287719
+way/77968246,Cromlech Grove,,0,55.979791,-4.9324648
+way/77968247,Cromlech Grove,,0,55.9796101,-4.9329541
+way/779969245,Okrąglica,,0,50.0185734,19.6356772
+way/780214947,Pozytywny Kręgosłup - gabinet fizjoterapii i masażu,,0,52.00197,20.9401483
+way/7814295,Danestone Circle,,0,57.1685386,-2.1488958
+way/787292986,Okręgowa stacja kontroli pojazdów,,0,52.1907235,14.7930686
+way/792280934,Okręgowa Stacja Kontroli Pojazdów,,0,52.5603574,19.7596562
+way/80892610,Sąd Okręgowy,,0,53.0105801,18.6013972
+way/810780551,Okręgowa Stacja Kontroli Pojazdów Jakim Auto s. c.,,0,53.023629,23.0586772
+way/81115475,Stone Row,,0,53.3958519,-2.0561976
+way/81522042,Widnokrąg,,0,50.0066061,19.9695125
+way/817919236,Okręgowa Stacja Kontroli Pojazdów,,0,52.5239865,19.6735901
+way/820371286,Am Steinkreis,,0,52.544791,13.400797
+way/82133863,Prokuratura Okręgowa w Koninie,,0,52.2270071,18.2644187
+way/82142603,Kręgielny Trakt,,0,50.4685999,16.3482407
+way/827150267,Geologischer Steinkreis,,0,51.4493632,8.3791259
+way/83117769,Okręgowa Stacja Kontroli Pojazdów,,0,51.610529,15.3069087
+way/831200764,Stachurscy - Myjnia TIR Radom | Okręgowa Stacja Kontroli Pojazdów,,0,51.4590173,20.9282351
+way/831786626,"Okręgowa Stacja Kontroli Pojazdów ""Przyjaźń""",,0,50.4714363,19.4048595
+way/833814883,Okręgowy Urząd Miar,,0,50.0640944,18.5512365
+way/835269899,Okręgowa Stacja Kontroli Pojazdów,,0,50.0705303,22.0198816
+way/839827460,Okręgowa Stacja Kontroli Pojazdów WWL/008,,0,52.3575495,21.2697075
+way/841310522,Okręgowa Stacja Kontroli Pojazdów Wimar,,0,50.9168204,19.3370323
+way/848832145,Okręgowa Stacja Kontroli Pojazdów EZD/008,,0,51.5751787,19.0152729
+way/852205652,Zielony Krąg,,0,52.072604,20.9982362
+way/852205653,Zielony Krąg,,0,52.0724612,20.9970408
+way/852205665,Zielony Krąg,,0,52.0726318,20.9985172
+way/852549363,Okrągłe,,0,52.1394015,20.9747109
+way/857257745,Okrąg,,0,52.0963652,21.010523
+way/8603566,Cuparstone Row,,0,57.1409613,-2.114271
+way/86564809,Sąd Okręgowy w Białymstoku,,0,53.1306593,23.1561568
+way/869881829,"MAX""Tomasz Tobiasz Okręgowa Stacja Kontroli Pojazdów",,0,51.6028476,21.9484479
+way/875592715,Okręgowa stacja kontroli pojazdów,,0,52.2275117,19.3877338
+way/87581026,Okrąglak,,0,51.4177491,21.9702673
+way/88279320,Domarringsgatan,,0,59.6189803,16.6163684
+way/884927293,Okręgowa Stacja Kontroli Pojazdów Neo-System,,0,53.2363461,19.3917457
+way/888174754,Okręgowa Stacja Kontroli Pojazdów RAF-POL,,0,50.7591634,19.223455
+way/888467689,Kręgielnia Inowrocław,,0,52.7713043,18.2733696
+way/891240457,Stone Circle,,0,53.2719025,-3.048353
+way/892686131,Kręgielny Trakt,,0,50.4671992,16.3549154
+way/895887137,Okręgowa Stacja Kontroli Pojazdów TKI/021,,0,50.8636229,20.6951599
+way/89595422,Sąd Okręgowy,,0,50.8977176,15.734594
+way/902037689,Okręgowa Stacja Kontroli Pojazdów Firma Czesław Jóźwik,,0,50.1882155,18.8731662
+way/902297807,Okręgowa Stacja Kontroli Pojazdów,,0,50.5554918,20.0515599
+way/90583474,Okręgowa Spółdzielnia Mleczarska,,0,50.8506584,19.992728
+way/906272812,"Przedsiębiorstwo Transportowe Tarzan, Okręgowa Stacja Kontroli Pojazdów RSA/032",,0,49.467296,22.2445878
+way/91212040,Prokuratura Okręgowa w Krakowie,,0,50.0651498,19.9628207
+way/91610530,Sąd Okręgowy,,0,50.2914432,18.6557061
+way/919868666,Okręgowa Stacja Kontroli Pojazdów,,0,54.1176477,19.2923941
+way/921100319,Okrąg,,0,52.0963876,21.0087519
+way/923444133,Okręgowa Stacja Kontroli Pojazdów,,0,52.8057353,18.0976249
+way/923565393,Podkarpacka Okręgowa Izba Inżynierów Budownictwa,,0,50.0607127,21.9424956
+way/924747167,Krąg,,0,50.7216669,16.7722331
+way/924798990,Cromlech du Sarrat de Cousseillot,archaeological_site,1,42.8149831,0.538587
+way/93597476,Okręgowa Stacja Kontroli Pojazdów,,0,54.3044178,18.545326
+way/93901805,Domarringens förskola,,0,58.5803271,16.1754386
+way/939385568,Widnokręgowa,,0,49.9856008,22.0382074
+way/940170035,Okręgowa Stacja Kontroli Pojazdów,,0,52.3166887,20.9978039
+way/945273945,Okręg Polskiego Związku Wędkarskiego w Tarnobrzegu,,0,50.5416397,21.6256084
+way/945496947,Strzelnica Okręglica,,0,51.5304685,18.7652718
+way/94614848,Cuparstone Row,,0,57.1405648,-2.1142534
+way/949004974,Okręgowa Stacja Kontroli Pojazdów CRA/010,,0,52.5016468,18.7144644
+way/951426173,Zaokręgiem,,0,51.9221547,22.3652957
+way/951995389,Okręgowa Stacja Kontroli Pojazdów BEL-POL,,0,50.5528586,21.1564583
+way/952002738,Komin Okręgowej Spółdzielni Mleczarskiej,,0,54.5335277,17.7583211
+way/953290882,Okrąglak,,0,50.3350069,16.3836287
+way/954070715,Okręgowa Stacja Kontroli Pojazdów WX86,,0,52.2109734,21.1068104
+way/95534495,Domarringen förskola,,0,58.5800109,16.1746914
+way/955973176,Okręgowa Stacja Kontroli Pojazdów WX/053,,0,52.265884,21.0829537
+way/958186088,Dwór Okrągła,building,0,52.7451131,19.0344415
+way/960889915,Okręgowa Stacja Kontroli Pojazdów,,0,52.2579049,21.1551701
+way/961042103,Kręgielnia OSiR,,0,50.8569387,16.3154345
+way/963089736,Okręgowa Stacja Kontroli Pojazdów,,0,52.403574,17.2276744
+way/964017406,Stone Row,archaeological_site,0,50.4307431,-3.8880947
+way/964017407,Stone Rows,archaeological_site,0,50.4345262,-3.9016587
+way/964017408,Stone Row,archaeological_site,0,50.4324085,-3.8963883
+way/96904596,Stone Row,,0,53.2337504,-1.447047
+way/969769396,Okręgowa Stacja Kontroli Pojazdów,,0,52.8868447,18.1561147
+way/973496233,Kręgielny Trakt,,0,50.4694864,16.3423074
+way/975394335,Sąd Okręgowy w Przemyślu,,0,49.781599,22.7778748
+way/975454292,Domarringen Discgolfbana,,0,59.8794359,17.6275521
+way/975985133,Stone Circle,,0,51.7194983,-3.4574959
+way/976473795,Old Town Stone Circle,,0,53.7526732,-2.0067939
+way/97986599,Sąd Okręgowy w Siedlcach,,0,52.1687653,22.2802637
+way/988737805,Domarringsvägen,,0,58.2443737,12.4225907
+way/988737807,Domarringsvägen,,0,58.244121,12.4226271
+way/988737808,Domarringsvägen,,0,58.2438954,12.4226582
+way/993673568,Okrąglica,,0,50.0186649,19.6362029
+way/995517668,Okręgowa Stacja Kontroli Pojazdów Nowosolna,,0,51.7945593,19.5830436
+way/99776509,Kręgielnia OSIR,,0,51.3933173,16.1965834
